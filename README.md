@@ -11,7 +11,7 @@ I have the compiled the following information per topic:
 * Holidays — 
 * Time zones
 
-Of course, don't expect everyone to agree on the specifics such as the countries list (e,g. unrecognized states). Source details are documented per topic, [for example](https://github.com/bhdicaire/internationalData/raw/master/countries/README.md).
+Of course, don't expect everyone to agree on the specifics such as the countries list (e.g. unrecognized states). Source details are documented per topic, [for example](https://github.com/bhdicaire/internationalData/raw/master/countries/README.md).
 
 ## Data format
 In order to use the compiled data effectively, I provide it in multiple formats:
@@ -23,7 +23,7 @@ In order to use the compiled data effectively, I provide it in multiple formats:
 
 ## Licence
 
-internationalData is licensed [CC-BY-SA-4.0](https://github.com/bhdicaire/internationalData/raw/master/LICENCSE). This licence is recommended by [Choose a License.com](https://choosealicense.com/) for non-software material such as documentation.
+*internationalData* is licensed [CC-BY-SA-4.0](https://github.com/bhdicaire/internationalData/raw/master/LICENCSE). This licence is recommended by [Choose a License.com](https://choosealicense.com/) for non-software material such as documentation.
 ## Contributing
 
 Pull requests, and all other contributions are welcome!
