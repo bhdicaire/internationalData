@@ -10,8 +10,8 @@ I have the compiled the following information:
 * Telephony — 
 * Holidays — 
 * Time — 
-
-In order to use the compiled data effective, I provide it in multiple formats:
+## Data format
+In order to use the compiled data effectively, I provide it in multiple formats:
 * Comma Separated Variable [(CSV)](https://www.ietf.org/rfc/rfc4180.txt);
 * JavaScript Object Notation [(JSON)](https://www.json.org/);
 * Tom's Obvious, Minimal Language [(TOML)](https://github.com/toml-lang/toml);
