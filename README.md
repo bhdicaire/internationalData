@@ -4,12 +4,15 @@ Using name to identify international items are a pain. The information will chan
 
 InternationalData use a combination of letters and numbers that are understood all over the world. As I use this for my own projects, I know this might not be the perfect approach for you. If you have any ideas, just open an issue and tell me what you think 💬.
 
-I have the compiled the following information:
+I have the compiled the following information per topic:
 * Air — 
-* Countries —  ISO 3166 country codes (2013 edition)
+* Countries —  UN country name and ISO 3166 country codes (2013 edition)
 * Telephony — 
 * Holidays — 
-* Time — 
+* Time zones
+
+Of course, don't expect everyone to agree on the specifics such as the countries list (e,g. unrecognized states). Source details are documented per topic, [for example](https://github.com/bhdicaire/internationalData/raw/master/countries/README.md).
+
 ## Data format
 In order to use the compiled data effectively, I provide it in multiple formats:
 * Comma Separated Variable [(CSV)](https://www.ietf.org/rfc/rfc4180.txt);
@@ -33,4 +36,4 @@ Pull requests, and all other contributions are welcome!
 
 ## Related projects
 
-* To be completed
+* [Offbeat travelling](https://www.offbeattravelling.com/spreadsheet-make-sense-of-all-countries-territories-in-world/)
