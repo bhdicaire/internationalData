@@ -1,7 +1,5 @@
 # rawData
 
-
-
 ## United Nation country names
 The [United Nations (UN) group of experts on geographical names ](https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/26th-gegn-docs/WP/WP54_UNGEGN%20WG%20Country%20Names%20Document%202011.pdf) document the short and the formal countries names for the official national languages and the UN official languages (e.g. English, French, Spanish, Russian, Chinese, and Arabic).
 
@@ -10,3 +8,33 @@ The [United Nations (UN) group of experts on geographical names ](https://unstat
 [ISO 3166 is the International Standard for country codes](https://www.iso.org/iso-3166-country-codes.html), codes for subdivisions and formerly used codes (codes that were once used to describe countries but are no longer in use).
 
 The country codes can be represented either as a two-letter code (alpha-2) which is recommended as the general purpose code, a three-letter code (alpha-3) which is more closely related to the country name and a three digit numeric code (numeric -3) which can be useful if you need to avoid using Latin script.
+
+
+## Counting Countries like a Pro with Offbeat Travelling
+
+How many countries are there in the world? The answer to this simple question is more complicated than most people think. [Offbeat Travelling](https://www.offbeattravelling.com/) identified 374 countries, de facto states, regions, territories and unrecognised states on the 8th release (e.g., 2023-03-22) of their [spreadsheet](https://www.offbeattravelling.com/spreadsheet-make-sense-of-all-countries-territories-in-world/).
+
+Sources
+| **Source** |**URL** |
+| --- | --- |
+| UN Memberstates|http://www.un.org/en/member-states/index.html|
+| UN Plus | http://www.nomadmania.travel|
+| British Foreign and Commonwealth office | https://www.gov.uk/foreign-travel-advice|
+| TCC definition | http://travelerscenturyclub.org/countries-and-territories/alphabetical-list|
+| FIFA associations | www.fifa.com/associations|
+| Been Travel App | http://apparata.se/apps/been/|
+| French Overseas Regions and Territories | https://www.youtube.com/watch?v=LQ-mwO30_68|
+| Outermost regions of the EU | https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union|
+| EU overseas countries and territories | https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union|
+| ISO Codes | https://www.iso.org/obp/ui/#search|
+| Landverzamelaars | https://landenverzamelaars.nl/landenlijst|
+| Continent (geographical) | https://en.wikipedia.org/wiki/List_of_transcontinental_countries|
+| Continent (political) | http://www.telegraph.co.uk/travel/destinations/antarctica/articles/who-owns-antarctica-and-what-can-you-do-there/|
+| UN Geoscheme | http://millenniumindicators.un.org/unsd/methods/m49/m49regin.htm|
+| Council of Europe | http://www.coe.int/en/web/about-us/our-member-states|
+| European Union | http://europa.eu/about-eu/countries/index_en.htm|
+| European Union | https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union|
+| European Union | https://en.wikipedia.org/wiki/Future_enlargement_of_the_European_Union#Special_territories_of_member_states|
+| Schengen | https://en.wikipedia.org/wiki/Microstates_and_the_European_Union|
+| Schengen | http://ec.europa.eu/dgs/home-affairs/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf|
+| Commonwealth | http://thecommonwealth.org/member-countries|
