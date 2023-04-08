@@ -1,0 +1,4662 @@
+[
+ {
+   "IATA": "A2",
+   "ICAO": "CIU",
+   "NAME": "[Cielos Airlines](https://airlinecodes.info/A2)"
+ },
+ {
+   "IATA": "A3",
+   "ICAO": "AEE",
+   "NAME": "[Aegean Airlines](https://airlinecodes.info/A3)"
+ },
+ {
+   "IATA": "A4",
+   "ICAO": "SWD",
+   "NAME": "[Southern Winds Airlines](https://airlinecodes.info/A4)"
+ },
+ {
+   "IATA": "A5",
+   "ICAO": "HOP",
+   "NAME": "[Air France Hop](https://airlinecodes.info/A5)"
+ },
+ {
+   "IATA": "A6",
+   "ICAO": "LPV",
+   "NAME": "[Air Alps Aviation](https://airlinecodes.info/A6)"
+ },
+ {
+   "IATA": "A7",
+   "ICAO": "MPD",
+   "NAME": "[Air Plus Comet](https://airlinecodes.info/A7)"
+ },
+ {
+   "IATA": "A8",
+   "ICAO": "AMF",
+   "NAME": "[Ameriflight](https://airlinecodes.info/A8)"
+ },
+ {
+   "IATA": "A9",
+   "ICAO": "TGZ",
+   "NAME": "[Georgian Airways](https://airlinecodes.info/A9)"
+ },
+ {
+   "IATA": "AA",
+   "ICAO": "AAL",
+   "NAME": "[American Airlines](https://airlinecodes.info/AA)"
+ },
+ {
+   "IATA": "AB",
+   "ICAO": "BER",
+   "NAME": "[Air Berlin](https://airlinecodes.info/AB)"
+ },
+ {
+   "IATA": "AC",
+   "ICAO": "ACA",
+   "NAME": "[Air Canada](https://airlinecodes.info/AC)"
+ },
+ {
+   "IATA": "AD",
+   "ICAO": "AZU",
+   "NAME": "[Azul Linhas Aéreas Brasileiras](https://airlinecodes.info/AD)"
+ },
+ {
+   "IATA": "AE",
+   "ICAO": "MDA",
+   "NAME": "[Mandarin Airlines](https://airlinecodes.info/AE)"
+ },
+ {
+   "IATA": "AF",
+   "ICAO": "AFR",
+   "NAME": "[Air France](https://airlinecodes.info/AF)"
+ },
+ {
+   "IATA": "AG",
+   "ICAO": "ABR",
+   "NAME": "[ASL Airlines Ireland](https://airlinecodes.info/AG)"
+ },
+ {
+   "IATA": "AH",
+   "ICAO": "DAH",
+   "NAME": "[Air Algérie](https://airlinecodes.info/AH)"
+ },
+ {
+   "IATA": "AI",
+   "ICAO": "AIC",
+   "NAME": "[Air India](https://airlinecodes.info/AI)"
+ },
+ {
+   "IATA": "AJ",
+   "ICAO": "NIG",
+   "NAME": "[Aero Contractors](https://airlinecodes.info/AJ)"
+ },
+ {
+   "IATA": "AK",
+   "ICAO": "AXM",
+   "NAME": "[AirAsia](https://airlinecodes.info/AK)"
+ },
+ {
+   "IATA": "AL",
+   "ICAO": "TXC",
+   "NAME": "[Transaviaexport](https://airlinecodes.info/AL)"
+ },
+ {
+   "IATA": "AL",
+   "ICAO": "SYX",
+   "NAME": "[Skywalk Airlines](https://airlinecodes.info/AL)"
+ },
+ {
+   "IATA": "AM",
+   "ICAO": "AMX",
+   "NAME": "[Aeroméxico](https://airlinecodes.info/AM)"
+ },
+ {
+   "IATA": "AN",
+   "ICAO": "WSN",
+   "NAME": "[Advanced Air](https://airlinecodes.info/AN)"
+ },
+ {
+   "IATA": "AO",
+   "ICAO": "AUZ",
+   "NAME": "[Australian Airlines](https://airlinecodes.info/AO)"
+ },
+ {
+   "IATA": "AP",
+   "ICAO": "ADH",
+   "NAME": "[Air One](https://airlinecodes.info/AP)"
+ },
+ {
+   "IATA": "AP",
+   "ICAO": "AIB",
+   "NAME": "[Airbus Industrie](https://airlinecodes.info/AP)"
+ },
+ {
+   "IATA": "AR",
+   "ICAO": "ARG",
+   "NAME": "[Aerolíneas Argentinas](https://airlinecodes.info/AR)"
+ },
+ {
+   "IATA": "AS",
+   "ICAO": "ASA",
+   "NAME": "[Alaska Airlines](https://airlinecodes.info/AS)"
+ },
+ {
+   "IATA": "AT",
+   "ICAO": "RAM",
+   "NAME": "[Royal Air Maroc](https://airlinecodes.info/AT)"
+ },
+ {
+   "IATA": "AU",
+   "ICAO": "AUT",
+   "NAME": "[Austral Lineas Aereas](https://airlinecodes.info/AU)"
+ },
+ {
+   "IATA": "AV",
+   "ICAO": "AVA",
+   "NAME": "[Avianca](https://airlinecodes.info/AV)"
+ },
+ {
+   "IATA": "AW",
+   "ICAO": "SCH",
+   "NAME": "[CHC Airways](https://airlinecodes.info/AW)"
+ },
+ {
+   "IATA": "AW",
+   "ICAO": "DIR",
+   "NAME": "[Dirgantara Air Service](https://airlinecodes.info/AW)"
+ },
+ {
+   "IATA": "AX",
+   "ICAO": "LOF",
+   "NAME": "[Trans States Airlines](https://airlinecodes.info/AX)"
+ },
+ {
+   "IATA": "AY",
+   "ICAO": "FIN",
+   "NAME": "[Finnair](https://airlinecodes.info/AY)"
+ },
+ {
+   "IATA": "AZ",
+   "ICAO": "ITY",
+   "NAME": "[ITA Airways](https://airlinecodes.info/AZ)"
+ },
+ {
+   "IATA": "B2",
+   "ICAO": "BRU",
+   "NAME": "[Belavia Belarusian Airlines](https://airlinecodes.info/B2)"
+ },
+ {
+   "IATA": "B3",
+   "ICAO": "BLV",
+   "NAME": "[Bellview Airlines](https://airlinecodes.info/B3)"
+ },
+ {
+   "IATA": "B4",
+   "ICAO": "GSM",
+   "NAME": "[Flyglobespan](https://airlinecodes.info/B4)"
+ },
+ {
+   "IATA": "B4",
+   "ICAO": "BCF",
+   "NAME": "[BACH Flugbetriebsges](https://airlinecodes.info/B4)"
+ },
+ {
+   "IATA": "B4",
+   "ICAO": "BKA",
+   "NAME": "[Bankair](https://airlinecodes.info/B4)"
+ },
+ {
+   "IATA": "B5",
+   "ICAO": "EXZ",
+   "NAME": "[East African Safari Air Express](https://airlinecodes.info/B5)"
+ },
+ {
+   "IATA": "B6",
+   "ICAO": "JBU",
+   "NAME": "[JetBlue](https://airlinecodes.info/B6)"
+ },
+ {
+   "IATA": "B7",
+   "ICAO": "UIA",
+   "NAME": "[Uni Airways](https://airlinecodes.info/B7)"
+ },
+ {
+   "IATA": "B8",
+   "ICAO": "ERT",
+   "NAME": "[Eritrean Airlines](https://airlinecodes.info/B8)"
+ },
+ {
+   "IATA": "B9",
+   "ICAO": "BGD",
+   "NAME": "[Air Bangladesh](https://airlinecodes.info/B9)"
+ },
+ {
+   "IATA": "BA",
+   "ICAO": "BAW",
+   "NAME": "[British Airways](https://airlinecodes.info/BA)"
+ },
+ {
+   "IATA": "BB",
+   "ICAO": "SBS",
+   "NAME": "[Seaborne Airlines](https://airlinecodes.info/BB)"
+ },
+ {
+   "IATA": "BC",
+   "ICAO": "SKY",
+   "NAME": "[Skymark Airlines](https://airlinecodes.info/BC)"
+ },
+ {
+   "IATA": "BE",
+   "ICAO": "BEE",
+   "NAME": "[Flybe](https://airlinecodes.info/BE)"
+ },
+ {
+   "IATA": "BF",
+   "ICAO": "RSR",
+   "NAME": "[Aero-Service](https://airlinecodes.info/BF)"
+ },
+ {
+   "IATA": "BF",
+   "ICAO": "BBD",
+   "NAME": "[Bluebird Cargo](https://airlinecodes.info/BF)"
+ },
+ {
+   "IATA": "BG",
+   "ICAO": "BBC",
+   "NAME": "[Biman Bangladesh Airlines](https://airlinecodes.info/BG)"
+ },
+ {
+   "IATA": "BI",
+   "ICAO": "RBA",
+   "NAME": "[Royal Brunei Airlines](https://airlinecodes.info/BI)"
+ },
+ {
+   "IATA": "BJ",
+   "ICAO": "LBT",
+   "NAME": "[Nouvel Air Tunisie](https://airlinecodes.info/BJ)"
+ },
+ {
+   "IATA": "BK",
+   "ICAO": "PDC",
+   "NAME": "[Potomac Air](https://airlinecodes.info/BK)"
+ },
+ {
+   "IATA": "BL",
+   "ICAO": "PIC",
+   "NAME": "[Jetstar Pacific](https://airlinecodes.info/BL)"
+ },
+ {
+   "IATA": "BM",
+   "ICAO": "BMR",
+   "NAME": "[bmi regional](https://airlinecodes.info/BM)"
+ },
+ {
+   "IATA": "BN",
+   "ICAO": "HZA",
+   "NAME": "[Horizon Airlines](https://airlinecodes.info/BN)"
+ },
+ {
+   "IATA": "BN",
+   "ICAO": "BNF",
+   "NAME": "[Braniff International Airways](https://airlinecodes.info/BN)"
+ },
+ {
+   "IATA": "BO",
+   "ICAO": "BOU",
+   "NAME": "[Bouraq Indonesia Airlines](https://airlinecodes.info/BO)"
+ },
+ {
+   "IATA": "BP",
+   "ICAO": "BOT",
+   "NAME": "[Air Botswana](https://airlinecodes.info/BP)"
+ },
+ {
+   "IATA": "BQ",
+   "ICAO": "BKV",
+   "NAME": "[Bukovyna Airlines](https://airlinecodes.info/BQ)"
+ },
+ {
+   "IATA": "BR",
+   "ICAO": "EVA",
+   "NAME": "[EVA Air](https://airlinecodes.info/BR)"
+ },
+ {
+   "IATA": "BS",
+   "ICAO": "BIH",
+   "NAME": "[British International Helicopters](https://airlinecodes.info/BS)"
+ },
+ {
+   "IATA": "BT",
+   "ICAO": "BTI",
+   "NAME": "[airBaltic](https://airlinecodes.info/BT)"
+ },
+ {
+   "IATA": "BU",
+   "ICAO": "CNO",
+   "NAME": "[SAS Braathens](https://airlinecodes.info/BU)"
+ },
+ {
+   "IATA": "BV",
+   "ICAO": "BPA",
+   "NAME": "[Blue Panorama Airlines](https://airlinecodes.info/BV)"
+ },
+ {
+   "IATA": "BW",
+   "ICAO": "BWA",
+   "NAME": "[Caribbean Airlines](https://airlinecodes.info/BW)"
+ },
+ {
+   "IATA": "BX",
+   "ICAO": "ABL",
+   "NAME": "[Air Busan](https://airlinecodes.info/BX)"
+ },
+ {
+   "IATA": "BY",
+   "ICAO": "TOM",
+   "NAME": "[TUI Airways](https://airlinecodes.info/BY)"
+ },
+ {
+   "IATA": "BZ",
+   "ICAO": "BDA",
+   "NAME": "[Blue Dart Aviation](https://airlinecodes.info/BZ)"
+ },
+ {
+   "IATA": "BZ",
+   "ICAO": "KEE",
+   "NAME": "[Keystone Air Services](https://airlinecodes.info/BZ)"
+ },
+ {
+   "IATA": "C0",
+   "ICAO": "CLW",
+   "NAME": "[Centralwings](https://airlinecodes.info/C0)"
+ },
+ {
+   "IATA": "C4",
+   "ICAO": "IMX",
+   "NAME": "[Zimex Aviation](https://airlinecodes.info/C4)"
+ },
+ {
+   "IATA": "C5",
+   "ICAO": "UCA",
+   "NAME": "[CommutAir](https://airlinecodes.info/C5)"
+ },
+ {
+   "IATA": "C6",
+   "ICAO": "CJA",
+   "NAME": "[CanJet](https://airlinecodes.info/C6)"
+ },
+ {
+   "IATA": "C7",
+   "ICAO": "RLE",
+   "NAME": "[Rico Linhas Aéreas](https://airlinecodes.info/C7)"
+ },
+ {
+   "IATA": "C9",
+   "ICAO": "RUS",
+   "NAME": "[Cirrus Airlines](https://airlinecodes.info/C9)"
+ },
+ {
+   "IATA": "CA",
+   "ICAO": "CCA",
+   "NAME": "[Air China](https://airlinecodes.info/CA)"
+ },
+ {
+   "IATA": "CC",
+   "ICAO": "ABD",
+   "NAME": "[Air Atlanta Icelandic](https://airlinecodes.info/CC)"
+ },
+ {
+   "IATA": "CE",
+   "ICAO": "NTW",
+   "NAME": "[Nationwide Airlines](https://airlinecodes.info/CE)"
+ },
+ {
+   "IATA": "CF",
+   "ICAO": "CYZ",
+   "NAME": "[China Postal Airlines](https://airlinecodes.info/CF)"
+ },
+ {
+   "IATA": "CG",
+   "ICAO": "TOK",
+   "NAME": "[Airlines PNG](https://airlinecodes.info/CG)"
+ },
+ {
+   "IATA": "CH",
+   "ICAO": "BMJ",
+   "NAME": "[Bemidji Airlines](https://airlinecodes.info/CH)"
+ },
+ {
+   "IATA": "CI",
+   "ICAO": "CAL",
+   "NAME": "[China Airlines](https://airlinecodes.info/CI)"
+ },
+ {
+   "IATA": "CJ",
+   "ICAO": "CBF",
+   "NAME": "[China Northern Airlines](https://airlinecodes.info/CJ)"
+ },
+ {
+   "IATA": "CJ",
+   "ICAO": "CFE",
+   "NAME": "[Cityflyer Express](https://airlinecodes.info/CJ)"
+ },
+ {
+   "IATA": "CK",
+   "ICAO": "CKK",
+   "NAME": "[China Cargo Airlines](https://airlinecodes.info/CK)"
+ },
+ {
+   "IATA": "CL",
+   "ICAO": "CLH",
+   "NAME": "[Lufthansa CityLine](https://airlinecodes.info/CL)"
+ },
+ {
+   "IATA": "CM",
+   "ICAO": "CMP",
+   "NAME": "[Copa Airlines](https://airlinecodes.info/CM)"
+ },
+ {
+   "IATA": "CN",
+   "ICAO": "GDC",
+   "NAME": "[Grand China Air](https://airlinecodes.info/CN)"
+ },
+ {
+   "IATA": "CO",
+   "ICAO": "COA",
+   "NAME": "[Continental Airlines](https://airlinecodes.info/CO)"
+ },
+ {
+   "IATA": "CP",
+   "ICAO": "CPZ",
+   "NAME": "[Compass Airlines](https://airlinecodes.info/CP)"
+ },
+ {
+   "IATA": "CQ",
+   "ICAO": "EXL",
+   "NAME": "[Sunshine Express Airlines](https://airlinecodes.info/CQ)"
+ },
+ {
+   "IATA": "CS",
+   "ICAO": "CMI",
+   "NAME": "[Continental Micronesia](https://airlinecodes.info/CS)"
+ },
+ {
+   "IATA": "CT",
+   "ICAO": "CYL",
+   "NAME": "[Alitalia CityLiner](https://airlinecodes.info/CT)"
+ },
+ {
+   "IATA": "CU",
+   "ICAO": "CUB",
+   "NAME": "[Cubana de Aviación](https://airlinecodes.info/CU)"
+ },
+ {
+   "IATA": "CV",
+   "ICAO": "CLX",
+   "NAME": "[Cargolux](https://airlinecodes.info/CV)"
+ },
+ {
+   "IATA": "CW",
+   "ICAO": "CWM",
+   "NAME": "[Air Marshall Islands](https://airlinecodes.info/CW)"
+ },
+ {
+   "IATA": "CX",
+   "ICAO": "CPA",
+   "NAME": "[Cathay Pacific](https://airlinecodes.info/CX)"
+ },
+ {
+   "IATA": "CY",
+   "ICAO": "CYP",
+   "NAME": "[Cyprus Airways](https://airlinecodes.info/CY)"
+ },
+ {
+   "IATA": "CZ",
+   "ICAO": "CSN",
+   "NAME": "[China Southern Airlines](https://airlinecodes.info/CZ)"
+ },
+ {
+   "IATA": "D3",
+   "ICAO": "DAO",
+   "NAME": "[Daallo Airlines](https://airlinecodes.info/D3)"
+ },
+ {
+   "IATA": "D4",
+   "ICAO": "LID",
+   "NAME": "[Alidaunia](https://airlinecodes.info/D4)"
+ },
+ {
+   "IATA": "D5",
+   "ICAO": "DAU",
+   "NAME": "[Dauair](https://airlinecodes.info/D5)"
+ },
+ {
+   "IATA": "D6",
+   "ICAO": "ILN",
+   "NAME": "[Interair South Africa](https://airlinecodes.info/D6)"
+ },
+ {
+   "IATA": "D7",
+   "ICAO": "XFA",
+   "NAME": "[FlyAsianXpress](https://airlinecodes.info/D7)"
+ },
+ {
+   "IATA": "D7",
+   "ICAO": "RDN",
+   "NAME": "[Dinar](https://airlinecodes.info/D7)"
+ },
+ {
+   "IATA": "D8",
+   "ICAO": "IBK",
+   "NAME": "[Norwegian Air International](https://airlinecodes.info/D8)"
+ },
+ {
+   "IATA": "D9",
+   "ICAO": "DNV",
+   "NAME": "[Aeroflot-Don](https://airlinecodes.info/D9)"
+ },
+ {
+   "IATA": "DA",
+   "ICAO": "GRG",
+   "NAME": "[Air Georgia](https://airlinecodes.info/DA)"
+ },
+ {
+   "IATA": "DB",
+   "ICAO": "BZH",
+   "NAME": "[Brit Air](https://airlinecodes.info/DB)"
+ },
+ {
+   "IATA": "DC",
+   "ICAO": "GAO",
+   "NAME": "[Golden Air](https://airlinecodes.info/DC)"
+ },
+ {
+   "IATA": "DD",
+   "ICAO": "NOK",
+   "NAME": "[Nok Air](https://airlinecodes.info/DD)"
+ },
+ {
+   "IATA": "DE",
+   "ICAO": "CFG",
+   "NAME": "[condor](https://airlinecodes.info/DE)"
+ },
+ {
+   "IATA": "DG",
+   "ICAO": "SRQ",
+   "NAME": "[Tigerair Philippines](https://airlinecodes.info/DG)"
+ },
+ {
+   "IATA": "DH",
+   "ICAO": "NAN",
+   "NAME": "[Norwegian Air Norway](https://airlinecodes.info/DH)"
+ },
+ {
+   "IATA": "DI",
+   "ICAO": "BAG",
+   "NAME": "[dba](https://airlinecodes.info/DI)"
+ },
+ {
+   "IATA": "DJ",
+   "ICAO": "PLB",
+   "NAME": "[Polynesian Blue](https://airlinecodes.info/DJ)"
+ },
+ {
+   "IATA": "DJ",
+   "ICAO": "PBN",
+   "NAME": "[Pacific Blue](https://airlinecodes.info/DJ)"
+ },
+ {
+   "IATA": "DK",
+   "ICAO": "VKG",
+   "NAME": "[Thomas Cook Airlines Scandinavia](https://airlinecodes.info/DK)"
+ },
+ {
+   "IATA": "DL",
+   "ICAO": "DAL",
+   "NAME": "[Delta Air Lines](https://airlinecodes.info/DL)"
+ },
+ {
+   "IATA": "DP",
+   "ICAO": "FCA",
+   "NAME": "[First Choice Airways](https://airlinecodes.info/DP)"
+ },
+ {
+   "IATA": "DR",
+   "ICAO": "BIE",
+   "NAME": "[Air Méditerranée](https://airlinecodes.info/DR)"
+ },
+ {
+   "IATA": "DS",
+   "ICAO": "EZS",
+   "NAME": "[easyJet Switzerland](https://airlinecodes.info/DS)"
+ },
+ {
+   "IATA": "DT",
+   "ICAO": "DTA",
+   "NAME": "[TAAG Angola Airlines](https://airlinecodes.info/DT)"
+ },
+ {
+   "IATA": "DU",
+   "ICAO": "NLH",
+   "NAME": "[Norwegian Long Haul](https://airlinecodes.info/DU)"
+ },
+ {
+   "IATA": "DV",
+   "ICAO": "ACK",
+   "NAME": "[Nantucket Airlines](https://airlinecodes.info/DV)"
+ },
+ {
+   "IATA": "DW",
+   "ICAO": "UCR",
+   "NAME": "[Aero-Charter Ukraine](https://airlinecodes.info/DW)"
+ },
+ {
+   "IATA": "DX",
+   "ICAO": "DTR",
+   "NAME": "[DAT Danish Air Transport](https://airlinecodes.info/DX)"
+ },
+ {
+   "IATA": "DY",
+   "ICAO": "NAX",
+   "NAME": "[Norwegian Air Shuttle](https://airlinecodes.info/DY)"
+ },
+ {
+   "IATA": "E0",
+   "ICAO": "ESS",
+   "NAME": "[Eos Airlines](https://airlinecodes.info/E0)"
+ },
+ {
+   "IATA": "E2",
+   "ICAO": "KMP",
+   "NAME": "[Kampuchea Airlines](https://airlinecodes.info/E2)"
+ },
+ {
+   "IATA": "E2",
+   "ICAO": "GRN",
+   "NAME": "[Rio Grande Air](https://airlinecodes.info/E2)"
+ },
+ {
+   "IATA": "E3",
+   "ICAO": "DMO",
+   "NAME": "[Domodedovo Airlines](https://airlinecodes.info/E3)"
+ },
+ {
+   "IATA": "E4",
+   "ICAO": "RSO",
+   "NAME": "[Aero Asia International](https://airlinecodes.info/E4)"
+ },
+ {
+   "IATA": "E5",
+   "ICAO": "BRZ",
+   "NAME": "[Samara Airlines](https://airlinecodes.info/E5)"
+ },
+ {
+   "IATA": "E7",
+   "ICAO": "ESF",
+   "NAME": "[Estafeta Carga Aerea](https://airlinecodes.info/E7)"
+ },
+ {
+   "IATA": "E7",
+   "ICAO": "EAF",
+   "NAME": "[European Aviation Air Charter](https://airlinecodes.info/E7)"
+ },
+ {
+   "IATA": "E8",
+   "ICAO": "ELG",
+   "NAME": "[Alpi Eagles](https://airlinecodes.info/E8)"
+ },
+ {
+   "IATA": "E9",
+   "ICAO": "CXS",
+   "NAME": "[Boston-Maine Airways](https://airlinecodes.info/E9)"
+ },
+ {
+   "IATA": "EA",
+   "ICAO": "EAL",
+   "NAME": "[Eastern Air Lines](https://airlinecodes.info/EA)"
+ },
+ {
+   "IATA": "EC",
+   "ICAO": "EJU",
+   "NAME": "[easyJet Europe](https://airlinecodes.info/EC)"
+ },
+ {
+   "IATA": "ED",
+   "ICAO": "ABQ",
+   "NAME": "[Airblue](https://airlinecodes.info/ED)"
+ },
+ {
+   "IATA": "EE",
+   "ICAO": "EAY",
+   "NAME": "[Aero Airlines](https://airlinecodes.info/EE)"
+ },
+ {
+   "IATA": "EF",
+   "ICAO": "EFA",
+   "NAME": "[Far Eastern Air Transport](https://airlinecodes.info/EF)"
+ },
+ {
+   "IATA": "EG",
+   "ICAO": "JAA",
+   "NAME": "[Japan Asia Airways](https://airlinecodes.info/EG)"
+ },
+ {
+   "IATA": "EH",
+   "ICAO": "AKX",
+   "NAME": "[ANA Wings](https://airlinecodes.info/EH)"
+ },
+ {
+   "IATA": "EI",
+   "ICAO": "EIN",
+   "NAME": "[Aer Lingus](https://airlinecodes.info/EI)"
+ },
+ {
+   "IATA": "EJ",
+   "ICAO": "NEA",
+   "NAME": "[New England Airlines](https://airlinecodes.info/EJ)"
+ },
+ {
+   "IATA": "EK",
+   "ICAO": "UAE",
+   "NAME": "[Emirates](https://airlinecodes.info/EK)"
+ },
+ {
+   "IATA": "EL",
+   "ICAO": "ANK",
+   "NAME": "[Air Nippon](https://airlinecodes.info/EL)"
+ },
+ {
+   "IATA": "EM",
+   "ICAO": "CFS",
+   "NAME": "[Empire Airlines](https://airlinecodes.info/EM)"
+ },
+ {
+   "IATA": "EN",
+   "ICAO": "DLA",
+   "NAME": "[Air Dolomiti](https://airlinecodes.info/EN)"
+ },
+ {
+   "IATA": "EO",
+   "ICAO": "ALX",
+   "NAME": "[Hewa Bora Airways](https://airlinecodes.info/EO)"
+ },
+ {
+   "IATA": "EO",
+   "ICAO": "LHN",
+   "NAME": "[Express One International](https://airlinecodes.info/EO)"
+ },
+ {
+   "IATA": "EP",
+   "ICAO": "IRC",
+   "NAME": "[Iran Aseman Airlines](https://airlinecodes.info/EP)"
+ },
+ {
+   "IATA": "EQ",
+   "ICAO": "TAE",
+   "NAME": "[TAME](https://airlinecodes.info/EQ)"
+ },
+ {
+   "IATA": "ER",
+   "ICAO": "DHL",
+   "NAME": "[Astar Air Cargo](https://airlinecodes.info/ER)"
+ },
+ {
+   "IATA": "ES",
+   "ICAO": "DHX",
+   "NAME": "[DHL International](https://airlinecodes.info/ES)"
+ },
+ {
+   "IATA": "ET",
+   "ICAO": "ETH",
+   "NAME": "[Ethiopian Airlines](https://airlinecodes.info/ET)"
+ },
+ {
+   "IATA": "EU",
+   "ICAO": "EEA",
+   "NAME": "[Ecuatoriana](https://airlinecodes.info/EU)"
+ },
+ {
+   "IATA": "EV",
+   "ICAO": "ASQ",
+   "NAME": "[ExpressJet](https://airlinecodes.info/EV)"
+ },
+ {
+   "IATA": "EW",
+   "ICAO": "EWG",
+   "NAME": "[Eurowings](https://airlinecodes.info/EW)"
+ },
+ {
+   "IATA": "EX",
+   "ICAO": "SDO",
+   "NAME": "[Air Santo Domingo](https://airlinecodes.info/EX)"
+ },
+ {
+   "IATA": "EY",
+   "ICAO": "ETD",
+   "NAME": "[Etihad Airways](https://airlinecodes.info/EY)"
+ },
+ {
+   "IATA": "EZ",
+   "ICAO": "EIA",
+   "NAME": "[Evergreen International Airlines](https://airlinecodes.info/EZ)"
+ },
+ {
+   "IATA": "EZ",
+   "ICAO": "SUS",
+   "NAME": "[Sun Air of Scandinavia](https://airlinecodes.info/EZ)"
+ },
+ {
+   "IATA": "F2",
+   "ICAO": "FLM",
+   "NAME": "[Fly Air](https://airlinecodes.info/F2)"
+ },
+ {
+   "IATA": "F3",
+   "ICAO": "FSW",
+   "NAME": "[Faso Airways](https://airlinecodes.info/F3)"
+ },
+ {
+   "IATA": "F4",
+   "ICAO": "NBK",
+   "NAME": "[Albarka Air](https://airlinecodes.info/F4)"
+ },
+ {
+   "IATA": "F5",
+   "ICAO": "COZ",
+   "NAME": "[Cosmic Air](https://airlinecodes.info/F5)"
+ },
+ {
+   "IATA": "F6",
+   "ICAO": "RCK",
+   "NAME": "[Faroejet](https://airlinecodes.info/F6)"
+ },
+ {
+   "IATA": "F7",
+   "ICAO": "BBO",
+   "NAME": "[Flybaboo](https://airlinecodes.info/F7)"
+ },
+ {
+   "IATA": "F9",
+   "ICAO": "FFT",
+   "NAME": "[Frontier Airlines](https://airlinecodes.info/F9)"
+ },
+ {
+   "IATA": "FA",
+   "ICAO": "SFR",
+   "NAME": "[Safair](https://airlinecodes.info/FA)"
+ },
+ {
+   "IATA": "FB",
+   "ICAO": "LZB",
+   "NAME": "[Bulgaria Air](https://airlinecodes.info/FB)"
+ },
+ {
+   "IATA": "FC",
+   "ICAO": "WBA",
+   "NAME": "[Finncomm Airlines](https://airlinecodes.info/FC)"
+ },
+ {
+   "IATA": "FD",
+   "ICAO": "AIQ",
+   "NAME": "[Thai AirAsia](https://airlinecodes.info/FD)"
+ },
+ {
+   "IATA": "FE",
+   "ICAO": "WCP",
+   "NAME": "[Primaris Airlines](https://airlinecodes.info/FE)"
+ },
+ {
+   "IATA": "FG",
+   "ICAO": "AFG",
+   "NAME": "[Ariana Afghan Airlines](https://airlinecodes.info/FG)"
+ },
+ {
+   "IATA": "FH",
+   "ICAO": "FHY",
+   "NAME": "[Freebird Airlines](https://airlinecodes.info/FH)"
+ },
+ {
+   "IATA": "FI",
+   "ICAO": "ICE",
+   "NAME": "[Icelandair](https://airlinecodes.info/FI)"
+ },
+ {
+   "IATA": "FJ",
+   "ICAO": "FJI",
+   "NAME": "[Fiji Airways](https://airlinecodes.info/FJ)"
+ },
+ {
+   "IATA": "FK",
+   "ICAO": "WTA",
+   "NAME": "[Africa West](https://airlinecodes.info/FK)"
+ },
+ {
+   "IATA": "FL",
+   "ICAO": "TRS",
+   "NAME": "[AirTran Airways](https://airlinecodes.info/FL)"
+ },
+ {
+   "IATA": "FM",
+   "ICAO": "CSH",
+   "NAME": "[Shanghai Airlines](https://airlinecodes.info/FM)"
+ },
+ {
+   "IATA": "FO",
+   "ICAO": "ATM",
+   "NAME": "[Airlines Of Tasmania](https://airlinecodes.info/FO)"
+ },
+ {
+   "IATA": "FP",
+   "ICAO": "FRE",
+   "NAME": "[Freedom Air](https://airlinecodes.info/FP)"
+ },
+ {
+   "IATA": "FR",
+   "ICAO": "RYR",
+   "NAME": "[Ryanair](https://airlinecodes.info/FR)"
+ },
+ {
+   "IATA": "FS",
+   "ICAO": "FOX",
+   "NAME": "[Flyr](https://airlinecodes.info/FS)"
+ },
+ {
+   "IATA": "FT",
+   "ICAO": "SRH",
+   "NAME": "[Siem Reap Airways](https://airlinecodes.info/FT)"
+ },
+ {
+   "IATA": "FV",
+   "ICAO": "PLK",
+   "NAME": "[Pulkovo Aviation Enterprise](https://airlinecodes.info/FV)"
+ },
+ {
+   "IATA": "FV",
+   "ICAO": "SDM",
+   "NAME": "[Rossiya](https://airlinecodes.info/FV)"
+ },
+ {
+   "IATA": "FW",
+   "ICAO": "IBX",
+   "NAME": "[Ibex Airlines](https://airlinecodes.info/FW)"
+ },
+ {
+   "IATA": "FX",
+   "ICAO": "FDX",
+   "NAME": "[FedEx Express](https://airlinecodes.info/FX)"
+ },
+ {
+   "IATA": "FY",
+   "ICAO": "NWR",
+   "NAME": "[Northwest Regional Airlines](https://airlinecodes.info/FY)"
+ },
+ {
+   "IATA": "FY",
+   "ICAO": "FFM",
+   "NAME": "[Firefly](https://airlinecodes.info/FY)"
+ },
+ {
+   "IATA": "FZ",
+   "ICAO": "FDB",
+   "NAME": "[Flydubai](https://airlinecodes.info/FZ)"
+ },
+ {
+   "IATA": "G0",
+   "ICAO": "GHB",
+   "NAME": "[Ghana International Airlines](https://airlinecodes.info/G0)"
+ },
+ {
+   "IATA": "G2",
+   "ICAO": "VXG",
+   "NAME": "[Avirex](https://airlinecodes.info/G2)"
+ },
+ {
+   "IATA": "G3",
+   "ICAO": "GLO",
+   "NAME": "[GOL Linhas Aéreas Inteligentes](https://airlinecodes.info/G3)"
+ },
+ {
+   "IATA": "G4",
+   "ICAO": "AAY",
+   "NAME": "[Allegiant Air](https://airlinecodes.info/G4)"
+ },
+ {
+   "IATA": "G5",
+   "ICAO": "HXA",
+   "NAME": "[China Express Airlines](https://airlinecodes.info/G5)"
+ },
+ {
+   "IATA": "G6",
+   "ICAO": "BSR",
+   "NAME": "[Guine Bissaur Airlines](https://airlinecodes.info/G6)"
+ },
+ {
+   "IATA": "G7",
+   "ICAO": "GJS",
+   "NAME": "[GoJet Airlines](https://airlinecodes.info/G7)"
+ },
+ {
+   "IATA": "G8",
+   "ICAO": "GOW",
+   "NAME": "[GoAir](https://airlinecodes.info/G8)"
+ },
+ {
+   "IATA": "G9",
+   "ICAO": "ABY",
+   "NAME": "[Air Arabia](https://airlinecodes.info/G9)"
+ },
+ {
+   "IATA": "GA",
+   "ICAO": "GIA",
+   "NAME": "[Garuda Indonesia](https://airlinecodes.info/GA)"
+ },
+ {
+   "IATA": "GB",
+   "ICAO": "ABX",
+   "NAME": "[ABX Air](https://airlinecodes.info/GB)"
+ },
+ {
+   "IATA": "GC",
+   "ICAO": "GNR",
+   "NAME": "[Gambia International Airlines](https://airlinecodes.info/GC)"
+ },
+ {
+   "IATA": "GD",
+   "ICAO": "AHA",
+   "NAME": "[Air Alpha Greenland](https://airlinecodes.info/GD)"
+ },
+ {
+   "IATA": "GE",
+   "ICAO": "TNA",
+   "NAME": "[TransAsia Airways](https://airlinecodes.info/GE)"
+ },
+ {
+   "IATA": "GF",
+   "ICAO": "GFA",
+   "NAME": "[Gulf Air](https://airlinecodes.info/GF)"
+ },
+ {
+   "IATA": "GG",
+   "ICAO": "HAH",
+   "NAME": "[Air Comores International](https://airlinecodes.info/GG)"
+ },
+ {
+   "IATA": "GG",
+   "ICAO": "GUY",
+   "NAME": "[Air Guyane](https://airlinecodes.info/GG)"
+ },
+ {
+   "IATA": "GG",
+   "ICAO": "GGC",
+   "NAME": "[Cargo 360](https://airlinecodes.info/GG)"
+ },
+ {
+   "IATA": "GH",
+   "ICAO": "GHA",
+   "NAME": "[Ghana Airways](https://airlinecodes.info/GH)"
+ },
+ {
+   "IATA": "GI",
+   "ICAO": "LHA",
+   "NAME": "[Longhao Airlines](https://airlinecodes.info/GI)"
+ },
+ {
+   "IATA": "GJ",
+   "ICAO": "EEU",
+   "NAME": "[Eurofly Service](https://airlinecodes.info/GJ)"
+ },
+ {
+   "IATA": "GJ",
+   "ICAO": "MXC",
+   "NAME": "[Compania Mexicargo](https://airlinecodes.info/GJ)"
+ },
+ {
+   "IATA": "GK",
+   "ICAO": "JJP",
+   "NAME": "[Jetstar Japan](https://airlinecodes.info/GK)"
+ },
+ {
+   "IATA": "GL",
+   "ICAO": "BSK",
+   "NAME": "[Miami Air International](https://airlinecodes.info/GL)"
+ },
+ {
+   "IATA": "GL",
+   "ICAO": "GRL",
+   "NAME": "[Air Greenland](https://airlinecodes.info/GL)"
+ },
+ {
+   "IATA": "GM",
+   "ICAO": "SVK",
+   "NAME": "[Air Slovakia](https://airlinecodes.info/GM)"
+ },
+ {
+   "IATA": "GN",
+   "ICAO": "AGN",
+   "NAME": "[Air Gabon](https://airlinecodes.info/GN)"
+ },
+ {
+   "IATA": "GO",
+   "ICAO": "KZU",
+   "NAME": "[Kuzu Airlines Cargo](https://airlinecodes.info/GO)"
+ },
+ {
+   "IATA": "GP",
+   "ICAO": "GES",
+   "NAME": "[Gestair](https://airlinecodes.info/GP)"
+ },
+ {
+   "IATA": "GP",
+   "ICAO": "PTP",
+   "NAME": "[Palau Trans Pacific Airline](https://airlinecodes.info/GP)"
+ },
+ {
+   "IATA": "GQ",
+   "ICAO": "BSY",
+   "NAME": "[Big Sky Airlines](https://airlinecodes.info/GQ)"
+ },
+ {
+   "IATA": "GR",
+   "ICAO": "AUR",
+   "NAME": "[Aurigny Air Services](https://airlinecodes.info/GR)"
+ },
+ {
+   "IATA": "GR",
+   "ICAO": "GCO",
+   "NAME": "[Gemini Air Cargo](https://airlinecodes.info/GR)"
+ },
+ {
+   "IATA": "GS",
+   "ICAO": "GCR",
+   "NAME": "[Tianjin Airlines](https://airlinecodes.info/GS)"
+ },
+ {
+   "IATA": "GT",
+   "ICAO": "GBL",
+   "NAME": "[GB Airways](https://airlinecodes.info/GT)"
+ },
+ {
+   "IATA": "GV",
+   "ICAO": "GUN",
+   "NAME": "[Grant Aviation](https://airlinecodes.info/GV)"
+ },
+ {
+   "IATA": "GW",
+   "ICAO": "KIL",
+   "NAME": "[Kuban Airlines](https://airlinecodes.info/GW)"
+ },
+ {
+   "IATA": "GX",
+   "ICAO": "JXX",
+   "NAME": "[Jetx Airlines](https://airlinecodes.info/GX)"
+ },
+ {
+   "IATA": "GY",
+   "ICAO": "TMG",
+   "NAME": "[Tri-MG Intra Asia Airlines](https://airlinecodes.info/GY)"
+ },
+ {
+   "IATA": "GZ",
+   "ICAO": "RAR",
+   "NAME": "[Rotation International Air Services](https://airlinecodes.info/GZ)"
+ },
+ {
+   "IATA": "H2",
+   "ICAO": "SKU",
+   "NAME": "[Sky Airline](https://airlinecodes.info/H2)"
+ },
+ {
+   "IATA": "H5",
+   "ICAO": "MVL",
+   "NAME": "[Mavial Magadan Airlines](https://airlinecodes.info/H5)"
+ },
+ {
+   "IATA": "H5",
+   "ICAO": "HOA",
+   "NAME": "[Hola Airlines](https://airlinecodes.info/H5)"
+ },
+ {
+   "IATA": "H6",
+   "ICAO": "HAG",
+   "NAME": "[Hageland Aviation Services](https://airlinecodes.info/H6)"
+ },
+ {
+   "IATA": "H8",
+   "ICAO": "KHB",
+   "NAME": "[Dalavia](https://airlinecodes.info/H8)"
+ },
+ {
+   "IATA": "H9",
+   "ICAO": "IZM",
+   "NAME": "[Izair](https://airlinecodes.info/H9)"
+ },
+ {
+   "IATA": "HA",
+   "ICAO": "HAL",
+   "NAME": "[Hawaiian Airlines](https://airlinecodes.info/HA)"
+ },
+ {
+   "IATA": "HB",
+   "ICAO": "HGB",
+   "NAME": "[Greater Bay Airlines](https://airlinecodes.info/HB)"
+ },
+ {
+   "IATA": "HC",
+   "ICAO": "ATI",
+   "NAME": "[Aero-Tropics Air Services](https://airlinecodes.info/HC)"
+ },
+ {
+   "IATA": "HD",
+   "ICAO": "ADO",
+   "NAME": "[Air Do](https://airlinecodes.info/HD)"
+ },
+ {
+   "IATA": "HE",
+   "ICAO": "LGW",
+   "NAME": "[Luftfahrtgesellschaft Walter](https://airlinecodes.info/HE)"
+ },
+ {
+   "IATA": "HG",
+   "ICAO": "NLY",
+   "NAME": "[Niki](https://airlinecodes.info/HG)"
+ },
+ {
+   "IATA": "HJ",
+   "ICAO": "AXF",
+   "NAME": "[Asian Express Airlines](https://airlinecodes.info/HJ)"
+ },
+ {
+   "IATA": "HK",
+   "ICAO": "FSC",
+   "NAME": "[Four Star Cargo](https://airlinecodes.info/HK)"
+ },
+ {
+   "IATA": "HM",
+   "ICAO": "SEY",
+   "NAME": "[Air Seychelles](https://airlinecodes.info/HM)"
+ },
+ {
+   "IATA": "HN",
+   "ICAO": "HVY",
+   "NAME": "[Heavylift Cargo Airlines](https://airlinecodes.info/HN)"
+ },
+ {
+   "IATA": "HO",
+   "ICAO": "DKH",
+   "NAME": "[Juneyao Airlines](https://airlinecodes.info/HO)"
+ },
+ {
+   "IATA": "HP",
+   "ICAO": "HPA",
+   "NAME": "[Pearl Airways](https://airlinecodes.info/HP)"
+ },
+ {
+   "IATA": "HQ",
+   "ICAO": "TCW",
+   "NAME": "[Thomas Cook Airlines Belgium](https://airlinecodes.info/HQ)"
+ },
+ {
+   "IATA": "HR",
+   "ICAO": "HHN",
+   "NAME": "[Hahn Air](https://airlinecodes.info/HR)"
+ },
+ {
+   "IATA": "HT",
+   "ICAO": "AHW",
+   "NAME": "[Aeromist-Kharkiv](https://airlinecodes.info/HT)"
+ },
+ {
+   "IATA": "HU",
+   "ICAO": "CHH",
+   "NAME": "[Hainan Airlines](https://airlinecodes.info/HU)"
+ },
+ {
+   "IATA": "HV",
+   "ICAO": "TRA",
+   "NAME": "[Transavia](https://airlinecodes.info/HV)"
+ },
+ {
+   "IATA": "HW",
+   "ICAO": "NWL",
+   "NAME": "[North-Wright Airways](https://airlinecodes.info/HW)"
+ },
+ {
+   "IATA": "HW",
+   "ICAO": "FHE",
+   "NAME": "[Hello](https://airlinecodes.info/HW)"
+ },
+ {
+   "IATA": "HX",
+   "ICAO": "CRK",
+   "NAME": "[Hong Kong Airlines](https://airlinecodes.info/HX)"
+ },
+ {
+   "IATA": "HY",
+   "ICAO": "UZB",
+   "NAME": "[Uzbekistan Airways](https://airlinecodes.info/HY)"
+ },
+ {
+   "IATA": "HZ",
+   "ICAO": "SOZ",
+   "NAME": "[Sat Airlines](https://airlinecodes.info/HZ)"
+ },
+ {
+   "IATA": "I2",
+   "ICAO": "IBS",
+   "NAME": "[Iberia Express](https://airlinecodes.info/I2)"
+ },
+ {
+   "IATA": "I4",
+   "ICAO": "FWA",
+   "NAME": "[Interstate Airline](https://airlinecodes.info/I4)"
+ },
+ {
+   "IATA": "I5",
+   "ICAO": "IAD",
+   "NAME": "[AirAsia India](https://airlinecodes.info/I5)"
+ },
+ {
+   "IATA": "I6",
+   "ICAO": "SEQ",
+   "NAME": "[Sky Eyes](https://airlinecodes.info/I6)"
+ },
+ {
+   "IATA": "I7",
+   "ICAO": "PMW",
+   "NAME": "[Paramount Airways](https://airlinecodes.info/I7)"
+ },
+ {
+   "IATA": "I9",
+   "ICAO": "HLF",
+   "NAME": "[Central Airlines](https://airlinecodes.info/I9)"
+ },
+ {
+   "IATA": "IA",
+   "ICAO": "IAW",
+   "NAME": "[Iraqi Airways](https://airlinecodes.info/IA)"
+ },
+ {
+   "IATA": "IB",
+   "ICAO": "IBE",
+   "NAME": "[Iberia Airlines](https://airlinecodes.info/IB)"
+ },
+ {
+   "IATA": "IC",
+   "ICAO": "IAC",
+   "NAME": "[Indian Airlines](https://airlinecodes.info/IC)"
+ },
+ {
+   "IATA": "ID",
+   "ICAO": "ITK",
+   "NAME": "[Interlink Airlines](https://airlinecodes.info/ID)"
+ },
+ {
+   "IATA": "IE",
+   "ICAO": "SOL",
+   "NAME": "[Solomon Airlines](https://airlinecodes.info/IE)"
+ },
+ {
+   "IATA": "IF",
+   "ICAO": "ISW",
+   "NAME": "[Islas Airways](https://airlinecodes.info/IF)"
+ },
+ {
+   "IATA": "IG",
+   "ICAO": "ISS",
+   "NAME": "[Air Italy](https://airlinecodes.info/IG)"
+ },
+ {
+   "IATA": "II",
+   "ICAO": "CSQ",
+   "NAME": "[IBC Airways](https://airlinecodes.info/II)"
+ },
+ {
+   "IATA": "IJ",
+   "ICAO": "GWL",
+   "NAME": "[Great Wall Airlines](https://airlinecodes.info/IJ)"
+ },
+ {
+   "IATA": "IK",
+   "ICAO": "ITX",
+   "NAME": "[Imair Airlines](https://airlinecodes.info/IK)"
+ },
+ {
+   "IATA": "IK",
+   "ICAO": "LKN",
+   "NAME": "[Lankair](https://airlinecodes.info/IK)"
+ },
+ {
+   "IATA": "IM",
+   "ICAO": "MNJ",
+   "NAME": "[Menajet](https://airlinecodes.info/IM)"
+ },
+ {
+   "IATA": "IN",
+   "ICAO": "MAK",
+   "NAME": "[MAT Macedonian Airlines](https://airlinecodes.info/IN)"
+ },
+ {
+   "IATA": "IO",
+   "ICAO": "IAA",
+   "NAME": "[Indonesian Airlines](https://airlinecodes.info/IO)"
+ },
+ {
+   "IATA": "IP",
+   "ICAO": "JOL",
+   "NAME": "[Atyrau Air Ways](https://airlinecodes.info/IP)"
+ },
+ {
+   "IATA": "IQ",
+   "ICAO": "AUB",
+   "NAME": "[Augsburg Airways](https://airlinecodes.info/IQ)"
+ },
+ {
+   "IATA": "IR",
+   "ICAO": "IRA",
+   "NAME": "[Iran Air](https://airlinecodes.info/IR)"
+ },
+ {
+   "IATA": "IT",
+   "ICAO": "TTW",
+   "NAME": "[Tigerair Taiwan](https://airlinecodes.info/IT)"
+ },
+ {
+   "IATA": "IV",
+   "ICAO": "JET",
+   "NAME": "[Wind Jet](https://airlinecodes.info/IV)"
+ },
+ {
+   "IATA": "IV",
+   "ICAO": "CPN",
+   "NAME": "[Caspian Airlines](https://airlinecodes.info/IV)"
+ },
+ {
+   "IATA": "IW",
+   "ICAO": "AOM",
+   "NAME": "[AOM French Airlines](https://airlinecodes.info/IW)"
+ },
+ {
+   "IATA": "IX",
+   "ICAO": "AXB",
+   "NAME": "[Air India Express](https://airlinecodes.info/IX)"
+ },
+ {
+   "IATA": "IY",
+   "ICAO": "IYE",
+   "NAME": "[Yemenia](https://airlinecodes.info/IY)"
+ },
+ {
+   "IATA": "IZ",
+   "ICAO": "AIZ",
+   "NAME": "[Arkia Israel Airlines](https://airlinecodes.info/IZ)"
+ },
+ {
+   "IATA": "J2",
+   "ICAO": "AHY",
+   "NAME": "[Azerbaijan Airlines](https://airlinecodes.info/J2)"
+ },
+ {
+   "IATA": "J3",
+   "ICAO": "PLR",
+   "NAME": "[Northwestern Air](https://airlinecodes.info/J3)"
+ },
+ {
+   "IATA": "J4",
+   "ICAO": "BFL",
+   "NAME": "[Buffalo Airways](https://airlinecodes.info/J4)"
+ },
+ {
+   "IATA": "J6",
+   "ICAO": "VCR",
+   "NAME": "[Cruiser Linhas Aéreas](https://airlinecodes.info/J6)"
+ },
+ {
+   "IATA": "J7",
+   "ICAO": "CVC",
+   "NAME": "[Centre-Avia](https://airlinecodes.info/J7)"
+ },
+ {
+   "IATA": "J8",
+   "ICAO": "BVT",
+   "NAME": "[Berjaya Air](https://airlinecodes.info/J8)"
+ },
+ {
+   "IATA": "J9",
+   "ICAO": "JZR",
+   "NAME": "[Jazeera Airways](https://airlinecodes.info/J9)"
+ },
+ {
+   "IATA": "JB",
+   "ICAO": "JBA",
+   "NAME": "[Helijet](https://airlinecodes.info/JB)"
+ },
+ {
+   "IATA": "JC",
+   "ICAO": "JEX",
+   "NAME": "[JAL Express](https://airlinecodes.info/JC)"
+ },
+ {
+   "IATA": "JE",
+   "ICAO": "MNO",
+   "NAME": "[Mango](https://airlinecodes.info/JE)"
+ },
+ {
+   "IATA": "JF",
+   "ICAO": "LAB",
+   "NAME": "[L.A.B. Flying Service](https://airlinecodes.info/JF)"
+ },
+ {
+   "IATA": "JH",
+   "ICAO": "FDA",
+   "NAME": "[Fuji Dream Airlines](https://airlinecodes.info/JH)"
+ },
+ {
+   "IATA": "JI",
+   "ICAO": "MDW",
+   "NAME": "[Midway Airlines](https://airlinecodes.info/JI)"
+ },
+ {
+   "IATA": "JJ",
+   "ICAO": "AGX",
+   "NAME": "[Aviogenex](https://airlinecodes.info/JJ)"
+ },
+ {
+   "IATA": "JJ",
+   "ICAO": "TAM",
+   "NAME": "[TAM Brazilian Airlines](https://airlinecodes.info/JJ)"
+ },
+ {
+   "IATA": "JK",
+   "ICAO": "JKK",
+   "NAME": "[Spanair](https://airlinecodes.info/JK)"
+ },
+ {
+   "IATA": "JL",
+   "ICAO": "JAL",
+   "NAME": "[Japan Airlines](https://airlinecodes.info/JL)"
+ },
+ {
+   "IATA": "JM",
+   "ICAO": "AJM",
+   "NAME": "[Air Jamaica](https://airlinecodes.info/JM)"
+ },
+ {
+   "IATA": "JN",
+   "ICAO": "XLA",
+   "NAME": "[Excel Airways](https://airlinecodes.info/JN)"
+ },
+ {
+   "IATA": "JO",
+   "ICAO": "JAZ",
+   "NAME": "[JALways](https://airlinecodes.info/JO)"
+ },
+ {
+   "IATA": "JP",
+   "ICAO": "ADR",
+   "NAME": "[Adria Airways](https://airlinecodes.info/JP)"
+ },
+ {
+   "IATA": "JQ",
+   "ICAO": "JST",
+   "NAME": "[Jetstar Airways](https://airlinecodes.info/JQ)"
+ },
+ {
+   "IATA": "JR",
+   "ICAO": "SER",
+   "NAME": "[Aero California](https://airlinecodes.info/JR)"
+ },
+ {
+   "IATA": "JT",
+   "ICAO": "LNI",
+   "NAME": "[Lion Air](https://airlinecodes.info/JT)"
+ },
+ {
+   "IATA": "JU",
+   "ICAO": "JAT",
+   "NAME": "[Jat Airways](https://airlinecodes.info/JU)"
+ },
+ {
+   "IATA": "JU",
+   "ICAO": "ASL",
+   "NAME": "[Air Serbia](https://airlinecodes.info/JU)"
+ },
+ {
+   "IATA": "JV",
+   "ICAO": "BLS",
+   "NAME": "[Bearskin Lake Air Service](https://airlinecodes.info/JV)"
+ },
+ {
+   "IATA": "JW",
+   "ICAO": "VNL",
+   "NAME": "[Vanilla Air](https://airlinecodes.info/JW)"
+ },
+ {
+   "IATA": "JX",
+   "ICAO": "SJX",
+   "NAME": "[STARLUX Airlines](https://airlinecodes.info/JX)"
+ },
+ {
+   "IATA": "JY",
+   "ICAO": "TCI",
+   "NAME": "[Air Turks and Caicos](https://airlinecodes.info/JY)"
+ },
+ {
+   "IATA": "JZ",
+   "ICAO": "SKX",
+   "NAME": "[Skyways Express](https://airlinecodes.info/JZ)"
+ },
+ {
+   "IATA": "K2",
+   "ICAO": "ELO",
+   "NAME": "[Eurolot](https://airlinecodes.info/K2)"
+ },
+ {
+   "IATA": "K4",
+   "ICAO": "CKS",
+   "NAME": "[Kalitta Air](https://airlinecodes.info/K4)"
+ },
+ {
+   "IATA": "K5",
+   "ICAO": "ABE",
+   "NAME": "[Aban Air](https://airlinecodes.info/K5)"
+ },
+ {
+   "IATA": "K5",
+   "ICAO": "WAK",
+   "NAME": "[Wings of Alaska](https://airlinecodes.info/K5)"
+ },
+ {
+   "IATA": "K6",
+   "ICAO": "KZW",
+   "NAME": "[Khalifa Airways](https://airlinecodes.info/K6)"
+ },
+ {
+   "IATA": "K8",
+   "ICAO": "ZAK",
+   "NAME": "[Airlink Zambia](https://airlinecodes.info/K8)"
+ },
+ {
+   "IATA": "K9",
+   "ICAO": "KRI",
+   "NAME": "[Krylo Airlines](https://airlinecodes.info/K9)"
+ },
+ {
+   "IATA": "KA",
+   "ICAO": "HDA",
+   "NAME": "[Cathay Dragon](https://airlinecodes.info/KA)"
+ },
+ {
+   "IATA": "KB",
+   "ICAO": "DRK",
+   "NAME": "[Druk Air](https://airlinecodes.info/KB)"
+ },
+ {
+   "IATA": "KC",
+   "ICAO": "KZR",
+   "NAME": "[Air Astana](https://airlinecodes.info/KC)"
+ },
+ {
+   "IATA": "KD",
+   "ICAO": "WGN",
+   "NAME": "[Western Global Airlines](https://airlinecodes.info/KD)"
+ },
+ {
+   "IATA": "KE",
+   "ICAO": "KAL",
+   "NAME": "[Korean Air](https://airlinecodes.info/KE)"
+ },
+ {
+   "IATA": "KF",
+   "ICAO": "BLF",
+   "NAME": "[Blue1](https://airlinecodes.info/KF)"
+ },
+ {
+   "IATA": "KG",
+   "ICAO": "LYM",
+   "NAME": "[Key Lime Air](https://airlinecodes.info/KG)"
+ },
+ {
+   "IATA": "KH",
+   "ICAO": "AAH",
+   "NAME": "[Aloha Air Cargo](https://airlinecodes.info/KH)"
+ },
+ {
+   "IATA": "KI",
+   "ICAO": "DHI",
+   "NAME": "[Adam Air](https://airlinecodes.info/KI)"
+ },
+ {
+   "IATA": "KI",
+   "ICAO": "SKZ",
+   "NAME": "[Skyway Enterprises](https://airlinecodes.info/KI)"
+ },
+ {
+   "IATA": "KJ",
+   "ICAO": "LAJ",
+   "NAME": "[British Mediterranean Airways](https://airlinecodes.info/KJ)"
+ },
+ {
+   "IATA": "KK",
+   "ICAO": "KKK",
+   "NAME": "[Atlasjet](https://airlinecodes.info/KK)"
+ },
+ {
+   "IATA": "KL",
+   "ICAO": "KLM",
+   "NAME": "[KLM Royal Dutch Airlines](https://airlinecodes.info/KL)"
+ },
+ {
+   "IATA": "KM",
+   "ICAO": "AMC",
+   "NAME": "[Air Malta](https://airlinecodes.info/KM)"
+ },
+ {
+   "IATA": "KN",
+   "ICAO": "CUA",
+   "NAME": "[China United Airlines](https://airlinecodes.info/KN)"
+ },
+ {
+   "IATA": "KO",
+   "ICAO": "AER",
+   "NAME": "[Alaska Central Express](https://airlinecodes.info/KO)"
+ },
+ {
+   "IATA": "KP",
+   "ICAO": "KIA",
+   "NAME": "[Kiwi International Air Lines](https://airlinecodes.info/KP)"
+ },
+ {
+   "IATA": "KQ",
+   "ICAO": "KQA",
+   "NAME": "[Kenya Airways](https://airlinecodes.info/KQ)"
+ },
+ {
+   "IATA": "KR",
+   "ICAO": "CWK",
+   "NAME": "[Comores Airlines](https://airlinecodes.info/KR)"
+ },
+ {
+   "IATA": "KS",
+   "ICAO": "PEN",
+   "NAME": "[Peninsula Airways](https://airlinecodes.info/KS)"
+ },
+ {
+   "IATA": "KU",
+   "ICAO": "KAC",
+   "NAME": "[Kuwait Airways](https://airlinecodes.info/KU)"
+ },
+ {
+   "IATA": "KV",
+   "ICAO": "SKV",
+   "NAME": "[Sky Regional Airlines](https://airlinecodes.info/KV)"
+ },
+ {
+   "IATA": "KX",
+   "ICAO": "CAY",
+   "NAME": "[Cayman Airways](https://airlinecodes.info/KX)"
+ },
+ {
+   "IATA": "KZ",
+   "ICAO": "NCA",
+   "NAME": "[Nippon Cargo Airlines](https://airlinecodes.info/KZ)"
+ },
+ {
+   "IATA": "L1",
+   "ICAO": "TTL",
+   "NAME": "[Total Linhas Aéreas](https://airlinecodes.info/L1)"
+ },
+ {
+   "IATA": "L2",
+   "ICAO": "LYC",
+   "NAME": "[Lynden Air Cargo](https://airlinecodes.info/L2)"
+ },
+ {
+   "IATA": "L3",
+   "ICAO": "LTO",
+   "NAME": "[LTU Austria](https://airlinecodes.info/L3)"
+ },
+ {
+   "IATA": "L3",
+   "ICAO": "JOS",
+   "NAME": "[DHL de Guatemala](https://airlinecodes.info/L3)"
+ },
+ {
+   "IATA": "L5",
+   "ICAO": "LTR",
+   "NAME": "[Lufttransport](https://airlinecodes.info/L5)"
+ },
+ {
+   "IATA": "L6",
+   "ICAO": "VNZ",
+   "NAME": "[Tbilaviamsheni](https://airlinecodes.info/L6)"
+ },
+ {
+   "IATA": "L7",
+   "ICAO": "LPN",
+   "NAME": "[Laoag International Airlines](https://airlinecodes.info/L7)"
+ },
+ {
+   "IATA": "L7",
+   "ICAO": "LNP",
+   "NAME": "[Linea Aerea SAPSA](https://airlinecodes.info/L7)"
+ },
+ {
+   "IATA": "L8",
+   "ICAO": "LXG",
+   "NAME": "[Air Luxor GB](https://airlinecodes.info/L8)"
+ },
+ {
+   "IATA": "L9",
+   "ICAO": "TLW",
+   "NAME": "[Teamline Air](https://airlinecodes.info/L9)"
+ },
+ {
+   "IATA": "LA",
+   "ICAO": "LAN",
+   "NAME": "[LATAM Chile](https://airlinecodes.info/LA)"
+ },
+ {
+   "IATA": "LB",
+   "ICAO": "LLB",
+   "NAME": "[Lloyd Aéreo Boliviano](https://airlinecodes.info/LB)"
+ },
+ {
+   "IATA": "LD",
+   "ICAO": "TUY",
+   "NAME": "[Linea Turistica Aerotuy](https://airlinecodes.info/LD)"
+ },
+ {
+   "IATA": "LD",
+   "ICAO": "AHK",
+   "NAME": "[Air Hong Kong](https://airlinecodes.info/LD)"
+ },
+ {
+   "IATA": "LE",
+   "ICAO": "NSW",
+   "NAME": "[Norwegian Air Sweden](https://airlinecodes.info/LE)"
+ },
+ {
+   "IATA": "LF",
+   "ICAO": "VTE",
+   "NAME": "[Contour Airlines](https://airlinecodes.info/LF)"
+ },
+ {
+   "IATA": "LG",
+   "ICAO": "LGL",
+   "NAME": "[Luxair](https://airlinecodes.info/LG)"
+ },
+ {
+   "IATA": "LH",
+   "ICAO": "DLH",
+   "NAME": "[Lufthansa](https://airlinecodes.info/LH)"
+ },
+ {
+   "IATA": "LH",
+   "ICAO": "GEC",
+   "NAME": "[Lufthansa Cargo](https://airlinecodes.info/LH)"
+ },
+ {
+   "IATA": "LI",
+   "ICAO": "LIA",
+   "NAME": "[Leeward Islands Air Transport](https://airlinecodes.info/LI)"
+ },
+ {
+   "IATA": "LJ",
+   "ICAO": "JNA",
+   "NAME": "[Jin Air](https://airlinecodes.info/LJ)"
+ },
+ {
+   "IATA": "LK",
+   "ICAO": "LXR",
+   "NAME": "[Air Luxor](https://airlinecodes.info/LK)"
+ },
+ {
+   "IATA": "LL",
+   "ICAO": "GRO",
+   "NAME": "[Allegro](https://airlinecodes.info/LL)"
+ },
+ {
+   "IATA": "LN",
+   "ICAO": "LAA",
+   "NAME": "[Libyan Arab Airlines](https://airlinecodes.info/LN)"
+ },
+ {
+   "IATA": "LO",
+   "ICAO": "LOT",
+   "NAME": "[LOT Polish Airlines](https://airlinecodes.info/LO)"
+ },
+ {
+   "IATA": "LP",
+   "ICAO": "LPE",
+   "NAME": "[LAN Peru](https://airlinecodes.info/LP)"
+ },
+ {
+   "IATA": "LQ",
+   "ICAO": "LAQ",
+   "NAME": "[Lebanese Air Transport](https://airlinecodes.info/LQ)"
+ },
+ {
+   "IATA": "LR",
+   "ICAO": "LRC",
+   "NAME": "[LACSA](https://airlinecodes.info/LR)"
+ },
+ {
+   "IATA": "LS",
+   "ICAO": "EXS",
+   "NAME": "[Jet2.com](https://airlinecodes.info/LS)"
+ },
+ {
+   "IATA": "LT",
+   "ICAO": "LTU",
+   "NAME": "[LTU International](https://airlinecodes.info/LT)"
+ },
+ {
+   "IATA": "LU",
+   "ICAO": "LXP",
+   "NAME": "[LAN Express](https://airlinecodes.info/LU)"
+ },
+ {
+   "IATA": "LV",
+   "ICAO": "LBC",
+   "NAME": "[Albanian Airlines](https://airlinecodes.info/LV)"
+ },
+ {
+   "IATA": "LW",
+   "ICAO": "NMI",
+   "NAME": "[Pacific Wings](https://airlinecodes.info/LW)"
+ },
+ {
+   "IATA": "LX",
+   "ICAO": "SWR",
+   "NAME": "[Swiss International Air Lines](https://airlinecodes.info/LX)"
+ },
+ {
+   "IATA": "LY",
+   "ICAO": "ELY",
+   "NAME": "[El Al Israel Airlines](https://airlinecodes.info/LY)"
+ },
+ {
+   "IATA": "LZ",
+   "ICAO": "LBY",
+   "NAME": "[Belle Air](https://airlinecodes.info/LZ)"
+ },
+ {
+   "IATA": "M2",
+   "ICAO": "MZS",
+   "NAME": "[Mahfooz Aviation](https://airlinecodes.info/M2)"
+ },
+ {
+   "IATA": "M3",
+   "ICAO": "TUS",
+   "NAME": "[ABSA - Aerolinhas Brasileiras](https://airlinecodes.info/M3)"
+ },
+ {
+   "IATA": "M3",
+   "ICAO": "SPJ",
+   "NAME": "[Air Service](https://airlinecodes.info/M3)"
+ },
+ {
+   "IATA": "M3",
+   "ICAO": "NFA",
+   "NAME": "[North Flying](https://airlinecodes.info/M3)"
+ },
+ {
+   "IATA": "M4",
+   "ICAO": "NOV",
+   "NAME": "[Nova Airline](https://airlinecodes.info/M4)"
+ },
+ {
+   "IATA": "M5",
+   "ICAO": "KEN",
+   "NAME": "[Kenmore Air](https://airlinecodes.info/M5)"
+ },
+ {
+   "IATA": "M6",
+   "ICAO": "AJT",
+   "NAME": "[Amerijet International](https://airlinecodes.info/M6)"
+ },
+ {
+   "IATA": "M7",
+   "ICAO": "MAA",
+   "NAME": "[MasAir](https://airlinecodes.info/M7)"
+ },
+ {
+   "IATA": "M9",
+   "ICAO": "MSI",
+   "NAME": "[Motor Sich](https://airlinecodes.info/M9)"
+ },
+ {
+   "IATA": "MA",
+   "ICAO": "MAH",
+   "NAME": "[Malév Hungarian Airlines](https://airlinecodes.info/MA)"
+ },
+ {
+   "IATA": "MB",
+   "ICAO": "MNB",
+   "NAME": "[MNG Airlines](https://airlinecodes.info/MB)"
+ },
+ {
+   "IATA": "MB",
+   "ICAO": "EXA",
+   "NAME": "[Execair Aviation](https://airlinecodes.info/MB)"
+ },
+ {
+   "IATA": "MC",
+   "ICAO": "RCH",
+   "NAME": "[Air Mobility Command](https://airlinecodes.info/MC)"
+ },
+ {
+   "IATA": "MD",
+   "ICAO": "MDG",
+   "NAME": "[Air Madagascar](https://airlinecodes.info/MD)"
+ },
+ {
+   "IATA": "ME",
+   "ICAO": "MEA",
+   "NAME": "[Middle East Airlines](https://airlinecodes.info/ME)"
+ },
+ {
+   "IATA": "MF",
+   "ICAO": "CXA",
+   "NAME": "[XiamenAir](https://airlinecodes.info/MF)"
+ },
+ {
+   "IATA": "MG",
+   "ICAO": "CCP",
+   "NAME": "[Champion Air](https://airlinecodes.info/MG)"
+ },
+ {
+   "IATA": "MH",
+   "ICAO": "MAS",
+   "NAME": "[Malaysia Airlines](https://airlinecodes.info/MH)"
+ },
+ {
+   "IATA": "MI",
+   "ICAO": "SLK",
+   "NAME": "[SilkAir](https://airlinecodes.info/MI)"
+ },
+ {
+   "IATA": "MJ",
+   "ICAO": "LPR",
+   "NAME": "[Líneas Aéreas Privadas Argentinas](https://airlinecodes.info/MJ)"
+ },
+ {
+   "IATA": "MK",
+   "ICAO": "MAU",
+   "NAME": "[Air Mauritius](https://airlinecodes.info/MK)"
+ },
+ {
+   "IATA": "MM",
+   "ICAO": "APJ",
+   "NAME": "[Peach](https://airlinecodes.info/MM)"
+ },
+ {
+   "IATA": "MN",
+   "ICAO": "CAW",
+   "NAME": "[Comair](https://airlinecodes.info/MN)"
+ },
+ {
+   "IATA": "MO",
+   "ICAO": "CAV",
+   "NAME": "[Calm Air](https://airlinecodes.info/MO)"
+ },
+ {
+   "IATA": "MO",
+   "ICAO": "AUH",
+   "NAME": "[Abu Dhabi Amiri Flight](https://airlinecodes.info/MO)"
+ },
+ {
+   "IATA": "MP",
+   "ICAO": "MPH",
+   "NAME": "[Martinair](https://airlinecodes.info/MP)"
+ },
+ {
+   "IATA": "MQ",
+   "ICAO": "EGF",
+   "NAME": "[American Eagle Airlines](https://airlinecodes.info/MQ)"
+ },
+ {
+   "IATA": "MQ",
+   "ICAO": "ENY",
+   "NAME": "[Envoy Air](https://airlinecodes.info/MQ)"
+ },
+ {
+   "IATA": "MR",
+   "ICAO": "MRT",
+   "NAME": "[Air Mauritanie](https://airlinecodes.info/MR)"
+ },
+ {
+   "IATA": "MS",
+   "ICAO": "MSR",
+   "NAME": "[EgyptAir](https://airlinecodes.info/MS)"
+ },
+ {
+   "IATA": "MT",
+   "ICAO": "TCX",
+   "NAME": "[Thomas Cook Airlines](https://airlinecodes.info/MT)"
+ },
+ {
+   "IATA": "MU",
+   "ICAO": "CES",
+   "NAME": "[China Eastern Airlines](https://airlinecodes.info/MU)"
+ },
+ {
+   "IATA": "MV",
+   "ICAO": "RML",
+   "NAME": "[Armenian International Airways](https://airlinecodes.info/MV)"
+ },
+ {
+   "IATA": "MW",
+   "ICAO": "MYD",
+   "NAME": "[Maya Island Air](https://airlinecodes.info/MW)"
+ },
+ {
+   "IATA": "MX",
+   "ICAO": "MXA",
+   "NAME": "[Mexicana de Aviación](https://airlinecodes.info/MX)"
+ },
+ {
+   "IATA": "MY",
+   "ICAO": "MWA",
+   "NAME": "[Midwest Airlines](https://airlinecodes.info/MY)"
+ },
+ {
+   "IATA": "MZ",
+   "ICAO": "MNA",
+   "NAME": "[Merpati Nusantara Airlines](https://airlinecodes.info/MZ)"
+ },
+ {
+   "IATA": "N2",
+   "ICAO": "QNK",
+   "NAME": "[Kabo Air](https://airlinecodes.info/N2)"
+ },
+ {
+   "IATA": "N2",
+   "ICAO": "DAG",
+   "NAME": "[Dagestan Airlines](https://airlinecodes.info/N2)"
+ },
+ {
+   "IATA": "N3",
+   "ICAO": "OMS",
+   "NAME": "[Omskavia Airline](https://airlinecodes.info/N3)"
+ },
+ {
+   "IATA": "N4",
+   "ICAO": "MTC",
+   "NAME": "[Mountain Air Company](https://airlinecodes.info/N4)"
+ },
+ {
+   "IATA": "N5",
+   "ICAO": "SGY",
+   "NAME": "[Skagway Air Service](https://airlinecodes.info/N5)"
+ },
+ {
+   "IATA": "N5",
+   "ICAO": "KGZ",
+   "NAME": "[Kyrgyz Airlines](https://airlinecodes.info/N5)"
+ },
+ {
+   "IATA": "N6",
+   "ICAO": "ACQ",
+   "NAME": "[Nuevo Continente](https://airlinecodes.info/N6)"
+ },
+ {
+   "IATA": "N6",
+   "ICAO": "LGA",
+   "NAME": "[Lagun Air](https://airlinecodes.info/N6)"
+ },
+ {
+   "IATA": "N7",
+   "ICAO": "ROK",
+   "NAME": "[National Airlines](https://airlinecodes.info/N7)"
+ },
+ {
+   "IATA": "N8",
+   "ICAO": "HGK",
+   "NAME": "[Fika Salaama Airlines](https://airlinecodes.info/N8)"
+ },
+ {
+   "IATA": "N9",
+   "ICAO": "NVR",
+   "NAME": "[Novair](https://airlinecodes.info/N9)"
+ },
+ {
+   "IATA": "NB",
+   "ICAO": "SNB",
+   "NAME": "[Sterling Airlines](https://airlinecodes.info/NB)"
+ },
+ {
+   "IATA": "NC",
+   "ICAO": "NAC",
+   "NAME": "[Northern Air Cargo](https://airlinecodes.info/NC)"
+ },
+ {
+   "IATA": "NC",
+   "ICAO": "NJS",
+   "NAME": "[National Jet Systems](https://airlinecodes.info/NC)"
+ },
+ {
+   "IATA": "NE",
+   "ICAO": "ESK",
+   "NAME": "[SkyEurope](https://airlinecodes.info/NE)"
+ },
+ {
+   "IATA": "NF",
+   "ICAO": "AVN",
+   "NAME": "[Air Vanuatu](https://airlinecodes.info/NF)"
+ },
+ {
+   "IATA": "NG",
+   "ICAO": "LDA",
+   "NAME": "[Lauda Air](https://airlinecodes.info/NG)"
+ },
+ {
+   "IATA": "NH",
+   "ICAO": "ANA",
+   "NAME": "[All Nippon Airways](https://airlinecodes.info/NH)"
+ },
+ {
+   "IATA": "NI",
+   "ICAO": "PGA",
+   "NAME": "[Portugalia](https://airlinecodes.info/NI)"
+ },
+ {
+   "IATA": "NK",
+   "ICAO": "NKS",
+   "NAME": "[Spirit Airlines](https://airlinecodes.info/NK)"
+ },
+ {
+   "IATA": "NL",
+   "ICAO": "SAI",
+   "NAME": "[Shaheen Air International](https://airlinecodes.info/NL)"
+ },
+ {
+   "IATA": "NM",
+   "ICAO": "DRD",
+   "NAME": "[Air Madrid](https://airlinecodes.info/NM)"
+ },
+ {
+   "IATA": "NM",
+   "ICAO": "NZM",
+   "NAME": "[Mount Cook Airlines](https://airlinecodes.info/NM)"
+ },
+ {
+   "IATA": "NN",
+   "ICAO": "MOV",
+   "NAME": "[VIM Airlines](https://airlinecodes.info/NN)"
+ },
+ {
+   "IATA": "NO",
+   "ICAO": "NOS",
+   "NAME": "[Neos](https://airlinecodes.info/NO)"
+ },
+ {
+   "IATA": "NO",
+   "ICAO": "AUS",
+   "NAME": "[Aus-Air](https://airlinecodes.info/NO)"
+ },
+ {
+   "IATA": "NQ",
+   "ICAO": "AJX",
+   "NAME": "[Air Japan](https://airlinecodes.info/NQ)"
+ },
+ {
+   "IATA": "NR",
+   "ICAO": "PIR",
+   "NAME": "[Pamir Airways](https://airlinecodes.info/NR)"
+ },
+ {
+   "IATA": "NT",
+   "ICAO": "IBB",
+   "NAME": "[Binter Canarias](https://airlinecodes.info/NT)"
+ },
+ {
+   "IATA": "NU",
+   "ICAO": "JTA",
+   "NAME": "[Japan Transocean Air](https://airlinecodes.info/NU)"
+ },
+ {
+   "IATA": "NV",
+   "ICAO": "CRF",
+   "NAME": "[Air Central](https://airlinecodes.info/NV)"
+ },
+ {
+   "IATA": "NW",
+   "ICAO": "NWA",
+   "NAME": "[Northwest Airlines](https://airlinecodes.info/NW)"
+ },
+ {
+   "IATA": "NX",
+   "ICAO": "AMU",
+   "NAME": "[Air Macau](https://airlinecodes.info/NX)"
+ },
+ {
+   "IATA": "NY",
+   "ICAO": "FXI",
+   "NAME": "[Air Iceland](https://airlinecodes.info/NY)"
+ },
+ {
+   "IATA": "NZ",
+   "ICAO": "ANZ",
+   "NAME": "[Air New Zealand](https://airlinecodes.info/NZ)"
+ },
+ {
+   "IATA": "O3",
+   "ICAO": "CSS",
+   "NAME": "[SF Airlines](https://airlinecodes.info/O3)"
+ },
+ {
+   "IATA": "O6",
+   "ICAO": "ONE",
+   "NAME": "[Avianca Brazil](https://airlinecodes.info/O6)"
+ },
+ {
+   "IATA": "O7",
+   "ICAO": "OZJ",
+   "NAME": "[Ozjet Airlines](https://airlinecodes.info/O7)"
+ },
+ {
+   "IATA": "O8",
+   "ICAO": "OHK",
+   "NAME": "[Oasis Hong Kong Airlines](https://airlinecodes.info/O8)"
+ },
+ {
+   "IATA": "OA",
+   "ICAO": "OAL",
+   "NAME": "[Olympic Airlines](https://airlinecodes.info/OA)"
+ },
+ {
+   "IATA": "OB",
+   "ICAO": "ASZ",
+   "NAME": "[Astrakhan Airlines](https://airlinecodes.info/OB)"
+ },
+ {
+   "IATA": "OD",
+   "ICAO": "MXD",
+   "NAME": "[Malindo Air](https://airlinecodes.info/OD)"
+ },
+ {
+   "IATA": "OE",
+   "ICAO": "AOT",
+   "NAME": "[Asia Overnight Express](https://airlinecodes.info/OE)"
+ },
+ {
+   "IATA": "OH",
+   "ICAO": "JIA",
+   "NAME": "[PSA Airlines](https://airlinecodes.info/OH)"
+ },
+ {
+   "IATA": "OJ",
+   "ICAO": "OLA",
+   "NAME": "[Overland Airways](https://airlinecodes.info/OJ)"
+ },
+ {
+   "IATA": "OK",
+   "ICAO": "CSA",
+   "NAME": "[Czech Airlines](https://airlinecodes.info/OK)"
+ },
+ {
+   "IATA": "OL",
+   "ICAO": "OLT",
+   "NAME": "[Ostfriesische Lufttransport](https://airlinecodes.info/OL)"
+ },
+ {
+   "IATA": "OM",
+   "ICAO": "MGL",
+   "NAME": "[MIAT Mongolian Airlines](https://airlinecodes.info/OM)"
+ },
+ {
+   "IATA": "OO",
+   "ICAO": "SKW",
+   "NAME": "[SkyWest Airlines](https://airlinecodes.info/OO)"
+ },
+ {
+   "IATA": "OR",
+   "ICAO": "TFL",
+   "NAME": "[TUI fly Netherlands](https://airlinecodes.info/OR)"
+ },
+ {
+   "IATA": "OS",
+   "ICAO": "AUA",
+   "NAME": "[Austrian Airlines](https://airlinecodes.info/OS)"
+ },
+ {
+   "IATA": "OT",
+   "ICAO": "PEL",
+   "NAME": "[Aeropelican Air Services](https://airlinecodes.info/OT)"
+ },
+ {
+   "IATA": "OU",
+   "ICAO": "CTN",
+   "NAME": "[Croatia Airlines](https://airlinecodes.info/OU)"
+ },
+ {
+   "IATA": "OV",
+   "ICAO": "ELL",
+   "NAME": "[Estonian Air](https://airlinecodes.info/OV)"
+ },
+ {
+   "IATA": "OW",
+   "ICAO": "EXK",
+   "NAME": "[Executive Airlines](https://airlinecodes.info/OW)"
+ },
+ {
+   "IATA": "OX",
+   "ICAO": "OEA",
+   "NAME": "[Orient Thai Airlines](https://airlinecodes.info/OX)"
+ },
+ {
+   "IATA": "OY",
+   "ICAO": "OAE",
+   "NAME": "[Omni Air International](https://airlinecodes.info/OY)"
+ },
+ {
+   "IATA": "OZ",
+   "ICAO": "AAR",
+   "NAME": "[Asiana Airlines](https://airlinecodes.info/OZ)"
+ },
+ {
+   "IATA": "P5",
+   "ICAO": "RPB",
+   "NAME": "[Copa Airlines Colombia](https://airlinecodes.info/P5)"
+ },
+ {
+   "IATA": "P7",
+   "ICAO": "ESL",
+   "NAME": "[Russian Sky Airlines](https://airlinecodes.info/P7)"
+ },
+ {
+   "IATA": "P9",
+   "ICAO": "PGP",
+   "NAME": "[Perm Airlines](https://airlinecodes.info/P9)"
+ },
+ {
+   "IATA": "PA",
+   "ICAO": "FCL",
+   "NAME": "[Florida Coastal Airlines](https://airlinecodes.info/PA)"
+ },
+ {
+   "IATA": "PC",
+   "ICAO": "PGT",
+   "NAME": "[Pegasus Airlines](https://airlinecodes.info/PC)"
+ },
+ {
+   "IATA": "PD",
+   "ICAO": "POE",
+   "NAME": "[Porter Airlines](https://airlinecodes.info/PD)"
+ },
+ {
+   "IATA": "PE",
+   "ICAO": "AEL",
+   "NAME": "[Air Europe](https://airlinecodes.info/PE)"
+ },
+ {
+   "IATA": "PF",
+   "ICAO": "PNW",
+   "NAME": "[Palestinian Airlines](https://airlinecodes.info/PF)"
+ },
+ {
+   "IATA": "PG",
+   "ICAO": "BKP",
+   "NAME": "[Bangkok Airways](https://airlinecodes.info/PG)"
+ },
+ {
+   "IATA": "PH",
+   "ICAO": "PAO",
+   "NAME": "[Polynesian Airlines](https://airlinecodes.info/PH)"
+ },
+ {
+   "IATA": "PJ",
+   "ICAO": "SPM",
+   "NAME": "[Air Saint Pierre](https://airlinecodes.info/PJ)"
+ },
+ {
+   "IATA": "PK",
+   "ICAO": "PIA",
+   "NAME": "[Pakistan International Airlines](https://airlinecodes.info/PK)"
+ },
+ {
+   "IATA": "PL",
+   "ICAO": "PLI",
+   "NAME": "[Aeroperú](https://airlinecodes.info/PL)"
+ },
+ {
+   "IATA": "PM",
+   "ICAO": "TOS",
+   "NAME": "[Tropic Air](https://airlinecodes.info/PM)"
+ },
+ {
+   "IATA": "PO",
+   "ICAO": "PAC",
+   "NAME": "[Polar Air Cargo](https://airlinecodes.info/PO)"
+ },
+ {
+   "IATA": "PQ",
+   "ICAO": "SQP",
+   "NAME": "[SkyUp](https://airlinecodes.info/PQ)"
+ },
+ {
+   "IATA": "PR",
+   "ICAO": "PAL",
+   "NAME": "[Philippine Airlines](https://airlinecodes.info/PR)"
+ },
+ {
+   "IATA": "PS",
+   "ICAO": "AUI",
+   "NAME": "[Ukraine International Airlines](https://airlinecodes.info/PS)"
+ },
+ {
+   "IATA": "PT",
+   "ICAO": "PDT",
+   "NAME": "[Piedmont Airlines](https://airlinecodes.info/PT)"
+ },
+ {
+   "IATA": "PU",
+   "ICAO": "PUA",
+   "NAME": "[PLUNA](https://airlinecodes.info/PU)"
+ },
+ {
+   "IATA": "PV",
+   "ICAO": "PNR",
+   "NAME": "[PAN Air](https://airlinecodes.info/PV)"
+ },
+ {
+   "IATA": "PW",
+   "ICAO": "PRF",
+   "NAME": "[Precision Air](https://airlinecodes.info/PW)"
+ },
+ {
+   "IATA": "PX",
+   "ICAO": "ANG",
+   "NAME": "[Air Niugini](https://airlinecodes.info/PX)"
+ },
+ {
+   "IATA": "PY",
+   "ICAO": "SLM",
+   "NAME": "[Surinam Airways](https://airlinecodes.info/PY)"
+ },
+ {
+   "IATA": "PZ",
+   "ICAO": "LAP",
+   "NAME": "[TAM Mercosur](https://airlinecodes.info/PZ)"
+ },
+ {
+   "IATA": "Q3",
+   "ICAO": "MBN",
+   "NAME": "[Zambian Airways](https://airlinecodes.info/Q3)"
+ },
+ {
+   "IATA": "Q5",
+   "ICAO": "MLA",
+   "NAME": "[40-Mile Air](https://airlinecodes.info/Q5)"
+ },
+ {
+   "IATA": "Q6",
+   "ICAO": "CDP",
+   "NAME": "[Aero Condor Peru](https://airlinecodes.info/Q6)"
+ },
+ {
+   "IATA": "Q8",
+   "ICAO": "PEC",
+   "NAME": "[Pacific East Asia Cargo Airlines](https://airlinecodes.info/Q8)"
+ },
+ {
+   "IATA": "Q9",
+   "ICAO": "AFU",
+   "NAME": "[Afrinat International Airlines](https://airlinecodes.info/Q9)"
+ },
+ {
+   "IATA": "QB",
+   "ICAO": "GFG",
+   "NAME": "[Georgian National Airlines](https://airlinecodes.info/QB)"
+ },
+ {
+   "IATA": "QC",
+   "ICAO": "CRD",
+   "NAME": "[Air Corridor](https://airlinecodes.info/QC)"
+ },
+ {
+   "IATA": "QE",
+   "ICAO": "ECC",
+   "NAME": "[Crossair Europe](https://airlinecodes.info/QE)"
+ },
+ {
+   "IATA": "QF",
+   "ICAO": "QFA",
+   "NAME": "[Qantas](https://airlinecodes.info/QF)"
+ },
+ {
+   "IATA": "QH",
+   "ICAO": "LYN",
+   "NAME": "[Air Kyrgyzstan](https://airlinecodes.info/QH)"
+ },
+ {
+   "IATA": "QI",
+   "ICAO": "CIM",
+   "NAME": "[Cimber Air](https://airlinecodes.info/QI)"
+ },
+ {
+   "IATA": "QK",
+   "ICAO": "JZA",
+   "NAME": "[Air Canada Jazz](https://airlinecodes.info/QK)"
+ },
+ {
+   "IATA": "QL",
+   "ICAO": "RLN",
+   "NAME": "[Aero Lanka](https://airlinecodes.info/QL)"
+ },
+ {
+   "IATA": "QM",
+   "ICAO": "AML",
+   "NAME": "[Air Malawi](https://airlinecodes.info/QM)"
+ },
+ {
+   "IATA": "QN",
+   "ICAO": "ARR",
+   "NAME": "[Air Armenia](https://airlinecodes.info/QN)"
+ },
+ {
+   "IATA": "QO",
+   "ICAO": "MPX",
+   "NAME": "[Aeromexpress](https://airlinecodes.info/QO)"
+ },
+ {
+   "IATA": "QQ",
+   "ICAO": "UTY",
+   "NAME": "[Alliance Airlines](https://airlinecodes.info/QQ)"
+ },
+ {
+   "IATA": "QR",
+   "ICAO": "QTR",
+   "NAME": "[Qatar Airways](https://airlinecodes.info/QR)"
+ },
+ {
+   "IATA": "QS",
+   "ICAO": "TVS",
+   "NAME": "[Smartwings](https://airlinecodes.info/QS)"
+ },
+ {
+   "IATA": "QT",
+   "ICAO": "TPA",
+   "NAME": "[Tampa Cargo](https://airlinecodes.info/QT)"
+ },
+ {
+   "IATA": "QV",
+   "ICAO": "LAO",
+   "NAME": "[Lao Airlines](https://airlinecodes.info/QV)"
+ },
+ {
+   "IATA": "QW",
+   "ICAO": "BWG",
+   "NAME": "[Blue Wings](https://airlinecodes.info/QW)"
+ },
+ {
+   "IATA": "QX",
+   "ICAO": "QXE",
+   "NAME": "[Horizon Air](https://airlinecodes.info/QX)"
+ },
+ {
+   "IATA": "QY",
+   "ICAO": "BCS",
+   "NAME": "[European Air Transport Leipzig](https://airlinecodes.info/QY)"
+ },
+ {
+   "IATA": "QZ",
+   "ICAO": "AWQ",
+   "NAME": "[Indonesia AirAsia](https://airlinecodes.info/QZ)"
+ },
+ {
+   "IATA": "R0",
+   "ICAO": "RPK",
+   "NAME": "[Royal Airlines](https://airlinecodes.info/R0)"
+ },
+ {
+   "IATA": "R2",
+   "ICAO": "ORB",
+   "NAME": "[Orenburg Airlines](https://airlinecodes.info/R2)"
+ },
+ {
+   "IATA": "R3",
+   "ICAO": "RME",
+   "NAME": "[Armenian Airlines](https://airlinecodes.info/R3)"
+ },
+ {
+   "IATA": "R3",
+   "ICAO": "SYL",
+   "NAME": "[Aircompany Yakutia](https://airlinecodes.info/R3)"
+ },
+ {
+   "IATA": "R5",
+   "ICAO": "JAV",
+   "NAME": "[Jordan Aviation](https://airlinecodes.info/R5)"
+ },
+ {
+   "IATA": "R5",
+   "ICAO": "MAC",
+   "NAME": "[Malta Air Charter](https://airlinecodes.info/R5)"
+ },
+ {
+   "IATA": "R7",
+   "ICAO": "OCA",
+   "NAME": "[Aserca Airlines](https://airlinecodes.info/R7)"
+ },
+ {
+   "IATA": "R8",
+   "ICAO": "KGA",
+   "NAME": "[Kyrgyzstan Airlines](https://airlinecodes.info/R8)"
+ },
+ {
+   "IATA": "R9",
+   "ICAO": "CAM",
+   "NAME": "[Camai Air](https://airlinecodes.info/R9)"
+ },
+ {
+   "IATA": "RB",
+   "ICAO": "SYR",
+   "NAME": "[Syrian Arab Airlines](https://airlinecodes.info/RB)"
+ },
+ {
+   "IATA": "RB",
+   "ICAO": "SBK",
+   "NAME": "[Air Srpska](https://airlinecodes.info/RB)"
+ },
+ {
+   "IATA": "RC",
+   "ICAO": "FLI",
+   "NAME": "[Atlantic Airways](https://airlinecodes.info/RC)"
+ },
+ {
+   "IATA": "RD",
+   "ICAO": "RYN",
+   "NAME": "[Ryan International Airlines](https://airlinecodes.info/RD)"
+ },
+ {
+   "IATA": "RE",
+   "ICAO": "REA",
+   "NAME": "[Aer Arann](https://airlinecodes.info/RE)"
+ },
+ {
+   "IATA": "RF",
+   "ICAO": "FWL",
+   "NAME": "[Florida West International Airways](https://airlinecodes.info/RF)"
+ },
+ {
+   "IATA": "RG",
+   "ICAO": "VRN",
+   "NAME": "[VRG Linhas Aereas](https://airlinecodes.info/RG)"
+ },
+ {
+   "IATA": "RH",
+   "ICAO": "RPH",
+   "NAME": "[Republic Express Airlines](https://airlinecodes.info/RH)"
+ },
+ {
+   "IATA": "RI",
+   "ICAO": "MDL",
+   "NAME": "[Mandala Airlines](https://airlinecodes.info/RI)"
+ },
+ {
+   "IATA": "RJ",
+   "ICAO": "RJA",
+   "NAME": "[Royal Jordanian](https://airlinecodes.info/RJ)"
+ },
+ {
+   "IATA": "RK",
+   "ICAO": "RKH",
+   "NAME": "[Royal Khmer Airlines](https://airlinecodes.info/RK)"
+ },
+ {
+   "IATA": "RL",
+   "ICAO": "ABG",
+   "NAME": "[Royal Flight](https://airlinecodes.info/RL)"
+ },
+ {
+   "IATA": "RO",
+   "ICAO": "ROT",
+   "NAME": "[Tarom](https://airlinecodes.info/RO)"
+ },
+ {
+   "IATA": "RQ",
+   "ICAO": "KMF",
+   "NAME": "[Kam Air](https://airlinecodes.info/RQ)"
+ },
+ {
+   "IATA": "RR",
+   "ICAO": "RFR",
+   "NAME": "[Royal Air Force](https://airlinecodes.info/RR)"
+ },
+ {
+   "IATA": "RS",
+   "ICAO": "MJN",
+   "NAME": "[Royal Air Force of Oman](https://airlinecodes.info/RS)"
+ },
+ {
+   "IATA": "RT",
+   "ICAO": "RKM",
+   "NAME": "[RAK Airways](https://airlinecodes.info/RT)"
+ },
+ {
+   "IATA": "RU",
+   "ICAO": "ABW",
+   "NAME": "[AirBridgeCargo](https://airlinecodes.info/RU)"
+ },
+ {
+   "IATA": "RV",
+   "ICAO": "ROU",
+   "NAME": "[Air Canada Rouge](https://airlinecodes.info/RV)"
+ },
+ {
+   "IATA": "RW",
+   "ICAO": "RPA",
+   "NAME": "[Republic Airlines](https://airlinecodes.info/RW)"
+ },
+ {
+   "IATA": "RX",
+   "ICAO": "AEH",
+   "NAME": "[Aviaexpress](https://airlinecodes.info/RX)"
+ },
+ {
+   "IATA": "S0",
+   "ICAO": "OKS",
+   "NAME": "[Slok Air Gambia](https://airlinecodes.info/S0)"
+ },
+ {
+   "IATA": "S2",
+   "ICAO": "JLL",
+   "NAME": "[JetLite](https://airlinecodes.info/S2)"
+ },
+ {
+   "IATA": "S3",
+   "ICAO": "BBR",
+   "NAME": "[Santa Barbara Airlines](https://airlinecodes.info/S3)"
+ },
+ {
+   "IATA": "S4",
+   "ICAO": "RZO",
+   "NAME": "[SATA International](https://airlinecodes.info/S4)"
+ },
+ {
+   "IATA": "S5",
+   "ICAO": "TSJ",
+   "NAME": "[Trast Aero](https://airlinecodes.info/S5)"
+ },
+ {
+   "IATA": "S5",
+   "ICAO": "TCF",
+   "NAME": "[Shuttle America](https://airlinecodes.info/S5)"
+ },
+ {
+   "IATA": "S7",
+   "ICAO": "SBI",
+   "NAME": "[S7 Airlines](https://airlinecodes.info/S7)"
+ },
+ {
+   "IATA": "S8",
+   "ICAO": "SWW",
+   "NAME": "[Shovkoviy Shlyah](https://airlinecodes.info/S8)"
+ },
+ {
+   "IATA": "S8",
+   "ICAO": "CSU",
+   "NAME": "[Chari Aviation Services](https://airlinecodes.info/S8)"
+ },
+ {
+   "IATA": "SA",
+   "ICAO": "SAA",
+   "NAME": "[South African Airways](https://airlinecodes.info/SA)"
+ },
+ {
+   "IATA": "SB",
+   "ICAO": "ACI",
+   "NAME": "[Air Caledonie International](https://airlinecodes.info/SB)"
+ },
+ {
+   "IATA": "SC",
+   "ICAO": "CDG",
+   "NAME": "[Shandong Airlines](https://airlinecodes.info/SC)"
+ },
+ {
+   "IATA": "SD",
+   "ICAO": "SUD",
+   "NAME": "[Sudan Airways](https://airlinecodes.info/SD)"
+ },
+ {
+   "IATA": "SE",
+   "ICAO": "XLF",
+   "NAME": "[XL Airways France](https://airlinecodes.info/SE)"
+ },
+ {
+   "IATA": "SF",
+   "ICAO": "DTH",
+   "NAME": "[Tassili Airlines](https://airlinecodes.info/SF)"
+ },
+ {
+   "IATA": "SG",
+   "ICAO": "SEJ",
+   "NAME": "[SpiceJet](https://airlinecodes.info/SG)"
+ },
+ {
+   "IATA": "SH",
+   "ICAO": "FLY",
+   "NAME": "[Fly Me Sweden](https://airlinecodes.info/SH)"
+ },
+ {
+   "IATA": "SI",
+   "ICAO": "SIH",
+   "NAME": "[Skynet Airlines](https://airlinecodes.info/SI)"
+ },
+ {
+   "IATA": "SJ",
+   "ICAO": "CGL",
+   "NAME": "[Seagle Air](https://airlinecodes.info/SJ)"
+ },
+ {
+   "IATA": "SK",
+   "ICAO": "SAS",
+   "NAME": "[Scandinavian Airlines](https://airlinecodes.info/SK)"
+ },
+ {
+   "IATA": "SN",
+   "ICAO": "BEL",
+   "NAME": "[Brussels Airlines](https://airlinecodes.info/SN)"
+ },
+ {
+   "IATA": "SO",
+   "ICAO": "OSL",
+   "NAME": "[Sosoliso Airlines](https://airlinecodes.info/SO)"
+ },
+ {
+   "IATA": "SO",
+   "ICAO": "HKA",
+   "NAME": "[Superior Aviation](https://airlinecodes.info/SO)"
+ },
+ {
+   "IATA": "SP",
+   "ICAO": "SAT",
+   "NAME": "[SATA Air Acores](https://airlinecodes.info/SP)"
+ },
+ {
+   "IATA": "SQ",
+   "ICAO": "SIA",
+   "NAME": "[Singapore Airlines](https://airlinecodes.info/SQ)"
+ },
+ {
+   "IATA": "SQ",
+   "ICAO": "SQC",
+   "NAME": "[Singapore Airlines Cargo](https://airlinecodes.info/SQ)"
+ },
+ {
+   "IATA": "SS",
+   "ICAO": "CRL",
+   "NAME": "[Corsair International](https://airlinecodes.info/SS)"
+ },
+ {
+   "IATA": "ST",
+   "ICAO": "GMI",
+   "NAME": "[Germania](https://airlinecodes.info/ST)"
+ },
+ {
+   "IATA": "SU",
+   "ICAO": "AFL",
+   "NAME": "[Aeroflot](https://airlinecodes.info/SU)"
+ },
+ {
+   "IATA": "SV",
+   "ICAO": "SVA",
+   "NAME": "[Saudi Arabian Airlines](https://airlinecodes.info/SV)"
+ },
+ {
+   "IATA": "SW",
+   "ICAO": "NMB",
+   "NAME": "[Air Namibia](https://airlinecodes.info/SW)"
+ },
+ {
+   "IATA": "SX",
+   "ICAO": "SKB",
+   "NAME": "[Skybus Airlines](https://airlinecodes.info/SX)"
+ },
+ {
+   "IATA": "SY",
+   "ICAO": "SCX",
+   "NAME": "[Sun Country Airlines](https://airlinecodes.info/SY)"
+ },
+ {
+   "IATA": "T2",
+   "ICAO": "TMA",
+   "NAME": "[TMA Cargo](https://airlinecodes.info/T2)"
+ },
+ {
+   "IATA": "T3",
+   "ICAO": "EZE",
+   "NAME": "[Eastern Airways](https://airlinecodes.info/T3)"
+ },
+ {
+   "IATA": "T4",
+   "ICAO": "HEJ",
+   "NAME": "[Hellas Jet](https://airlinecodes.info/T4)"
+ },
+ {
+   "IATA": "T6",
+   "ICAO": "TVR",
+   "NAME": "[Tavrey Airlines](https://airlinecodes.info/T6)"
+ },
+ {
+   "IATA": "T7",
+   "ICAO": "TJT",
+   "NAME": "[Twin Jet](https://airlinecodes.info/T7)"
+ },
+ {
+   "IATA": "T9",
+   "ICAO": "TSX",
+   "NAME": "[Thai Star Airlines](https://airlinecodes.info/T9)"
+ },
+ {
+   "IATA": "T9",
+   "ICAO": "TRZ",
+   "NAME": "[TransMeridian Airlines](https://airlinecodes.info/T9)"
+ },
+ {
+   "IATA": "TA",
+   "ICAO": "TAI",
+   "NAME": "[Avianca El Salvador](https://airlinecodes.info/TA)"
+ },
+ {
+   "IATA": "TB",
+   "ICAO": "JAF",
+   "NAME": "[TUI fly Belgium](https://airlinecodes.info/TB)"
+ },
+ {
+   "IATA": "TC",
+   "ICAO": "ATC",
+   "NAME": "[Air Tanzania](https://airlinecodes.info/TC)"
+ },
+ {
+   "IATA": "TD",
+   "ICAO": "LUR",
+   "NAME": "[Atlantis European Airways](https://airlinecodes.info/TD)"
+ },
+ {
+   "IATA": "TD",
+   "ICAO": "TLP",
+   "NAME": "[Tulip Air](https://airlinecodes.info/TD)"
+ },
+ {
+   "IATA": "TE",
+   "ICAO": "LIL",
+   "NAME": "[FlyLal](https://airlinecodes.info/TE)"
+ },
+ {
+   "IATA": "TG",
+   "ICAO": "THA",
+   "NAME": "[Thai Airways](https://airlinecodes.info/TG)"
+ },
+ {
+   "IATA": "TH",
+   "ICAO": "TSE",
+   "NAME": "[Transmile Air Services](https://airlinecodes.info/TH)"
+ },
+ {
+   "IATA": "TI",
+   "ICAO": "TOL",
+   "NAME": "[Tol-Air Services](https://airlinecodes.info/TI)"
+ },
+ {
+   "IATA": "TK",
+   "ICAO": "THY",
+   "NAME": "[Turkish Airlines](https://airlinecodes.info/TK)"
+ },
+ {
+   "IATA": "TL",
+   "ICAO": "ANO",
+   "NAME": "[Airnorth](https://airlinecodes.info/TL)"
+ },
+ {
+   "IATA": "TM",
+   "ICAO": "LAM",
+   "NAME": "[LAM Mozambique Airlines](https://airlinecodes.info/TM)"
+ },
+ {
+   "IATA": "TN",
+   "ICAO": "THT",
+   "NAME": "[Air Tahiti Nui](https://airlinecodes.info/TN)"
+ },
+ {
+   "IATA": "TO",
+   "ICAO": "TVF",
+   "NAME": "[Transavia France](https://airlinecodes.info/TO)"
+ },
+ {
+   "IATA": "TP",
+   "ICAO": "TAP",
+   "NAME": "[TAP Air Portugal](https://airlinecodes.info/TP)"
+ },
+ {
+   "IATA": "TQ",
+   "ICAO": "TDM",
+   "NAME": "[Tandem Aero](https://airlinecodes.info/TQ)"
+ },
+ {
+   "IATA": "TR",
+   "ICAO": "TGW",
+   "NAME": "[Scoot](https://airlinecodes.info/TR)"
+ },
+ {
+   "IATA": "TS",
+   "ICAO": "TSC",
+   "NAME": "[Air Transat](https://airlinecodes.info/TS)"
+ },
+ {
+   "IATA": "TT",
+   "ICAO": "TGG",
+   "NAME": "[Tigerair Australia](https://airlinecodes.info/TT)"
+ },
+ {
+   "IATA": "TU",
+   "ICAO": "TAR",
+   "NAME": "[Tunisair](https://airlinecodes.info/TU)"
+ },
+ {
+   "IATA": "TV",
+   "ICAO": "VEX",
+   "NAME": "[Virgin Express](https://airlinecodes.info/TV)"
+ },
+ {
+   "IATA": "TW",
+   "ICAO": "TWB",
+   "NAME": "[T'way Air](https://airlinecodes.info/TW)"
+ },
+ {
+   "IATA": "TX",
+   "ICAO": "FWI",
+   "NAME": "[Air Caraïbes](https://airlinecodes.info/TX)"
+ },
+ {
+   "IATA": "TY",
+   "ICAO": "TPC",
+   "NAME": "[Air Calédonie](https://airlinecodes.info/TY)"
+ },
+ {
+   "IATA": "TZ",
+   "ICAO": "AMT",
+   "NAME": "[ATA Airlines](https://airlinecodes.info/TZ)"
+ },
+ {
+   "IATA": "U2",
+   "ICAO": "EZY",
+   "NAME": "[easyJet](https://airlinecodes.info/U2)"
+ },
+ {
+   "IATA": "U3",
+   "ICAO": "AIA",
+   "NAME": "[Avies](https://airlinecodes.info/U3)"
+ },
+ {
+   "IATA": "U4",
+   "ICAO": "PMT",
+   "NAME": "[PMTair](https://airlinecodes.info/U4)"
+ },
+ {
+   "IATA": "U5",
+   "ICAO": "GWY",
+   "NAME": "[USA3000 Airlines](https://airlinecodes.info/U5)"
+ },
+ {
+   "IATA": "U6",
+   "ICAO": "SVR",
+   "NAME": "[Ural Airlines](https://airlinecodes.info/U6)"
+ },
+ {
+   "IATA": "U7",
+   "ICAO": "JUS",
+   "NAME": "[USA Jet Airlines](https://airlinecodes.info/U7)"
+ },
+ {
+   "IATA": "U8",
+   "ICAO": "RNV",
+   "NAME": "[Armavia](https://airlinecodes.info/U8)"
+ },
+ {
+   "IATA": "U9",
+   "ICAO": "TAK",
+   "NAME": "[Tatarstan Airlines](https://airlinecodes.info/U9)"
+ },
+ {
+   "IATA": "UA",
+   "ICAO": "UAL",
+   "NAME": "[United Airlines](https://airlinecodes.info/UA)"
+ },
+ {
+   "IATA": "UB",
+   "ICAO": "UBA",
+   "NAME": "[Myanma Airways](https://airlinecodes.info/UB)"
+ },
+ {
+   "IATA": "UE",
+   "ICAO": "NAS",
+   "NAME": "[Nasair](https://airlinecodes.info/UE)"
+ },
+ {
+   "IATA": "UF",
+   "ICAO": "UKM",
+   "NAME": "[UM Airlines](https://airlinecodes.info/UF)"
+ },
+ {
+   "IATA": "UG",
+   "ICAO": "TUX",
+   "NAME": "[Tunisair Express](https://airlinecodes.info/UG)"
+ },
+ {
+   "IATA": "UI",
+   "ICAO": "ECA",
+   "NAME": "[Eurocypria Airlines](https://airlinecodes.info/UI)"
+ },
+ {
+   "IATA": "UK",
+   "ICAO": "VTI",
+   "NAME": "[Vistara](https://airlinecodes.info/UK)"
+ },
+ {
+   "IATA": "UL",
+   "ICAO": "ALK",
+   "NAME": "[SriLankan Airlines](https://airlinecodes.info/UL)"
+ },
+ {
+   "IATA": "UM",
+   "ICAO": "AZW",
+   "NAME": "[Air Zimbabwe](https://airlinecodes.info/UM)"
+ },
+ {
+   "IATA": "UN",
+   "ICAO": "TSO",
+   "NAME": "[Transaero Airlines](https://airlinecodes.info/UN)"
+ },
+ {
+   "IATA": "UO",
+   "ICAO": "HKE",
+   "NAME": "[HK Express](https://airlinecodes.info/UO)"
+ },
+ {
+   "IATA": "UP",
+   "ICAO": "BHS",
+   "NAME": "[Bahamasair](https://airlinecodes.info/UP)"
+ },
+ {
+   "IATA": "US",
+   "ICAO": "AWE",
+   "NAME": "[US Airways](https://airlinecodes.info/US)"
+ },
+ {
+   "IATA": "UT",
+   "ICAO": "UTA",
+   "NAME": "[UTair Aviation](https://airlinecodes.info/UT)"
+ },
+ {
+   "IATA": "UU",
+   "ICAO": "REU",
+   "NAME": "[Air Austral](https://airlinecodes.info/UU)"
+ },
+ {
+   "IATA": "UX",
+   "ICAO": "AEA",
+   "NAME": "[Air Europa](https://airlinecodes.info/UX)"
+ },
+ {
+   "IATA": "UY",
+   "ICAO": "UYC",
+   "NAME": "[Cameroon Airlines](https://airlinecodes.info/UY)"
+ },
+ {
+   "IATA": "UZ",
+   "ICAO": "BRQ",
+   "NAME": "[El-Buraq Air Transport](https://airlinecodes.info/UZ)"
+ },
+ {
+   "IATA": "V0",
+   "ICAO": "VCV",
+   "NAME": "[Conviasa](https://airlinecodes.info/V0)"
+ },
+ {
+   "IATA": "V2",
+   "ICAO": "AKT",
+   "NAME": "[Karat](https://airlinecodes.info/V2)"
+ },
+ {
+   "IATA": "V3",
+   "ICAO": "KRP",
+   "NAME": "[Carpatair](https://airlinecodes.info/V3)"
+ },
+ {
+   "IATA": "V4",
+   "ICAO": "REK",
+   "NAME": "[Reem Air](https://airlinecodes.info/V4)"
+ },
+ {
+   "IATA": "V5",
+   "ICAO": "VLI",
+   "NAME": "[Avolar Aerolineas](https://airlinecodes.info/V5)"
+ },
+ {
+   "IATA": "V5",
+   "ICAO": "RYL",
+   "NAME": "[Royal Aruban Airline](https://airlinecodes.info/V5)"
+ },
+ {
+   "IATA": "V7",
+   "ICAO": "SNG",
+   "NAME": "[Air Senegal International](https://airlinecodes.info/V7)"
+ },
+ {
+   "IATA": "V8",
+   "ICAO": "VAS",
+   "NAME": "[ATRAN Cargo Airlines](https://airlinecodes.info/V8)"
+ },
+ {
+   "IATA": "V9",
+   "ICAO": "BTC",
+   "NAME": "[BAL Bashkirian Airlines](https://airlinecodes.info/V9)"
+ },
+ {
+   "IATA": "VA",
+   "ICAO": "VOZ",
+   "NAME": "[Virgin Australia](https://airlinecodes.info/VA)"
+ },
+ {
+   "IATA": "VB",
+   "ICAO": "VIV",
+   "NAME": "[VivaAerobús](https://airlinecodes.info/VB)"
+ },
+ {
+   "IATA": "VC",
+   "ICAO": "AGC",
+   "NAME": "[Air Australia](https://airlinecodes.info/VC)"
+ },
+ {
+   "IATA": "VC",
+   "ICAO": "VAL",
+   "NAME": "[Voyageur Airways](https://airlinecodes.info/VC)"
+ },
+ {
+   "IATA": "VD",
+   "ICAO": "KPA",
+   "NAME": "[Henan Airlines](https://airlinecodes.info/VD)"
+ },
+ {
+   "IATA": "VE",
+   "ICAO": "EUJ",
+   "NAME": "[EUjet](https://airlinecodes.info/VE)"
+ },
+ {
+   "IATA": "VE",
+   "ICAO": "VLE",
+   "NAME": "[Volare Airlines](https://airlinecodes.info/VE)"
+ },
+ {
+   "IATA": "VE",
+   "ICAO": "AVE",
+   "NAME": "[Avensa](https://airlinecodes.info/VE)"
+ },
+ {
+   "IATA": "VF",
+   "ICAO": "VLU",
+   "NAME": "[Valuair](https://airlinecodes.info/VF)"
+ },
+ {
+   "IATA": "VG",
+   "ICAO": "VLM",
+   "NAME": "[VLM Airlines](https://airlinecodes.info/VG)"
+ },
+ {
+   "IATA": "VI",
+   "ICAO": "VDA",
+   "NAME": "[Volga-Dnepr Airlines](https://airlinecodes.info/VI)"
+ },
+ {
+   "IATA": "VJ",
+   "ICAO": "VJC",
+   "NAME": "[VietJet Air](https://airlinecodes.info/VJ)"
+ },
+ {
+   "IATA": "VK",
+   "ICAO": "VGN",
+   "NAME": "[Virgin Nigeria Airways](https://airlinecodes.info/VK)"
+ },
+ {
+   "IATA": "VL",
+   "ICAO": "VIM",
+   "NAME": "[Air VIA](https://airlinecodes.info/VL)"
+ },
+ {
+   "IATA": "VM",
+   "ICAO": "VOA",
+   "NAME": "[Viaggio Air](https://airlinecodes.info/VM)"
+ },
+ {
+   "IATA": "VN",
+   "ICAO": "HVN",
+   "NAME": "[Vietnam Airlines](https://airlinecodes.info/VN)"
+ },
+ {
+   "IATA": "VO",
+   "ICAO": "TYR",
+   "NAME": "[Austrian Arrows](https://airlinecodes.info/VO)"
+ },
+ {
+   "IATA": "VP",
+   "ICAO": "VSP",
+   "NAME": "[VASP](https://airlinecodes.info/VP)"
+ },
+ {
+   "IATA": "VR",
+   "ICAO": "TCV",
+   "NAME": "[TACV](https://airlinecodes.info/VR)"
+ },
+ {
+   "IATA": "VS",
+   "ICAO": "VIR",
+   "NAME": "[Virgin Atlantic Airways](https://airlinecodes.info/VS)"
+ },
+ {
+   "IATA": "VT",
+   "ICAO": "VTA",
+   "NAME": "[Air Tahiti](https://airlinecodes.info/VT)"
+ },
+ {
+   "IATA": "VU",
+   "ICAO": "VUN",
+   "NAME": "[Air Ivoire](https://airlinecodes.info/VU)"
+ },
+ {
+   "IATA": "VV",
+   "ICAO": "AEW",
+   "NAME": "[Aerosvit Airlines](https://airlinecodes.info/VV)"
+ },
+ {
+   "IATA": "VW",
+   "ICAO": "TAO",
+   "NAME": "[Aeromar](https://airlinecodes.info/VW)"
+ },
+ {
+   "IATA": "VX",
+   "ICAO": "VRD",
+   "NAME": "[Virgin America](https://airlinecodes.info/VX)"
+ },
+ {
+   "IATA": "VY",
+   "ICAO": "VLG",
+   "NAME": "[Vueling Airlines](https://airlinecodes.info/VY)"
+ },
+ {
+   "IATA": "VZ",
+   "ICAO": "QCL",
+   "NAME": "[Air Class Lineas Aereas](https://airlinecodes.info/VZ)"
+ },
+ {
+   "IATA": "W1",
+   "ICAO": "WDL",
+   "NAME": "[WDL Aviation](https://airlinecodes.info/W1)"
+ },
+ {
+   "IATA": "W2",
+   "ICAO": "CWA",
+   "NAME": "[Canadian Western Airlines](https://airlinecodes.info/W2)"
+ },
+ {
+   "IATA": "W3",
+   "ICAO": "FYH",
+   "NAME": "[Flyhy Cargo Airlines](https://airlinecodes.info/W3)"
+ },
+ {
+   "IATA": "W4",
+   "ICAO": "BES",
+   "NAME": "[Aero Services Executive](https://airlinecodes.info/W4)"
+ },
+ {
+   "IATA": "W5",
+   "ICAO": "IRM",
+   "NAME": "[Mahan Air](https://airlinecodes.info/W5)"
+ },
+ {
+   "IATA": "W6",
+   "ICAO": "WZZ",
+   "NAME": "[Wizz Air](https://airlinecodes.info/W6)"
+ },
+ {
+   "IATA": "W8",
+   "ICAO": "CJT",
+   "NAME": "[Cargojet Airways](https://airlinecodes.info/W8)"
+ },
+ {
+   "IATA": "W9",
+   "ICAO": "WUK",
+   "NAME": "[Wizz Air UK](https://airlinecodes.info/W9)"
+ },
+ {
+   "IATA": "WA",
+   "ICAO": "KLC",
+   "NAME": "[KLM Cityhopper](https://airlinecodes.info/WA)"
+ },
+ {
+   "IATA": "WB",
+   "ICAO": "RWD",
+   "NAME": "[Rwandair Express](https://airlinecodes.info/WB)"
+ },
+ {
+   "IATA": "WC",
+   "ICAO": "ISV",
+   "NAME": "[Islena De Inversiones](https://airlinecodes.info/WC)"
+ },
+ {
+   "IATA": "WD",
+   "ICAO": "DSR",
+   "NAME": "[DAS Air Cargo](https://airlinecodes.info/WD)"
+ },
+ {
+   "IATA": "WE",
+   "ICAO": "CWC",
+   "NAME": "[Centurion Air Cargo](https://airlinecodes.info/WE)"
+ },
+ {
+   "IATA": "WF",
+   "ICAO": "WIF",
+   "NAME": "[Widerøe](https://airlinecodes.info/WF)"
+ },
+ {
+   "IATA": "WG",
+   "ICAO": "SWG",
+   "NAME": "[Sunwing Airlines](https://airlinecodes.info/WG)"
+ },
+ {
+   "IATA": "WH",
+   "ICAO": "CNW",
+   "NAME": "[China Northwest Airlines](https://airlinecodes.info/WH)"
+ },
+ {
+   "IATA": "WJ",
+   "ICAO": "WEB",
+   "NAME": "[WebJet Linhas Aéreas](https://airlinecodes.info/WJ)"
+ },
+ {
+   "IATA": "WK",
+   "ICAO": "EDW",
+   "NAME": "[Edelweiss Air](https://airlinecodes.info/WK)"
+ },
+ {
+   "IATA": "WN",
+   "ICAO": "SWA",
+   "NAME": "[Southwest Airlines](https://airlinecodes.info/WN)"
+ },
+ {
+   "IATA": "WO",
+   "ICAO": "WSW",
+   "NAME": "[Swoop](https://airlinecodes.info/WO)"
+ },
+ {
+   "IATA": "WQ",
+   "ICAO": "SWQ",
+   "NAME": "[iAero Airways](https://airlinecodes.info/WQ)"
+ },
+ {
+   "IATA": "WR",
+   "ICAO": "HRH",
+   "NAME": "[Royal Tongan Airlines](https://airlinecodes.info/WR)"
+ },
+ {
+   "IATA": "WS",
+   "ICAO": "WJA",
+   "NAME": "[WestJet](https://airlinecodes.info/WS)"
+ },
+ {
+   "IATA": "WT",
+   "ICAO": "WSG",
+   "NAME": "[Wasaya Airways](https://airlinecodes.info/WT)"
+ },
+ {
+   "IATA": "WV",
+   "ICAO": "SWV",
+   "NAME": "[Swe Fly](https://airlinecodes.info/WV)"
+ },
+ {
+   "IATA": "WW",
+   "ICAO": "WOW",
+   "NAME": "[WOW air](https://airlinecodes.info/WW)"
+ },
+ {
+   "IATA": "WX",
+   "ICAO": "BCY",
+   "NAME": "[CityJet](https://airlinecodes.info/WX)"
+ },
+ {
+   "IATA": "WY",
+   "ICAO": "OMA",
+   "NAME": "[Oman Air](https://airlinecodes.info/WY)"
+ },
+ {
+   "IATA": "WZ",
+   "ICAO": "WSF",
+   "NAME": "[West African Airlines](https://airlinecodes.info/WZ)"
+ },
+ {
+   "IATA": "X3",
+   "ICAO": "TUI",
+   "NAME": "[TUI fly Deutschland](https://airlinecodes.info/X3)"
+ },
+ {
+   "IATA": "X7",
+   "ICAO": "CHF",
+   "NAME": "[Chitaavia](https://airlinecodes.info/X7)"
+ },
+ {
+   "IATA": "X9",
+   "ICAO": "NVD",
+   "NAME": "[Avion Express](https://airlinecodes.info/X9)"
+ },
+ {
+   "IATA": "XC",
+   "ICAO": "CAI",
+   "NAME": "[Corendon Airlines](https://airlinecodes.info/XC)"
+ },
+ {
+   "IATA": "XE",
+   "ICAO": "JSX",
+   "NAME": "[JSX](https://airlinecodes.info/XE)"
+ },
+ {
+   "IATA": "XF",
+   "ICAO": "VLK",
+   "NAME": "[Vladivostok Air](https://airlinecodes.info/XF)"
+ },
+ {
+   "IATA": "XG",
+   "ICAO": "CLI",
+   "NAME": "[Clickair](https://airlinecodes.info/XG)"
+ },
+ {
+   "IATA": "XJ",
+   "ICAO": "MES",
+   "NAME": "[Mesaba Airlines](https://airlinecodes.info/XJ)"
+ },
+ {
+   "IATA": "XK",
+   "ICAO": "CCM",
+   "NAME": "[Corse-Mediterranee](https://airlinecodes.info/XK)"
+ },
+ {
+   "IATA": "XL",
+   "ICAO": "LNE",
+   "NAME": "[LATAM Ecuador](https://airlinecodes.info/XL)"
+ },
+ {
+   "IATA": "XO",
+   "ICAO": "LTE",
+   "NAME": "[LTE International Airways](https://airlinecodes.info/XO)"
+ },
+ {
+   "IATA": "XO",
+   "ICAO": "CXH",
+   "NAME": "[China Xinhua Airlines](https://airlinecodes.info/XO)"
+ },
+ {
+   "IATA": "XP",
+   "ICAO": "VXP",
+   "NAME": "[Avelo Airlines](https://airlinecodes.info/XP)"
+ },
+ {
+   "IATA": "XQ",
+   "ICAO": "SXS",
+   "NAME": "[SunExpress](https://airlinecodes.info/XQ)"
+ },
+ {
+   "IATA": "XS",
+   "ICAO": "SIT",
+   "NAME": "[SITA](https://airlinecodes.info/XS)"
+ },
+ {
+   "IATA": "XT",
+   "ICAO": "AXL",
+   "NAME": "[Air Exel](https://airlinecodes.info/XT)"
+ },
+ {
+   "IATA": "XW",
+   "ICAO": "NCT",
+   "NAME": "[NokScoot](https://airlinecodes.info/XW)"
+ },
+ {
+   "IATA": "XY",
+   "ICAO": "KNE",
+   "NAME": "[flynas](https://airlinecodes.info/XY)"
+ },
+ {
+   "IATA": "Y4",
+   "ICAO": "VOI",
+   "NAME": "[Volaris](https://airlinecodes.info/Y4)"
+ },
+ {
+   "IATA": "Y5",
+   "ICAO": "PCE",
+   "NAME": "[Pace Airlines](https://airlinecodes.info/Y5)"
+ },
+ {
+   "IATA": "Y8",
+   "ICAO": "YZR",
+   "NAME": "[Suparna Airlines](https://airlinecodes.info/Y8)"
+ },
+ {
+   "IATA": "Y9",
+   "ICAO": "IRK",
+   "NAME": "[Kish Air](https://airlinecodes.info/Y9)"
+ },
+ {
+   "IATA": "YG",
+   "ICAO": "HYT",
+   "NAME": "[YTO Cargo Airlines](https://airlinecodes.info/YG)"
+ },
+ {
+   "IATA": "YH",
+   "ICAO": "WCW",
+   "NAME": "[West Caribbean Airways](https://airlinecodes.info/YH)"
+ },
+ {
+   "IATA": "YI",
+   "ICAO": "RSI",
+   "NAME": "[Air Sunshine](https://airlinecodes.info/YI)"
+ },
+ {
+   "IATA": "YL",
+   "ICAO": "LLM",
+   "NAME": "[Yamal Airlines](https://airlinecodes.info/YL)"
+ },
+ {
+   "IATA": "YM",
+   "ICAO": "MGX",
+   "NAME": "[Montenegro Airlines](https://airlinecodes.info/YM)"
+ },
+ {
+   "IATA": "YP",
+   "ICAO": "APZ",
+   "NAME": "[Air Premia](https://airlinecodes.info/YP)"
+ },
+ {
+   "IATA": "YT",
+   "ICAO": "TGA",
+   "NAME": "[Air Togo](https://airlinecodes.info/YT)"
+ },
+ {
+   "IATA": "YU",
+   "ICAO": "MMZ",
+   "NAME": "[EuroAtlantic Airways](https://airlinecodes.info/YU)"
+ },
+ {
+   "IATA": "YV",
+   "ICAO": "ASH",
+   "NAME": "[Mesa Airlines](https://airlinecodes.info/YV)"
+ },
+ {
+   "IATA": "YW",
+   "ICAO": "ANE",
+   "NAME": "[Air Nostrum](https://airlinecodes.info/YW)"
+ },
+ {
+   "IATA": "YX",
+   "ICAO": "MEP",
+   "NAME": "[Midwest Airlines](https://airlinecodes.info/YX)"
+ },
+ {
+   "IATA": "Z2",
+   "ICAO": "EZD",
+   "NAME": "[AirAsia Zest](https://airlinecodes.info/Z2)"
+ },
+ {
+   "IATA": "Z3",
+   "ICAO": "SMJ",
+   "NAME": "[Avient Aviation](https://airlinecodes.info/Z3)"
+ },
+ {
+   "IATA": "Z4",
+   "ICAO": "OOM",
+   "NAME": "[Zoom Airlines](https://airlinecodes.info/Z4)"
+ },
+ {
+   "IATA": "Z7",
+   "ICAO": "ADK",
+   "NAME": "[ADC Airlines](https://airlinecodes.info/Z7)"
+ },
+ {
+   "IATA": "Z8",
+   "ICAO": "AZN",
+   "NAME": "[Amaszonas](https://airlinecodes.info/Z8)"
+ },
+ {
+   "IATA": "Z9",
+   "ICAO": "BEK",
+   "NAME": "[Bek Air](https://airlinecodes.info/Z9)"
+ },
+ {
+   "IATA": "ZA",
+   "ICAO": "SUW",
+   "NAME": "[Interavia Airlines](https://airlinecodes.info/ZA)"
+ },
+ {
+   "IATA": "ZA",
+   "ICAO": "CYD",
+   "NAME": "[Access Air](https://airlinecodes.info/ZA)"
+ },
+ {
+   "IATA": "ZB",
+   "ICAO": "BUB",
+   "NAME": "[Air Bourbon](https://airlinecodes.info/ZB)"
+ },
+ {
+   "IATA": "ZB",
+   "ICAO": "MON",
+   "NAME": "[Monarch Airlines](https://airlinecodes.info/ZB)"
+ },
+ {
+   "IATA": "ZE",
+   "ICAO": "AZE",
+   "NAME": "[Arcus-Air Logistic](https://airlinecodes.info/ZE)"
+ },
+ {
+   "IATA": "ZE",
+   "ICAO": "LCD",
+   "NAME": "[Lineas Aereas Azteca](https://airlinecodes.info/ZE)"
+ },
+ {
+   "IATA": "ZH",
+   "ICAO": "CSZ",
+   "NAME": "[Shenzhen Airlines](https://airlinecodes.info/ZH)"
+ },
+ {
+   "IATA": "ZI",
+   "ICAO": "AAF",
+   "NAME": "[Aigle Azur](https://airlinecodes.info/ZI)"
+ },
+ {
+   "IATA": "ZK",
+   "ICAO": "GLA",
+   "NAME": "[Great Lakes Airlines](https://airlinecodes.info/ZK)"
+ },
+ {
+   "IATA": "ZL",
+   "ICAO": "RXA",
+   "NAME": "[Regional Express](https://airlinecodes.info/ZL)"
+ },
+ {
+   "IATA": "ZP",
+   "ICAO": "AZQ",
+   "NAME": "[Silk Way Airlines](https://airlinecodes.info/ZP)"
+ },
+ {
+   "IATA": "ZS",
+   "ICAO": "AZI",
+   "NAME": "[Azzurra Air](https://airlinecodes.info/ZS)"
+ },
+ {
+   "IATA": "ZS",
+   "ICAO": "SMY",
+   "NAME": "[Sama Airlines](https://airlinecodes.info/ZS)"
+ },
+ {
+   "IATA": "ZT",
+   "ICAO": "AWC",
+   "NAME": "[Titan Airways](https://airlinecodes.info/ZT)"
+ },
+ {
+   "IATA": "ZU",
+   "ICAO": "HCY",
+   "NAME": "[Helios Airways](https://airlinecodes.info/ZU)"
+ },
+ {
+   "IATA": "ZV",
+   "ICAO": "AMW",
+   "NAME": "[Air Midwest](https://airlinecodes.info/ZV)"
+ },
+ {
+   "IATA": "ZW",
+   "ICAO": "AWI",
+   "NAME": "[Air Wisconsin](https://airlinecodes.info/ZW)"
+ },
+ {
+   "IATA": "ZX",
+   "ICAO": "GGN",
+   "NAME": "[Air Georgian](https://airlinecodes.info/ZX)"
+ },
+ {
+   "IATA": "04",
+   "ICAO": "ABV",
+   "NAME": "[Antrak Air](https://airlinecodes.info/04)"
+ },
+ {
+   "IATA": "0A",
+   "ICAO": "GNT",
+   "NAME": "[Amber Air](https://airlinecodes.info/0A)"
+ },
+ {
+   "IATA": "0B",
+   "ICAO": "BMS",
+   "NAME": "[Blue Air](https://airlinecodes.info/0B)"
+ },
+ {
+   "IATA": "0D",
+   "ICAO": "DWT",
+   "NAME": "[Darwin Airline](https://airlinecodes.info/0D)"
+ },
+ {
+   "IATA": "0J",
+   "ICAO": "JCS",
+   "NAME": "[Jetclub](https://airlinecodes.info/0J)"
+ },
+ {
+   "IATA": "1A",
+   "ICAO": "AGT",
+   "NAME": "[Amadeus Global Travel Distribution](https://airlinecodes.info/1A)"
+ },
+ {
+   "IATA": "1I",
+   "ICAO": "EJA",
+   "NAME": "[NetJets](https://airlinecodes.info/1I)"
+ },
+ {
+   "IATA": "1L",
+   "ICAO": "OSY",
+   "NAME": "[Open Skies Consultative Commission](https://airlinecodes.info/1L)"
+ },
+ {
+   "IATA": "1T",
+   "ICAO": "RNX",
+   "NAME": "[1Time Airline](https://airlinecodes.info/1T)"
+ },
+ {
+   "IATA": "1W",
+   "ICAO": "WON",
+   "NAME": "[Wings Air](https://airlinecodes.info/1W)"
+ },
+ {
+   "IATA": "20",
+   "ICAO": "RNE",
+   "NAME": "[Air Salone](https://airlinecodes.info/20)"
+ },
+ {
+   "IATA": "2B",
+   "ICAO": "ARD",
+   "NAME": "[Aerocondor](https://airlinecodes.info/2B)"
+ },
+ {
+   "IATA": "2D",
+   "ICAO": "AOG",
+   "NAME": "[Aero VIP](https://airlinecodes.info/2D)"
+ },
+ {
+   "IATA": "2F",
+   "ICAO": "FTA",
+   "NAME": "[Frontier Flying Service](https://airlinecodes.info/2F)"
+ },
+ {
+   "IATA": "2G",
+   "ICAO": "CRG",
+   "NAME": "[Cargoitalia](https://airlinecodes.info/2G)"
+ },
+ {
+   "IATA": "2J",
+   "ICAO": "VBW",
+   "NAME": "[Air Burkina](https://airlinecodes.info/2J)"
+ },
+ {
+   "IATA": "2K",
+   "ICAO": "GLG",
+   "NAME": "[Aerogal](https://airlinecodes.info/2K)"
+ },
+ {
+   "IATA": "2L",
+   "ICAO": "OAW",
+   "NAME": "[Helvetic Airways](https://airlinecodes.info/2L)"
+ },
+ {
+   "IATA": "2M",
+   "ICAO": "MDV",
+   "NAME": "[Moldavian Airlines](https://airlinecodes.info/2M)"
+ },
+ {
+   "IATA": "2N",
+   "ICAO": "UMK",
+   "NAME": "[Yuzhmashavia](https://airlinecodes.info/2N)"
+ },
+ {
+   "IATA": "2P",
+   "ICAO": "GAP",
+   "NAME": "[Air Philippines](https://airlinecodes.info/2P)"
+ },
+ {
+   "IATA": "2Q",
+   "ICAO": "SNC",
+   "NAME": "[Air Cargo Carriers](https://airlinecodes.info/2Q)"
+ },
+ {
+   "IATA": "2S",
+   "ICAO": "SDY",
+   "NAME": "[Island Express](https://airlinecodes.info/2S)"
+ },
+ {
+   "IATA": "2T",
+   "ICAO": "HAM",
+   "NAME": "[Haiti Ambassador Airlines](https://airlinecodes.info/2T)"
+ },
+ {
+   "IATA": "2U",
+   "ICAO": "GIP",
+   "NAME": "[Air Guinee Express](https://airlinecodes.info/2U)"
+ },
+ {
+   "IATA": "2W",
+   "ICAO": "WLC",
+   "NAME": "[Welcome Air](https://airlinecodes.info/2W)"
+ },
+ {
+   "IATA": "2Z",
+   "ICAO": "CGN",
+   "NAME": "[Changan Airlines](https://airlinecodes.info/2Z)"
+ },
+ {
+   "IATA": "3C",
+   "ICAO": "CVA",
+   "NAME": "[Air Chathams](https://airlinecodes.info/3C)"
+ },
+ {
+   "IATA": "3G",
+   "ICAO": "AYZ",
+   "NAME": "[Atlant-Soyuz Airlines](https://airlinecodes.info/3G)"
+ },
+ {
+   "IATA": "3H",
+   "ICAO": "AIE",
+   "NAME": "[Air Inuit](https://airlinecodes.info/3H)"
+ },
+ {
+   "IATA": "3J",
+   "ICAO": "WZP",
+   "NAME": "[Zip](https://airlinecodes.info/3J)"
+ },
+ {
+   "IATA": "3K",
+   "ICAO": "JSA",
+   "NAME": "[Jetstar Asia Airways](https://airlinecodes.info/3K)"
+ },
+ {
+   "IATA": "3M",
+   "ICAO": "GFT",
+   "NAME": "[Gulfstream International Airlines](https://airlinecodes.info/3M)"
+ },
+ {
+   "IATA": "3N",
+   "ICAO": "URG",
+   "NAME": "[Air Urga](https://airlinecodes.info/3N)"
+ },
+ {
+   "IATA": "3P",
+   "ICAO": "TNM",
+   "NAME": "[Tiara Air](https://airlinecodes.info/3P)"
+ },
+ {
+   "IATA": "3Q",
+   "ICAO": "CYH",
+   "NAME": "[Yunnan Airlines](https://airlinecodes.info/3Q)"
+ },
+ {
+   "IATA": "3R",
+   "ICAO": "GAI",
+   "NAME": "[Moskovia Airlines](https://airlinecodes.info/3R)"
+ },
+ {
+   "IATA": "3S",
+   "ICAO": "AEN",
+   "NAME": "[Aeroland Airways](https://airlinecodes.info/3S)"
+ },
+ {
+   "IATA": "3T",
+   "ICAO": "URN",
+   "NAME": "[Turan Air](https://airlinecodes.info/3T)"
+ },
+ {
+   "IATA": "3U",
+   "ICAO": "CSC",
+   "NAME": "[Sichuan Airlines](https://airlinecodes.info/3U)"
+ },
+ {
+   "IATA": "3V",
+   "ICAO": "TAY",
+   "NAME": "[ASL Airlines Belgium](https://airlinecodes.info/3V)"
+ },
+ {
+   "IATA": "3W",
+   "ICAO": "EMX",
+   "NAME": "[Euromanx Airways](https://airlinecodes.info/3W)"
+ },
+ {
+   "IATA": "4A",
+   "ICAO": "AKL",
+   "NAME": "[Air Kiribati](https://airlinecodes.info/4A)"
+ },
+ {
+   "IATA": "4C",
+   "ICAO": "ARE",
+   "NAME": "[Aires Aerovias de Integracion Regional S.A.](https://airlinecodes.info/4C)"
+ },
+ {
+   "IATA": "4D",
+   "ICAO": "ASD",
+   "NAME": "[Air Sinai](https://airlinecodes.info/4D)"
+ },
+ {
+   "IATA": "4F",
+   "ICAO": "ECE",
+   "NAME": "[Air City](https://airlinecodes.info/4F)"
+ },
+ {
+   "IATA": "4G",
+   "ICAO": "GZP",
+   "NAME": "[Gazpromavia](https://airlinecodes.info/4G)"
+ },
+ {
+   "IATA": "4I",
+   "ICAO": "KNX",
+   "NAME": "[Knighthawk Air Express](https://airlinecodes.info/4I)"
+ },
+ {
+   "IATA": "4J",
+   "ICAO": "SMR",
+   "NAME": "[Somon Air](https://airlinecodes.info/4J)"
+ },
+ {
+   "IATA": "4K",
+   "ICAO": "AAS",
+   "NAME": "[Askari Aviation](https://airlinecodes.info/4K)"
+ },
+ {
+   "IATA": "4L",
+   "ICAO": "LAU",
+   "NAME": "[Líneas Aéreas Suramericanas](https://airlinecodes.info/4L)"
+ },
+ {
+   "IATA": "4M",
+   "ICAO": "DSM",
+   "NAME": "[Aero 2000](https://airlinecodes.info/4M)"
+ },
+ {
+   "IATA": "4N",
+   "ICAO": "ANT",
+   "NAME": "[Air North Charter - Canada](https://airlinecodes.info/4N)"
+ },
+ {
+   "IATA": "4O",
+   "ICAO": "AIJ",
+   "NAME": "[Interjet](https://airlinecodes.info/4O)"
+ },
+ {
+   "IATA": "4R",
+   "ICAO": "HHI",
+   "NAME": "[Hamburg International](https://airlinecodes.info/4R)"
+ },
+ {
+   "IATA": "4S",
+   "ICAO": "FNC",
+   "NAME": "[Finalair Congo](https://airlinecodes.info/4S)"
+ },
+ {
+   "IATA": "4T",
+   "ICAO": "BHP",
+   "NAME": "[Belair Airlines](https://airlinecodes.info/4T)"
+ },
+ {
+   "IATA": "4U",
+   "ICAO": "GWI",
+   "NAME": "[Germanwings](https://airlinecodes.info/4U)"
+ },
+ {
+   "IATA": "4Y",
+   "ICAO": "RBU",
+   "NAME": "[Airbus France](https://airlinecodes.info/4Y)"
+ },
+ {
+   "IATA": "5A",
+   "ICAO": "AIP",
+   "NAME": "[Alpine Air Express](https://airlinecodes.info/5A)"
+ },
+ {
+   "IATA": "5C",
+   "ICAO": "ICL",
+   "NAME": "[CAL Cargo Air Lines](https://airlinecodes.info/5C)"
+ },
+ {
+   "IATA": "5D",
+   "ICAO": "SLI",
+   "NAME": "[Aerolitoral](https://airlinecodes.info/5D)"
+ },
+ {
+   "IATA": "5D",
+   "ICAO": "UDC",
+   "NAME": "[DonbassAero](https://airlinecodes.info/5D)"
+ },
+ {
+   "IATA": "5F",
+   "ICAO": "CIR",
+   "NAME": "[Arctic Circle Air Service](https://airlinecodes.info/5F)"
+ },
+ {
+   "IATA": "5G",
+   "ICAO": "SSV",
+   "NAME": "[Skyservice Airlines](https://airlinecodes.info/5G)"
+ },
+ {
+   "IATA": "5J",
+   "ICAO": "CEB",
+   "NAME": "[Cebu Pacific](https://airlinecodes.info/5J)"
+ },
+ {
+   "IATA": "5K",
+   "ICAO": "HFY",
+   "NAME": "[Hi Fly](https://airlinecodes.info/5K)"
+ },
+ {
+   "IATA": "5L",
+   "ICAO": "RSU",
+   "NAME": "[Aerosur](https://airlinecodes.info/5L)"
+ },
+ {
+   "IATA": "5M",
+   "ICAO": "SIB",
+   "NAME": "[Sibaviatrans](https://airlinecodes.info/5M)"
+ },
+ {
+   "IATA": "5N",
+   "ICAO": "AUL",
+   "NAME": "[Aeroflot-Nord](https://airlinecodes.info/5N)"
+ },
+ {
+   "IATA": "5O",
+   "ICAO": "FPO",
+   "NAME": "[ASL Airlines France](https://airlinecodes.info/5O)"
+ },
+ {
+   "IATA": "5T",
+   "ICAO": "MPE",
+   "NAME": "[Canadian North](https://airlinecodes.info/5T)"
+ },
+ {
+   "IATA": "5V",
+   "ICAO": "UKW",
+   "NAME": "[Lviv Airlines](https://airlinecodes.info/5V)"
+ },
+ {
+   "IATA": "5W",
+   "ICAO": "AEU",
+   "NAME": "[Astraeus](https://airlinecodes.info/5W)"
+ },
+ {
+   "IATA": "5X",
+   "ICAO": "UPS",
+   "NAME": "[UPS Airlines](https://airlinecodes.info/5X)"
+ },
+ {
+   "IATA": "5Y",
+   "ICAO": "GTI",
+   "NAME": "[Atlas Air](https://airlinecodes.info/5Y)"
+ },
+ {
+   "IATA": "5Z",
+   "ICAO": "BML",
+   "NAME": "[Bismillah Airlines](https://airlinecodes.info/5Z)"
+ },
+ {
+   "IATA": "6A",
+   "ICAO": "CHP",
+   "NAME": "[Consorcio Aviaxsa](https://airlinecodes.info/6A)"
+ },
+ {
+   "IATA": "6B",
+   "ICAO": "BLX",
+   "NAME": "[TUI fly Nordic](https://airlinecodes.info/6B)"
+ },
+ {
+   "IATA": "6E",
+   "ICAO": "IGO",
+   "NAME": "[IndiGo](https://airlinecodes.info/6E)"
+ },
+ {
+   "IATA": "6G",
+   "ICAO": "AWW",
+   "NAME": "[Air Wales](https://airlinecodes.info/6G)"
+ },
+ {
+   "IATA": "6H",
+   "ICAO": "ISR",
+   "NAME": "[Israir](https://airlinecodes.info/6H)"
+ },
+ {
+   "IATA": "6I",
+   "ICAO": "IBZ",
+   "NAME": "[International Business Air](https://airlinecodes.info/6I)"
+ },
+ {
+   "IATA": "6J",
+   "ICAO": "SNJ",
+   "NAME": "[Solaseed Air](https://airlinecodes.info/6J)"
+ },
+ {
+   "IATA": "6K",
+   "ICAO": "RIT",
+   "NAME": "[Asian Spirit](https://airlinecodes.info/6K)"
+ },
+ {
+   "IATA": "6N",
+   "ICAO": "NRD",
+   "NAME": "[Nordic Regional](https://airlinecodes.info/6N)"
+ },
+ {
+   "IATA": "6P",
+   "ICAO": "ISG",
+   "NAME": "[Club Air](https://airlinecodes.info/6P)"
+ },
+ {
+   "IATA": "6Q",
+   "ICAO": "SLL",
+   "NAME": "[Slovak Airlines](https://airlinecodes.info/6Q)"
+ },
+ {
+   "IATA": "6R",
+   "ICAO": "DRU",
+   "NAME": "[Alrosa Mirny Air Enterprise](https://airlinecodes.info/6R)"
+ },
+ {
+   "IATA": "6R\\*",
+   "ICAO": "TNO",
+   "NAME": "[AeroUnion](https://airlinecodes.info/6R*)"
+ },
+ {
+   "IATA": "6U",
+   "ICAO": "UKR",
+   "NAME": "[Air Ukraine](https://airlinecodes.info/6U)"
+ },
+ {
+   "IATA": "6V",
+   "ICAO": "AXY",
+   "NAME": "[Axis Airways](https://airlinecodes.info/6V)"
+ },
+ {
+   "IATA": "6V",
+   "ICAO": "MRW",
+   "NAME": "[Mars RK](https://airlinecodes.info/6V)"
+ },
+ {
+   "IATA": "6V",
+   "ICAO": "VGA",
+   "NAME": "[Air Vegas](https://airlinecodes.info/6V)"
+ },
+ {
+   "IATA": "6W",
+   "ICAO": "SOV",
+   "NAME": "[Saratov Aviation Division](https://airlinecodes.info/6W)"
+ },
+ {
+   "IATA": "6Z",
+   "ICAO": "UKS",
+   "NAME": "[Ukrainian Cargo Airways](https://airlinecodes.info/6Z)"
+ },
+ {
+   "IATA": "7B",
+   "ICAO": "KJC",
+   "NAME": "[Krasnojarsky Airlines](https://airlinecodes.info/7B)"
+ },
+ {
+   "IATA": "7C",
+   "ICAO": "JJA",
+   "NAME": "[Jeju Air](https://airlinecodes.info/7C)"
+ },
+ {
+   "IATA": "7C\\*",
+   "ICAO": "COY",
+   "NAME": "[Coyne Airways](https://airlinecodes.info/7C*)"
+ },
+ {
+   "IATA": "7E",
+   "ICAO": "AWU",
+   "NAME": "[Aeroline GmbH](https://airlinecodes.info/7E)"
+ },
+ {
+   "IATA": "7F",
+   "ICAO": "FAB",
+   "NAME": "[First Air](https://airlinecodes.info/7F)"
+ },
+ {
+   "IATA": "7G",
+   "ICAO": "SFJ",
+   "NAME": "[StarFlyer](https://airlinecodes.info/7G)"
+ },
+ {
+   "IATA": "7H",
+   "ICAO": "RVF",
+   "NAME": "[Ravn Alaska](https://airlinecodes.info/7H)"
+ },
+ {
+   "IATA": "7K",
+   "ICAO": "KGL",
+   "NAME": "[Kogalymavia Air Company](https://airlinecodes.info/7K)"
+ },
+ {
+   "IATA": "7L",
+   "ICAO": "AZG",
+   "NAME": "[Silk Way West Airlines](https://airlinecodes.info/7L)"
+ },
+ {
+   "IATA": "7M",
+   "ICAO": "MSA",
+   "NAME": "[Mistral Air](https://airlinecodes.info/7M)"
+ },
+ {
+   "IATA": "7N",
+   "ICAO": "CNA",
+   "NAME": "[Centavia](https://airlinecodes.info/7N)"
+ },
+ {
+   "IATA": "7O",
+   "ICAO": "GAL",
+   "NAME": "[Galaxy Air](https://airlinecodes.info/7O)"
+ },
+ {
+   "IATA": "7P",
+   "ICAO": "BTV",
+   "NAME": "[Metro Batavia](https://airlinecodes.info/7P)"
+ },
+ {
+   "IATA": "7R",
+   "ICAO": "BRB",
+   "NAME": "[BRA-Transportes Aereos](https://airlinecodes.info/7R)"
+ },
+ {
+   "IATA": "7T",
+   "ICAO": "AGV",
+   "NAME": "[Air Glaciers](https://airlinecodes.info/7T)"
+ },
+ {
+   "IATA": "7T",
+   "ICAO": "TOB",
+   "NAME": "[Tobruk Air](https://airlinecodes.info/7T)"
+ },
+ {
+   "IATA": "7W",
+   "ICAO": "WAY",
+   "NAME": "[Wayraperú](https://airlinecodes.info/7W)"
+ },
+ {
+   "IATA": "8A",
+   "ICAO": "BMM",
+   "NAME": "[Atlas Blue](https://airlinecodes.info/8A)"
+ },
+ {
+   "IATA": "8B",
+   "ICAO": "GFI",
+   "NAME": "[Caribbean Star Airlines](https://airlinecodes.info/8B)"
+ },
+ {
+   "IATA": "8C",
+   "ICAO": "ATN",
+   "NAME": "[Air Transport International](https://airlinecodes.info/8C)"
+ },
+ {
+   "IATA": "8D",
+   "ICAO": "EXV",
+   "NAME": "[Expo Aviation](https://airlinecodes.info/8D)"
+ },
+ {
+   "IATA": "8E",
+   "ICAO": "BRG",
+   "NAME": "[Bering Air](https://airlinecodes.info/8E)"
+ },
+ {
+   "IATA": "8F",
+   "ICAO": "FFR",
+   "NAME": "[Fischer Air](https://airlinecodes.info/8F)"
+ },
+ {
+   "IATA": "8H",
+   "ICAO": "HFR",
+   "NAME": "[Heli France](https://airlinecodes.info/8H)"
+ },
+ {
+   "IATA": "8J",
+   "ICAO": "KMV",
+   "NAME": "[Komiinteravia](https://airlinecodes.info/8J)"
+ },
+ {
+   "IATA": "8L",
+   "ICAO": "CGP",
+   "NAME": "[Cargo Plus Aviation](https://airlinecodes.info/8L)"
+ },
+ {
+   "IATA": "8L",
+   "ICAO": "RHC",
+   "NAME": "[Redhill Aviation](https://airlinecodes.info/8L)"
+ },
+ {
+   "IATA": "8M",
+   "ICAO": "MXL",
+   "NAME": "[Maxair](https://airlinecodes.info/8M)"
+ },
+ {
+   "IATA": "8N",
+   "ICAO": "NKF",
+   "NAME": "[Barents AirLink](https://airlinecodes.info/8N)"
+ },
+ {
+   "IATA": "8P",
+   "ICAO": "PCO",
+   "NAME": "[Pacific Coastal Airline](https://airlinecodes.info/8P)"
+ },
+ {
+   "IATA": "8Q",
+   "ICAO": "OHY",
+   "NAME": "[Onur Air](https://airlinecodes.info/8Q)"
+ },
+ {
+   "IATA": "8T",
+   "ICAO": "TID",
+   "NAME": "[Air Tindi](https://airlinecodes.info/8T)"
+ },
+ {
+   "IATA": "8U",
+   "ICAO": "AAW",
+   "NAME": "[Afriqiyah Airways](https://airlinecodes.info/8U)"
+ },
+ {
+   "IATA": "8V",
+   "ICAO": "ACP",
+   "NAME": "[Astral Aviation](https://airlinecodes.info/8V)"
+ },
+ {
+   "IATA": "8V",
+   "ICAO": "WRF",
+   "NAME": "[Wright Air Service](https://airlinecodes.info/8V)"
+ },
+ {
+   "IATA": "8W",
+   "ICAO": "PWF",
+   "NAME": "[Private Wings Flugcharter](https://airlinecodes.info/8W)"
+ },
+ {
+   "IATA": "8Y",
+   "ICAO": "PBU",
+   "NAME": "[Air Burundi](https://airlinecodes.info/8Y)"
+ },
+ {
+   "IATA": "8z",
+   "ICAO": "LER",
+   "NAME": "[Linea Aerea de Servicio Ejecutivo Regional](https://airlinecodes.info/8z)"
+ },
+ {
+   "IATA": "9C",
+   "ICAO": "CQH",
+   "NAME": "[Spring Airlines](https://airlinecodes.info/9C)"
+ },
+ {
+   "IATA": "9E",
+   "ICAO": "EDV",
+   "NAME": "[Endeavor Air](https://airlinecodes.info/9E)"
+ },
+ {
+   "IATA": "9H",
+   "ICAO": "DNL",
+   "NAME": "[Dutch Antilles Express](https://airlinecodes.info/9H)"
+ },
+ {
+   "IATA": "9I",
+   "ICAO": "LLR",
+   "NAME": "[Alliance Air](https://airlinecodes.info/9I)"
+ },
+ {
+   "IATA": "9K",
+   "ICAO": "KAP",
+   "NAME": "[Cape Air](https://airlinecodes.info/9K)"
+ },
+ {
+   "IATA": "9L",
+   "ICAO": "CJC",
+   "NAME": "[Colgan Air](https://airlinecodes.info/9L)"
+ },
+ {
+   "IATA": "9Q",
+   "ICAO": "PBA",
+   "NAME": "[PB Air](https://airlinecodes.info/9Q)"
+ },
+ {
+   "IATA": "9R",
+   "ICAO": "VAP",
+   "NAME": "[Phuket Air](https://airlinecodes.info/9R)"
+ },
+ {
+   "IATA": "9S",
+   "ICAO": "SOO",
+   "NAME": "[Southern Air](https://airlinecodes.info/9S)"
+ },
+ {
+   "IATA": "9T",
+   "ICAO": "ABS",
+   "NAME": "[Transwest Air](https://airlinecodes.info/9T)"
+ },
+ {
+   "IATA": "9T",
+   "ICAO": "RUN",
+   "NAME": "[Air ACT](https://airlinecodes.info/9T)"
+ },
+ {
+   "IATA": "9U",
+   "ICAO": "MLD",
+   "NAME": "[Air Moldova](https://airlinecodes.info/9U)"
+ },
+ {
+   "IATA": "9W",
+   "ICAO": "JAI",
+   "NAME": "[Jet Airways](https://airlinecodes.info/9W)"
+ },
+ {
+   "IATA": "9X",
+   "ICAO": "ACL",
+   "NAME": "[Itali Airlines](https://airlinecodes.info/9X)"
+ }
+]
