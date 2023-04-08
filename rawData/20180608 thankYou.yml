@@ -1,0 +1,433 @@
+---
+-
+    Language: Afrikaans
+    item: dankie
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Albanian
+    item: faleminderit
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Arabic
+    item: shukran
+    native: ُكْراً‏
+    phonetic: 
+    description: 
+-
+    Language: Armenian
+    item: 
+    native: շնորհակալություն
+    phonetic: chnorakaloutioun
+    description: 
+-
+    Language: Bosnian
+    item: hvala
+    native: 
+    phonetic: hvah-lah
+    description: 
+-
+    Language: Bulgarian
+    item: 
+    native: благодаря
+    phonetic: blagodaria
+    description: 
+-
+    Language: Cantonese (gift)
+    item: 多謝
+    native: dòjeh
+    phonetic: 
+    description: 
+-
+    Language: Cantonese (service)
+    item: 唔該
+    native: m̀hgòi
+    phonetic: 
+    description: 
+-
+    Language: Catalan
+    item: 
+    native: gràcies
+    phonetic: grah-syuhs
+    description: 
+-
+    Language: Chinese
+    item: xièxie
+    native: 谢谢
+    phonetic: 
+    description: 
+-
+    Language: Croatian
+    item: hvala
+    native: hvah-lah
+    phonetic: 
+    description: 
+-
+    Language: Czech
+    item: 
+    native: děkuji
+    phonetic: dyekooyih
+    description: 
+-
+    Language: Danish
+    item: tak
+    native: 
+    phonetic: tahg
+    description: 
+-
+    Language: Dutch
+    item: dank u
+    native: dankjewel
+    phonetic: 
+    description: 
+-
+    Language: English
+    item: thank you
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Estonian
+    item: 
+    native: tänan
+    phonetic: ta-nahn
+    description: 
+-
+    Language: Ethiopian
+    item: 
+    native: አመሰግናለሁ
+    phonetic: āmeseginalehu
+    description: amharic language
+-
+    Language: Farsi
+    item: salam
+    native: متشکرم
+    phonetic: 
+    description: 
+-
+    Language: Filipino
+    item: salamat
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Finnish
+    item: kiitos
+    native: 
+    phonetic: kee-tohss
+    description: 
+-
+    Language: Flemish
+    item: merci
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: French
+    item: merci
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: German
+    item: danke
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Greek
+    item: efharisto
+    native: ευχαριστώ
+    phonetic: 
+    description: 
+-
+    Language: Gujarati
+    item: 
+    native: આભાર
+    phonetic: ābhāra
+    description: 
+-
+    Language: Hawaiian
+    item: mahalo
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Hebrew
+    item: todah
+    native: תודה
+    phonetic: toh-dah
+    description: 
+-
+    Language: Hindi
+    item: shukriya
+    native: धन्यवाद।
+    phonetic: dhanyavād
+    description: 
+-
+    Language: Hungarian
+    item: 
+    native: köszönöm
+    phonetic: kø-sø-nøm
+    description: 
+-
+    Language: Icelandic
+    item: takk
+    native: 
+    phonetic: tahk
+    description: 
+-
+    Language: Indonesian
+    item: terima kasih
+    native: 
+    phonetic: tuh-ree-mah kah-see
+    description: 
+-
+    Language: Irish
+    item: 
+    native: go raibh maith agat
+    phonetic: guh rev mah a-gut
+    description: gaelic
+-
+    Language: Italian
+    item: grazie 
+    native: graht-tsyeh
+    phonetic: 
+    description: 
+-
+    Language: Japanese
+    item: arigatô
+    native: ありがとう
+    phonetic: ah-ree-gah-toh
+    description: 
+-
+    Language: Korean
+    item: gamsahabnida
+    native: 감사합니다
+    phonetic: 
+    description: 
+-
+    Language: Lakota
+    item: 
+    native: pilámaya
+    phonetic: 
+    description: 
+-
+    Language: Latin
+    item: gratias
+    native: 
+    phonetic: 
+    description: plural: tibi / vobis
+-
+    Language: Latvian
+    item: paldies 
+    native: puhl-dyehs
+    phonetic: 
+    description: 
+-
+    Language: Lebanese
+    item: chokran
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Lebanese
+    item: choukrane
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Lithuanian
+    item: ačiū
+    native: ah-choo
+    phonetic: 
+    description: 
+-
+    Language: Macedonian
+    item: blagodaram
+    native: благодарам
+    phonetic: blah-goh-dah-rahm
+    description: 
+-
+    Language: Malay
+    item: terima kasih 
+    native: tree-muh kah-seh
+    phonetic: 
+    description: 
+-
+    Language: Maltese
+    item: grazzi 
+    native: gruts-ee
+    phonetic: 
+    description: 
+-
+    Language: Mandarin
+    item: xièxiè
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Mongolian
+    item: bayarlalaa
+    native: баярлалаа
+    phonetic: 
+    description: 
+-
+    Language: Navajo
+    item: ahéhee
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Norwegian
+    item: takk
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Ojibwe
+    item: miigwech
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Polish
+    item: dziękuję
+    native: jenkoo-yen
+    phonetic: 
+    description: 
+-
+    Language: Portuguese
+    item: obrigado
+    native: 
+    phonetic: 
+    description: masculine: obrigado & feminine: obrigada
+-
+    Language: Punjabi
+    item: 
+    native: ਤੁਹਾਡਾ ਧੰਨਵਾਦ
+    phonetic: tuhāḍā dhanavāda
+    description: 
+-
+    Language: Romanian
+    item: mulţumesc
+    native: 
+    phonetic: mool-tzoo-mesk
+    description: 
+-
+    Language: Russian
+    item: n/a
+    native: спасибо
+    phonetic: spuh-see-buh 
+    description: 
+-
+    Language: Serbian
+    item: hvala
+    native: xвала
+    phonetic: hvah-lah
+    description: 
+-
+    Language: Slovak
+    item: ďakujem
+    native: jah-koo-yehm
+    phonetic: 
+    description: 
+-
+    Language: Slovenian
+    item: hvala
+    native: hvaa-lah
+    phonetic: 
+    description: 
+-
+    Language: Spanish
+    item: gracias
+    native: grah-syahs
+    phonetic: 
+    description: 
+-
+    Language: Swahili
+    item: asante
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Swedish
+    item: tack
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Tagalog
+    item: salamat
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Taiwanese
+    item: 
+    native: 多謝
+    phonetic: to-siā
+    description: 
+-
+    Language: Tamil
+    item: nandri
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Thai
+    item: khop khun mak kha
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Thai
+    item: kop khun
+    native: 
+    phonetic: 
+    description: 
+-
+    Language: Turkish
+    item: 
+    native: teşekkür ederim
+    phonetic: teh shek uer eh der eem
+    description: 
+-
+    Language: Twi
+    item: meda
+    native: 
+    phonetic: w’ase
+    description: 
+-
+    Language: Ukrainian
+    item: 
+    native: дякую 
+    phonetic: dyah-koo-yoo
+    description: 
+-
+    Language: Vietnamese
+    item: 
+    native: cám ơn bạn
+    phonetic: 
+    description: 
+-
+    Language: Welsh
+    item: diolch
+    native: dee-ol’ch
+    phonetic: 
+    description: 
+-
+    Language: Yiddish
+    item: a dank
+    native: אדאנק
+    phonetic: adank
+    description: 
+-
+    Language: Zulu
+    item: ngiyabonga
+    native: 
+    phonetic: 
+    description: 
