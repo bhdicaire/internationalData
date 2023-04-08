@@ -70,6 +70,8 @@ Rather than juggle TLDs, gTLDs, or ccTLDs yourself, A public suffix is also some
 
 Zones:
 1. North American Numbering Plan (NANP)
+  * [20230408 Telephony Zone1.md](20230408%20Telephony%20Zone1.md)
+  * [20230408 Telephony Zone1.csv](20230408%20Telephony%20Zone1.csv)
 2. Mostly Africa
 3. Europe
 4. Europe
