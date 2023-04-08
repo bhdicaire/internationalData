@@ -664,11 +664,6 @@
 | UX | AEA | [Air Europa](https://airlinecodes.info/UX) |
 | UY | UYC | [Cameroon Airlines](https://airlinecodes.info/UY) |
 | UZ | BRQ | [El-Buraq Air Transport](https://airlinecodes.info/UZ) |
-You are viewing airline IATA codes beginning with **V**:
-
-
-| IATA | ICAO | NAME |
-| --- | --- | --- |
 | V0 | VCV | [Conviasa](https://airlinecodes.info/V0) |
 | V2 | AKT | [Karat](https://airlinecodes.info/V2) |
 | V3 | KRP | [Carpatair](https://airlinecodes.info/V3) |
