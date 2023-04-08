@@ -2,12 +2,12 @@
 
 | **TLD** | **Sub domains** | **Guidance** |
 | --- | --- | --- |
-| ac | com.ac\nedu.ac|http://nic.ac/rules.htm |
-gov.ac
-net.ac
-mil.ac
-org.ac
-
+| ac | * com.ac
+ * edu.ac
+ * gov.ac
+ * net.ac
+ * mil.ac
+ * org.ac|http://nic.ac/rules.htm |
 |ad | nom.ad | https://en.wikipedia.org/wiki/.ad |
 
 // ae : https://tdra.gov.ae/en/aeda/ae-policies
