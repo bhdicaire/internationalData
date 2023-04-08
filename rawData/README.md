@@ -1,8 +1,11 @@
 # rawData
 
 ## United Nation country names
-The [United Nations (UN) group of experts on geographical names ](https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/26th-gegn-docs/WP/WP54_UNGEGN%20WG%20Country%20Names%20Document%202011.pdf) document the short and the formal countries names for the official national languages and the UN official languages (e.g. English, French, Spanish, Russian, Chinese, and Arabic).
 
+During the 11th United Nations Conference on the Standardization of Geographical Names (e.g., New York, 8 -17 August 2017), the Working Group on Country Names updated the [list of country names](https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/11th-uncsgn-docs/E_Conf.105_13_CRP.13_15_UNGEGN%20WG%20Country%20Names%20Document.pdf).
+
+ * [20170817 UnitedNations Countries.xlsx](https://github.com/bhdicaire/internationalData/blob/master/rawData/20170817 UnitedNations Countries.xlsx)
+ * [20170817 UnitedNations Countries.pdf](20170817%20UnitedNations%20Countries.pdf)
 ## ISO 3166 country codes (2020 edition)
 
 [ISO 3166 is the International Standard for country codes](https://www.iso.org/iso-3166-country-codes.html), codes for subdivisions and formerly used codes (codes that were once used to describe countries but are no longer in use).
@@ -14,7 +17,7 @@ The country codes can be represented either as a two-letter code (alpha-2) which
 
 How many countries are there in the world? The answer to this simple question is more complicated than most people think. [Offbeat Travelling](https://www.offbeattravelling.com/) identified 374 countries, de facto states, regions, territories and unrecognised states on the 8th release (e.g., 2023-03-22) of their [spreadsheet](https://www.offbeattravelling.com/spreadsheet-make-sense-of-all-countries-territories-in-world/).
 
-Sources
+### Sources
 | **Source** |**URL** |
 | --- | --- |
 | UN Memberstates|http://www.un.org/en/member-states/index.html|
