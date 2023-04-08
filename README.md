@@ -2,11 +2,11 @@
 
 InternationalData use a combination of letters and numbers that are understood all over the world but don't expect everyone to agree on the specifics.
 
-This repository [consolidate structured data](https://github.com/bhdicaire/internationalData/blob/master/rawData/README.md) related to airport and airline, countries, holidays, telephony, and time zones.
+This [repository consolidate structured data](https://github.com/bhdicaire/internationalData/blob/master/rawData/README.md) related to airport and airline, countries, holidays, telephony, and time zones in CSV, JSON, and YAML format.
 
 Fork this repository and improve your library. Even better, send me an update :grin:
 
-| **Country**                          | **Flag ** | **ISO Code**  | **Region**  | **Continent** | **Domain Name** |
+| **Country**                          | **Flag** | **ISO Code**  | **Region**  | **Continent** | **Domain Name** |
 |--------------------------------------|----------|---------|---------------------------|---------------|-----------|
 | Afghanistan                          | 🇦🇫     | AFG     | Southern Asia             | Asia          |.af|
 | Åland Islands                        | 🇦🇽     | ALA     | Northern Europe           | Europe        |.ax|
@@ -256,7 +256,7 @@ Fork this repository and improve your library. Even better, send me an update :g
 | Viet Nam                             | 🇻🇳     | VNM     | South\-eastern Asia       | Asia          |.vn|
 | Wales                                | 🏴󠁧󠁢󠁷󠁬󠁳󠁿     | GB-WLS  | Northern Europe           | Europe        |.uk|
 | Wallis and Futuna Islands            | 🇼🇫     | WLF     | Polynesia                 | Oceania       |.wf|
-| Western Sahara                       | 🇪🇭     | ESH     | Northern Africa           | Africa        |eh.|
+| Western Sahara                       | 🇪🇭     | ESH     | Northern Africa           | Africa        |.eh|
 | Yemen                                | 🇾🇪     | YEM     | Western Asia              | Asia          |.ye|
 | Zambia                               | 🇿🇲     | ZMB     | Eastern Africa            | Africa        |.zm|
 | Zimbabwe                             | 🇿🇼     | ZWE     | Eastern Africa            | Africa        |.zw|
