@@ -2,23 +2,10 @@
 
 | **TLD** | **Sub domains** | **Guidance** |
 | --- | --- | --- |
-| ac | * com.ac
- * edu.ac
- * gov.ac
- * net.ac
- * mil.ac
- * org.ac|http://nic.ac/rules.htm |
+| ac | com.ac, edu.ac, gov.ac, net.ac, mil.ac, org.ac|http://nic.ac/rules.htm |
 |ad | nom.ad | https://en.wikipedia.org/wiki/.ad |
+|ae | co.ae, net.ae, org.ae, sch.ae, ac.ae, gov.ae, mil.ae |  https://tdra.gov.ae/en/aeda/ae-policies |
 
-// ae : https://tdra.gov.ae/en/aeda/ae-policies
-ae
-co.ae
-net.ae
-org.ae
-sch.ae
-ac.ae
-gov.ae
-mil.ae
 
 // aero : see https://www.information.aero/index.php?id=66
 aero
