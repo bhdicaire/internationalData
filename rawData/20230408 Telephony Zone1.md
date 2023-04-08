@@ -1,4 +1,4 @@
-# Area codes by country, state, province, and regions
+# North American Numbering Plan (NANP) sorted by country, state, province, and regions
 
 ## United States of America
 
