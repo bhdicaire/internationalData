@@ -1,8 +1,9 @@
 # Area codes by country, state, province, and regions
 
 ## United States of America
+
 | State | Codes |
-| --- | --- | |
+| --- | --- |
 | Alabama|205, 251, 256, 334, 659, 938 |
 | Alaska | 907 |
 | Arizona | 480, 520, 602, 623, 928 |
