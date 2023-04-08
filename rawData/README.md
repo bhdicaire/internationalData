@@ -5,9 +5,9 @@
 IATA and ICAO manage the [airport](https://airportcodes.aero/), and [airline codes](https://airportcodes.aero/).
 
  * [20230408 airlineCodes.md](20230408%20airlineCodes.md)
- * [20230408 airlineCodes.md](20230408%20airlineCodes.csv)
+ * [20230408 airlineCodes.csv](20230408%20airlineCodes.csv)
  * [20230408 airportCodes.md](20230408%airportCodes.md)
- * [20230408 airportCodes.md](20230408%airportCodes.csv)
+ * [20230408 airportCodes.csv](20230408%airportCodes.csv)
 
 ## Countries
 
