@@ -56,3 +56,11 @@ How many countries are there in the world? The answer to this simple question is
 | Schengen | https://en.wikipedia.org/wiki/Microstates_and_the_European_Union|
 | Schengen | http://ec.europa.eu/dgs/home-affairs/e-library/docs/schengen_brochure/schengen_brochure_dr3111126_en.pdf|
 | Commonwealth | http://thecommonwealth.org/member-countries|
+
+## Internet Domain Names
+
+The [Public Suffix List](https://publicsuffix.org/) is an initiative of [Mozilla](https://www.mozilla.org/), but is maintained as a community resource as a [list of all known public suffixes](https://publicsuffix.org/list/public_suffix_list.dat). A _public suffix_ is one under which Internet users can directly register an internet domain name such as `Dicaire.com`under the `.com`top level domain (TLD).
+
+ * [20230408 internetDomainNames.md](20230408%20internetDomainNames.md)
+ * [20230408 internetDomainNames.csv](20230408%20internetDomainNames.csv)
+
