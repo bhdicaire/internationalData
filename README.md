@@ -1,16 +1,12 @@
 ![logo](https://github.com/bhdicaire/internationalData/raw/master/rawData/logo.png)
 
-InternationalData use a combination of letters and numbers that are understood all over the world but don't expect everyone to agree on the specifics. Furthermore the information will change depending on the language being used. You should use codes to consolidate data from several sources.
+InternationalData use a combination of letters and numbers that are understood all over the world but don't expect everyone to agree on the specifics.
 
-Refer to [rawData](https://github.com/bhdicaire/internationalData/blob/master/rawData/README.md) for more details related to:
-* Air —
-* Countries —  UN country name and ISO 3166 country codes (2013 edition)
-* Telephony —
-* Holidays —
-* Time zones
+This repository [consolidate structured data](https://github.com/bhdicaire/internationalData/blob/master/rawData/README.md) related to airport and airline, countries, holidays, telephony, and time zones.
 
+Fork this repository and improve your library. Even better, send me an update :grin:
 
-| **Country**                          | **Flag Emoji** | **ISO Code**  | **Region**  | **Continent** | **ccTLD** |
+| **Country**                          | **Flag ** | **ISO Code**  | **Region**  | **Continent** | **Domain Name** |
 |--------------------------------------|----------|---------|---------------------------|---------------|-----------|
 | Afghanistan                          | 🇦🇫     | AFG     | Southern Asia             | Asia          |.af|
 | Åland Islands                        | 🇦🇽     | ALA     | Northern Europe           | Europe        |.ax|
