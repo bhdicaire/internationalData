@@ -22,6 +22,12 @@ The country codes can be represented either as a two-letter code (alpha-2) which
 
 ### United Nation country names
 
+The [United Nations Statistics Division](https://unstats.un.org/UNSDWebsite/) is committed to the advancement of the global statistical system. The [standard country or area codes for statistical use](https://unstats.un.org/unsd/methodology/m49/overview) also known as M49 is a good baseline for multiple use cases.
+
+ * [20230408 unitedNations M49 (english).csv]20230408%20unitedNations%20M49.en.csv)
+ * [20230408 unitedNations M49 (french).csv]20230408%20unitedNations%20M49.fr.csv)
+ * [20230408 unitedNations M49 (spanish).csv]20230408%20unitedNations%20M49.es.csv)
+
 During the 11th United Nations Conference on the Standardization of Geographical Names (e.g., New York, 8 -17 August 2017), the Working Group on Country Names updated the [list of country names](https://unstats.un.org/unsd/geoinfo/UNGEGN/docs/11th-uncsgn-docs/E_Conf.105_13_CRP.13_15_UNGEGN%20WG%20Country%20Names%20Document.pdf).
 
  * [20170817 UnitedNations Countries.xlsx](20170817%20UnitedNations%20Countries.xlsx)
