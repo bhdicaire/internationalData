@@ -1,0 +1,941 @@
+# Airline Codes sorted by IATA code
+
+| IATA | ICAO | NAME |
+| --- | --- | --- |
+| A2 | CIU | [Cielos Airlines](https://airlinecodes.info/A2) |
+| A3 | AEE | [Aegean Airlines](https://airlinecodes.info/A3) |
+| A4 | SWD | [Southern Winds Airlines](https://airlinecodes.info/A4) |
+| A5 | HOP | [Air France Hop](https://airlinecodes.info/A5) |
+| A6 | LPV | [Air Alps Aviation](https://airlinecodes.info/A6) |
+| A7 | MPD | [Air Plus Comet](https://airlinecodes.info/A7) |
+| A8 | AMF | [Ameriflight](https://airlinecodes.info/A8) |
+| A9 | TGZ | [Georgian Airways](https://airlinecodes.info/A9) |
+| AA | AAL | [American Airlines](https://airlinecodes.info/AA) |
+| AB | BER | [Air Berlin](https://airlinecodes.info/AB) |
+| AC | ACA | [Air Canada](https://airlinecodes.info/AC) |
+| AD | AZU | [Azul Linhas Aéreas Brasileiras](https://airlinecodes.info/AD) |
+| AE | MDA | [Mandarin Airlines](https://airlinecodes.info/AE) |
+| AF | AFR | [Air France](https://airlinecodes.info/AF) |
+| AG | ABR | [ASL Airlines Ireland](https://airlinecodes.info/AG) |
+| AH | DAH | [Air Algérie](https://airlinecodes.info/AH) |
+| AI | AIC | [Air India](https://airlinecodes.info/AI) |
+| AJ | NIG | [Aero Contractors](https://airlinecodes.info/AJ) |
+| AK | AXM | [AirAsia](https://airlinecodes.info/AK) |
+| AL | TXC | [Transaviaexport](https://airlinecodes.info/AL) |
+| AL | SYX | [Skywalk Airlines](https://airlinecodes.info/AL) |
+| AM | AMX | [Aeroméxico](https://airlinecodes.info/AM) |
+| AN | WSN | [Advanced Air](https://airlinecodes.info/AN) |
+| AO | AUZ | [Australian Airlines](https://airlinecodes.info/AO) |
+| AP | ADH | [Air One](https://airlinecodes.info/AP) |
+| AP | AIB | [Airbus Industrie](https://airlinecodes.info/AP) |
+| AR | ARG | [Aerolíneas Argentinas](https://airlinecodes.info/AR) |
+| AS | ASA | [Alaska Airlines](https://airlinecodes.info/AS) |
+| AT | RAM | [Royal Air Maroc](https://airlinecodes.info/AT) |
+| AU | AUT | [Austral Lineas Aereas](https://airlinecodes.info/AU) |
+| AV | AVA | [Avianca](https://airlinecodes.info/AV) |
+| AW | SCH | [CHC Airways](https://airlinecodes.info/AW) |
+| AW | DIR | [Dirgantara Air Service](https://airlinecodes.info/AW) |
+| AX | LOF | [Trans States Airlines](https://airlinecodes.info/AX) |
+| AY | FIN | [Finnair](https://airlinecodes.info/AY) |
+| AZ | ITY | [ITA Airways](https://airlinecodes.info/AZ) |
+| B2 | BRU | [Belavia Belarusian Airlines](https://airlinecodes.info/B2) |
+| B3 | BLV | [Bellview Airlines](https://airlinecodes.info/B3) |
+| B4 | GSM | [Flyglobespan](https://airlinecodes.info/B4) |
+| B4 | BCF | [BACH Flugbetriebsges](https://airlinecodes.info/B4) |
+| B4 | BKA | [Bankair](https://airlinecodes.info/B4) |
+| B5 | EXZ | [East African Safari Air Express](https://airlinecodes.info/B5) |
+| B6 | JBU | [JetBlue](https://airlinecodes.info/B6) |
+| B7 | UIA | [Uni Airways](https://airlinecodes.info/B7) |
+| B8 | ERT | [Eritrean Airlines](https://airlinecodes.info/B8) |
+| B9 | BGD | [Air Bangladesh](https://airlinecodes.info/B9) |
+| BA | BAW | [British Airways](https://airlinecodes.info/BA) |
+| BB | SBS | [Seaborne Airlines](https://airlinecodes.info/BB) |
+| BC | SKY | [Skymark Airlines](https://airlinecodes.info/BC) |
+| BE | BEE | [Flybe](https://airlinecodes.info/BE) |
+| BF | RSR | [Aero-Service](https://airlinecodes.info/BF) |
+| BF | BBD | [Bluebird Cargo](https://airlinecodes.info/BF) |
+| BG | BBC | [Biman Bangladesh Airlines](https://airlinecodes.info/BG) |
+| BI | RBA | [Royal Brunei Airlines](https://airlinecodes.info/BI) |
+| BJ | LBT | [Nouvel Air Tunisie](https://airlinecodes.info/BJ) |
+| BK | PDC | [Potomac Air](https://airlinecodes.info/BK) |
+| BL | PIC | [Jetstar Pacific](https://airlinecodes.info/BL) |
+| BM | BMR | [bmi regional](https://airlinecodes.info/BM) |
+| BN | HZA | [Horizon Airlines](https://airlinecodes.info/BN) |
+| BN | BNF | [Braniff International Airways](https://airlinecodes.info/BN) |
+| BO | BOU | [Bouraq Indonesia Airlines](https://airlinecodes.info/BO) |
+| BP | BOT | [Air Botswana](https://airlinecodes.info/BP) |
+| BQ | BKV | [Bukovyna Airlines](https://airlinecodes.info/BQ) |
+| BR | EVA | [EVA Air](https://airlinecodes.info/BR) |
+| BS | BIH | [British International Helicopters](https://airlinecodes.info/BS) |
+| BT | BTI | [airBaltic](https://airlinecodes.info/BT) |
+| BU | CNO | [SAS Braathens](https://airlinecodes.info/BU) |
+| BV | BPA | [Blue Panorama Airlines](https://airlinecodes.info/BV) |
+| BW | BWA | [Caribbean Airlines](https://airlinecodes.info/BW) |
+| BX | ABL | [Air Busan](https://airlinecodes.info/BX) |
+| BY | TOM | [TUI Airways](https://airlinecodes.info/BY) |
+| BZ | BDA | [Blue Dart Aviation](https://airlinecodes.info/BZ) |
+| BZ | KEE | [Keystone Air Services](https://airlinecodes.info/BZ) |
+| C0 | CLW | [Centralwings](https://airlinecodes.info/C0) |
+| C4 | IMX | [Zimex Aviation](https://airlinecodes.info/C4) |
+| C5 | UCA | [CommutAir](https://airlinecodes.info/C5) |
+| C6 | CJA | [CanJet](https://airlinecodes.info/C6) |
+| C7 | RLE | [Rico Linhas Aéreas](https://airlinecodes.info/C7) |
+| C9 | RUS | [Cirrus Airlines](https://airlinecodes.info/C9) |
+| CA | CCA | [Air China](https://airlinecodes.info/CA) |
+| CC | ABD | [Air Atlanta Icelandic](https://airlinecodes.info/CC) |
+| CE | NTW | [Nationwide Airlines](https://airlinecodes.info/CE) |
+| CF | CYZ | [China Postal Airlines](https://airlinecodes.info/CF) |
+| CG | TOK | [Airlines PNG](https://airlinecodes.info/CG) |
+| CH | BMJ | [Bemidji Airlines](https://airlinecodes.info/CH) |
+| CI | CAL | [China Airlines](https://airlinecodes.info/CI) |
+| CJ | CBF | [China Northern Airlines](https://airlinecodes.info/CJ) |
+| CJ | CFE | [Cityflyer Express](https://airlinecodes.info/CJ) |
+| CK | CKK | [China Cargo Airlines](https://airlinecodes.info/CK) |
+| CL | CLH | [Lufthansa CityLine](https://airlinecodes.info/CL) |
+| CM | CMP | [Copa Airlines](https://airlinecodes.info/CM) |
+| CN | GDC | [Grand China Air](https://airlinecodes.info/CN) |
+| CO | COA | [Continental Airlines](https://airlinecodes.info/CO) |
+| CP | CPZ | [Compass Airlines](https://airlinecodes.info/CP) |
+| CQ | EXL | [Sunshine Express Airlines](https://airlinecodes.info/CQ) |
+| CS | CMI | [Continental Micronesia](https://airlinecodes.info/CS) |
+| CT | CYL | [Alitalia CityLiner](https://airlinecodes.info/CT) |
+| CU | CUB | [Cubana de Aviación](https://airlinecodes.info/CU) |
+| CV | CLX | [Cargolux](https://airlinecodes.info/CV) |
+| CW | CWM | [Air Marshall Islands](https://airlinecodes.info/CW) |
+| CX | CPA | [Cathay Pacific](https://airlinecodes.info/CX) |
+| CY | CYP | [Cyprus Airways](https://airlinecodes.info/CY) |
+| CZ | CSN | [China Southern Airlines](https://airlinecodes.info/CZ) |
+| D3 | DAO | [Daallo Airlines](https://airlinecodes.info/D3) |
+| D4 | LID | [Alidaunia](https://airlinecodes.info/D4) |
+| D5 | DAU | [Dauair](https://airlinecodes.info/D5) |
+| D6 | ILN | [Interair South Africa](https://airlinecodes.info/D6) |
+| D7 | XFA | [FlyAsianXpress](https://airlinecodes.info/D7) |
+| D7 | RDN | [Dinar](https://airlinecodes.info/D7) |
+| D8 | IBK | [Norwegian Air International](https://airlinecodes.info/D8) |
+| D9 | DNV | [Aeroflot-Don](https://airlinecodes.info/D9) |
+| DA | GRG | [Air Georgia](https://airlinecodes.info/DA) |
+| DB | BZH | [Brit Air](https://airlinecodes.info/DB) |
+| DC | GAO | [Golden Air](https://airlinecodes.info/DC) |
+| DD | NOK | [Nok Air](https://airlinecodes.info/DD) |
+| DE | CFG | [condor](https://airlinecodes.info/DE) |
+| DG | SRQ | [Tigerair Philippines](https://airlinecodes.info/DG) |
+| DH | NAN | [Norwegian Air Norway](https://airlinecodes.info/DH) |
+| DI | BAG | [dba](https://airlinecodes.info/DI) |
+| DJ | PLB | [Polynesian Blue](https://airlinecodes.info/DJ) |
+| DJ | PBN | [Pacific Blue](https://airlinecodes.info/DJ) |
+| DK | VKG | [Thomas Cook Airlines Scandinavia](https://airlinecodes.info/DK) |
+| DL | DAL | [Delta Air Lines](https://airlinecodes.info/DL) |
+| DP | FCA | [First Choice Airways](https://airlinecodes.info/DP) |
+| DR | BIE | [Air Méditerranée](https://airlinecodes.info/DR) |
+| DS | EZS | [easyJet Switzerland](https://airlinecodes.info/DS) |
+| DT | DTA | [TAAG Angola Airlines](https://airlinecodes.info/DT) |
+| DU | NLH | [Norwegian Long Haul](https://airlinecodes.info/DU) |
+| DV | ACK | [Nantucket Airlines](https://airlinecodes.info/DV) |
+| DW | UCR | [Aero-Charter Ukraine](https://airlinecodes.info/DW) |
+| DX | DTR | [DAT Danish Air Transport](https://airlinecodes.info/DX) |
+| DY | NAX | [Norwegian Air Shuttle](https://airlinecodes.info/DY) |
+| E0 | ESS | [Eos Airlines](https://airlinecodes.info/E0) |
+| E2 | KMP | [Kampuchea Airlines](https://airlinecodes.info/E2) |
+| E2 | GRN | [Rio Grande Air](https://airlinecodes.info/E2) |
+| E3 | DMO | [Domodedovo Airlines](https://airlinecodes.info/E3) |
+| E4 | RSO | [Aero Asia International](https://airlinecodes.info/E4) |
+| E5 | BRZ | [Samara Airlines](https://airlinecodes.info/E5) |
+| E7 | ESF | [Estafeta Carga Aerea](https://airlinecodes.info/E7) |
+| E7 | EAF | [European Aviation Air Charter](https://airlinecodes.info/E7) |
+| E8 | ELG | [Alpi Eagles](https://airlinecodes.info/E8) |
+| E9 | CXS | [Boston-Maine Airways](https://airlinecodes.info/E9) |
+| EA | EAL | [Eastern Air Lines](https://airlinecodes.info/EA) |
+| EC | EJU | [easyJet Europe](https://airlinecodes.info/EC) |
+| ED | ABQ | [Airblue](https://airlinecodes.info/ED) |
+| EE | EAY | [Aero Airlines](https://airlinecodes.info/EE) |
+| EF | EFA | [Far Eastern Air Transport](https://airlinecodes.info/EF) |
+| EG | JAA | [Japan Asia Airways](https://airlinecodes.info/EG) |
+| EH | AKX | [ANA Wings](https://airlinecodes.info/EH) |
+| EI | EIN | [Aer Lingus](https://airlinecodes.info/EI) |
+| EJ | NEA | [New England Airlines](https://airlinecodes.info/EJ) |
+| EK | UAE | [Emirates](https://airlinecodes.info/EK) |
+| EL | ANK | [Air Nippon](https://airlinecodes.info/EL) |
+| EM | CFS | [Empire Airlines](https://airlinecodes.info/EM) |
+| EN | DLA | [Air Dolomiti](https://airlinecodes.info/EN) |
+| EO | ALX | [Hewa Bora Airways](https://airlinecodes.info/EO) |
+| EO | LHN | [Express One International](https://airlinecodes.info/EO) |
+| EP | IRC | [Iran Aseman Airlines](https://airlinecodes.info/EP) |
+| EQ | TAE | [TAME](https://airlinecodes.info/EQ) |
+| ER | DHL | [Astar Air Cargo](https://airlinecodes.info/ER) |
+| ES | DHX | [DHL International](https://airlinecodes.info/ES) |
+| ET | ETH | [Ethiopian Airlines](https://airlinecodes.info/ET) |
+| EU | EEA | [Ecuatoriana](https://airlinecodes.info/EU) |
+| EV | ASQ | [ExpressJet](https://airlinecodes.info/EV) |
+| EW | EWG | [Eurowings](https://airlinecodes.info/EW) |
+| EX | SDO | [Air Santo Domingo](https://airlinecodes.info/EX) |
+| EY | ETD | [Etihad Airways](https://airlinecodes.info/EY) |
+| EZ | EIA | [Evergreen International Airlines](https://airlinecodes.info/EZ) |
+| EZ | SUS | [Sun Air of Scandinavia](https://airlinecodes.info/EZ) |
+| F2 | FLM | [Fly Air](https://airlinecodes.info/F2) |
+| F3 | FSW | [Faso Airways](https://airlinecodes.info/F3) |
+| F4 | NBK | [Albarka Air](https://airlinecodes.info/F4) |
+| F5 | COZ | [Cosmic Air](https://airlinecodes.info/F5) |
+| F6 | RCK | [Faroejet](https://airlinecodes.info/F6) |
+| F7 | BBO | [Flybaboo](https://airlinecodes.info/F7) |
+| F9 | FFT | [Frontier Airlines](https://airlinecodes.info/F9) |
+| FA | SFR | [Safair](https://airlinecodes.info/FA) |
+| FB | LZB | [Bulgaria Air](https://airlinecodes.info/FB) |
+| FC | WBA | [Finncomm Airlines](https://airlinecodes.info/FC) |
+| FD | AIQ | [Thai AirAsia](https://airlinecodes.info/FD) |
+| FE | WCP | [Primaris Airlines](https://airlinecodes.info/FE) |
+| FG | AFG | [Ariana Afghan Airlines](https://airlinecodes.info/FG) |
+| FH | FHY | [Freebird Airlines](https://airlinecodes.info/FH) |
+| FI | ICE | [Icelandair](https://airlinecodes.info/FI) |
+| FJ | FJI | [Fiji Airways](https://airlinecodes.info/FJ) |
+| FK | WTA | [Africa West](https://airlinecodes.info/FK) |
+| FL | TRS | [AirTran Airways](https://airlinecodes.info/FL) |
+| FM | CSH | [Shanghai Airlines](https://airlinecodes.info/FM) |
+| FO | ATM | [Airlines Of Tasmania](https://airlinecodes.info/FO) |
+| FP | FRE | [Freedom Air](https://airlinecodes.info/FP) |
+| FR | RYR | [Ryanair](https://airlinecodes.info/FR) |
+| FS | FOX | [Flyr](https://airlinecodes.info/FS) |
+| FT | SRH | [Siem Reap Airways](https://airlinecodes.info/FT) |
+| FV | PLK | [Pulkovo Aviation Enterprise](https://airlinecodes.info/FV) |
+| FV | SDM | [Rossiya](https://airlinecodes.info/FV) |
+| FW | IBX | [Ibex Airlines](https://airlinecodes.info/FW) |
+| FX | FDX | [FedEx Express](https://airlinecodes.info/FX) |
+| FY | NWR | [Northwest Regional Airlines](https://airlinecodes.info/FY) |
+| FY | FFM | [Firefly](https://airlinecodes.info/FY) |
+| FZ | FDB | [Flydubai](https://airlinecodes.info/FZ) |
+| G0 | GHB | [Ghana International Airlines](https://airlinecodes.info/G0) |
+| G2 | VXG | [Avirex](https://airlinecodes.info/G2) |
+| G3 | GLO | [GOL Linhas Aéreas Inteligentes](https://airlinecodes.info/G3) |
+| G4 | AAY | [Allegiant Air](https://airlinecodes.info/G4) |
+| G5 | HXA | [China Express Airlines](https://airlinecodes.info/G5) |
+| G6 | BSR | [Guine Bissaur Airlines](https://airlinecodes.info/G6) |
+| G7 | GJS | [GoJet Airlines](https://airlinecodes.info/G7) |
+| G8 | GOW | [GoAir](https://airlinecodes.info/G8) |
+| G9 | ABY | [Air Arabia](https://airlinecodes.info/G9) |
+| GA | GIA | [Garuda Indonesia](https://airlinecodes.info/GA) |
+| GB | ABX | [ABX Air](https://airlinecodes.info/GB) |
+| GC | GNR | [Gambia International Airlines](https://airlinecodes.info/GC) |
+| GD | AHA | [Air Alpha Greenland](https://airlinecodes.info/GD) |
+| GE | TNA | [TransAsia Airways](https://airlinecodes.info/GE) |
+| GF | GFA | [Gulf Air](https://airlinecodes.info/GF) |
+| GG | HAH | [Air Comores International](https://airlinecodes.info/GG) |
+| GG | GUY | [Air Guyane](https://airlinecodes.info/GG) |
+| GG | GGC | [Cargo 360](https://airlinecodes.info/GG) |
+| GH | GHA | [Ghana Airways](https://airlinecodes.info/GH) |
+| GI | LHA | [Longhao Airlines](https://airlinecodes.info/GI) |
+| GJ | EEU | [Eurofly Service](https://airlinecodes.info/GJ) |
+| GJ | MXC | [Compania Mexicargo](https://airlinecodes.info/GJ) |
+| GK | JJP | [Jetstar Japan](https://airlinecodes.info/GK) |
+| GL | BSK | [Miami Air International](https://airlinecodes.info/GL) |
+| GL | GRL | [Air Greenland](https://airlinecodes.info/GL) |
+| GM | SVK | [Air Slovakia](https://airlinecodes.info/GM) |
+| GN | AGN | [Air Gabon](https://airlinecodes.info/GN) |
+| GO | KZU | [Kuzu Airlines Cargo](https://airlinecodes.info/GO) |
+| GP | GES | [Gestair](https://airlinecodes.info/GP) |
+| GP | PTP | [Palau Trans Pacific Airline](https://airlinecodes.info/GP) |
+| GQ | BSY | [Big Sky Airlines](https://airlinecodes.info/GQ) |
+| GR | AUR | [Aurigny Air Services](https://airlinecodes.info/GR) |
+| GR | GCO | [Gemini Air Cargo](https://airlinecodes.info/GR) |
+| GS | GCR | [Tianjin Airlines](https://airlinecodes.info/GS) |
+| GT | GBL | [GB Airways](https://airlinecodes.info/GT) |
+| GV | GUN | [Grant Aviation](https://airlinecodes.info/GV) |
+| GW | KIL | [Kuban Airlines](https://airlinecodes.info/GW) |
+| GX | JXX | [Jetx Airlines](https://airlinecodes.info/GX) |
+| GY | TMG | [Tri-MG Intra Asia Airlines](https://airlinecodes.info/GY) |
+| GZ | RAR | [Rotation International Air Services](https://airlinecodes.info/GZ) |
+| H2 | SKU | [Sky Airline](https://airlinecodes.info/H2) |
+| H5 | MVL | [Mavial Magadan Airlines](https://airlinecodes.info/H5) |
+| H5 | HOA | [Hola Airlines](https://airlinecodes.info/H5) |
+| H6 | HAG | [Hageland Aviation Services](https://airlinecodes.info/H6) |
+| H8 | KHB | [Dalavia](https://airlinecodes.info/H8) |
+| H9 | IZM | [Izair](https://airlinecodes.info/H9) |
+| HA | HAL | [Hawaiian Airlines](https://airlinecodes.info/HA) |
+| HB | HGB | [Greater Bay Airlines](https://airlinecodes.info/HB) |
+| HC | ATI | [Aero-Tropics Air Services](https://airlinecodes.info/HC) |
+| HD | ADO | [Air Do](https://airlinecodes.info/HD) |
+| HE | LGW | [Luftfahrtgesellschaft Walter](https://airlinecodes.info/HE) |
+| HG | NLY | [Niki](https://airlinecodes.info/HG) |
+| HJ | AXF | [Asian Express Airlines](https://airlinecodes.info/HJ) |
+| HK | FSC | [Four Star Cargo](https://airlinecodes.info/HK) |
+| HM | SEY | [Air Seychelles](https://airlinecodes.info/HM) |
+| HN | HVY | [Heavylift Cargo Airlines](https://airlinecodes.info/HN) |
+| HO | DKH | [Juneyao Airlines](https://airlinecodes.info/HO) |
+| HP | HPA | [Pearl Airways](https://airlinecodes.info/HP) |
+| HQ | TCW | [Thomas Cook Airlines Belgium](https://airlinecodes.info/HQ) |
+| HR | HHN | [Hahn Air](https://airlinecodes.info/HR) |
+| HT | AHW | [Aeromist-Kharkiv](https://airlinecodes.info/HT) |
+| HU | CHH | [Hainan Airlines](https://airlinecodes.info/HU) |
+| HV | TRA | [Transavia](https://airlinecodes.info/HV) |
+| HW | NWL | [North-Wright Airways](https://airlinecodes.info/HW) |
+| HW | FHE | [Hello](https://airlinecodes.info/HW) |
+| HX | CRK | [Hong Kong Airlines](https://airlinecodes.info/HX) |
+| HY | UZB | [Uzbekistan Airways](https://airlinecodes.info/HY) |
+| HZ | SOZ | [Sat Airlines](https://airlinecodes.info/HZ) |
+| I2 | IBS | [Iberia Express](https://airlinecodes.info/I2) |
+| I4 | FWA | [Interstate Airline](https://airlinecodes.info/I4) |
+| I5 | IAD | [AirAsia India](https://airlinecodes.info/I5) |
+| I6 | SEQ | [Sky Eyes](https://airlinecodes.info/I6) |
+| I7 | PMW | [Paramount Airways](https://airlinecodes.info/I7) |
+| I9 | HLF | [Central Airlines](https://airlinecodes.info/I9) |
+| IA | IAW | [Iraqi Airways](https://airlinecodes.info/IA) |
+| IB | IBE | [Iberia Airlines](https://airlinecodes.info/IB) |
+| IC | IAC | [Indian Airlines](https://airlinecodes.info/IC) |
+| ID | ITK | [Interlink Airlines](https://airlinecodes.info/ID) |
+| IE | SOL | [Solomon Airlines](https://airlinecodes.info/IE) |
+| IF | ISW | [Islas Airways](https://airlinecodes.info/IF) |
+| IG | ISS | [Air Italy](https://airlinecodes.info/IG) |
+| II | CSQ | [IBC Airways](https://airlinecodes.info/II) |
+| IJ | GWL | [Great Wall Airlines](https://airlinecodes.info/IJ) |
+| IK | ITX | [Imair Airlines](https://airlinecodes.info/IK) |
+| IK | LKN | [Lankair](https://airlinecodes.info/IK) |
+| IM | MNJ | [Menajet](https://airlinecodes.info/IM) |
+| IN | MAK | [MAT Macedonian Airlines](https://airlinecodes.info/IN) |
+| IO | IAA | [Indonesian Airlines](https://airlinecodes.info/IO) |
+| IP | JOL | [Atyrau Air Ways](https://airlinecodes.info/IP) |
+| IQ | AUB | [Augsburg Airways](https://airlinecodes.info/IQ) |
+| IR | IRA | [Iran Air](https://airlinecodes.info/IR) |
+| IT | TTW | [Tigerair Taiwan](https://airlinecodes.info/IT) |
+| IV | JET | [Wind Jet](https://airlinecodes.info/IV) |
+| IV | CPN | [Caspian Airlines](https://airlinecodes.info/IV) |
+| IW | AOM | [AOM French Airlines](https://airlinecodes.info/IW) |
+| IX | AXB | [Air India Express](https://airlinecodes.info/IX) |
+| IY | IYE | [Yemenia](https://airlinecodes.info/IY) |
+| IZ | AIZ | [Arkia Israel Airlines](https://airlinecodes.info/IZ) |
+| J2 | AHY | [Azerbaijan Airlines](https://airlinecodes.info/J2) |
+| J3 | PLR | [Northwestern Air](https://airlinecodes.info/J3) |
+| J4 | BFL | [Buffalo Airways](https://airlinecodes.info/J4) |
+| J6 | VCR | [Cruiser Linhas Aéreas](https://airlinecodes.info/J6) |
+| J7 | CVC | [Centre-Avia](https://airlinecodes.info/J7) |
+| J8 | BVT | [Berjaya Air](https://airlinecodes.info/J8) |
+| J9 | JZR | [Jazeera Airways](https://airlinecodes.info/J9) |
+| JB | JBA | [Helijet](https://airlinecodes.info/JB) |
+| JC | JEX | [JAL Express](https://airlinecodes.info/JC) |
+| JE | MNO | [Mango](https://airlinecodes.info/JE) |
+| JF | LAB | [L.A.B. Flying Service](https://airlinecodes.info/JF) |
+| JH | FDA | [Fuji Dream Airlines](https://airlinecodes.info/JH) |
+| JI | MDW | [Midway Airlines](https://airlinecodes.info/JI) |
+| JJ | AGX | [Aviogenex](https://airlinecodes.info/JJ) |
+| JJ | TAM | [TAM Brazilian Airlines](https://airlinecodes.info/JJ) |
+| JK | JKK | [Spanair](https://airlinecodes.info/JK) |
+| JL | JAL | [Japan Airlines](https://airlinecodes.info/JL) |
+| JM | AJM | [Air Jamaica](https://airlinecodes.info/JM) |
+| JN | XLA | [Excel Airways](https://airlinecodes.info/JN) |
+| JO | JAZ | [JALways](https://airlinecodes.info/JO) |
+| JP | ADR | [Adria Airways](https://airlinecodes.info/JP) |
+| JQ | JST | [Jetstar Airways](https://airlinecodes.info/JQ) |
+| JR | SER | [Aero California](https://airlinecodes.info/JR) |
+| JT | LNI | [Lion Air](https://airlinecodes.info/JT) |
+| JU | JAT | [Jat Airways](https://airlinecodes.info/JU) |
+| JU | ASL | [Air Serbia](https://airlinecodes.info/JU) |
+| JV | BLS | [Bearskin Lake Air Service](https://airlinecodes.info/JV) |
+| JW | VNL | [Vanilla Air](https://airlinecodes.info/JW) |
+| JX | SJX | [STARLUX Airlines](https://airlinecodes.info/JX) |
+| JY | TCI | [Air Turks and Caicos](https://airlinecodes.info/JY) |
+| JZ | SKX | [Skyways Express](https://airlinecodes.info/JZ) |
+| K2 | ELO | [Eurolot](https://airlinecodes.info/K2) |
+| K4 | CKS | [Kalitta Air](https://airlinecodes.info/K4) |
+| K5 | ABE | [Aban Air](https://airlinecodes.info/K5) |
+| K5 | WAK | [Wings of Alaska](https://airlinecodes.info/K5) |
+| K6 | KZW | [Khalifa Airways](https://airlinecodes.info/K6) |
+| K8 | ZAK | [Airlink Zambia](https://airlinecodes.info/K8) |
+| K9 | KRI | [Krylo Airlines](https://airlinecodes.info/K9) |
+| KA | HDA | [Cathay Dragon](https://airlinecodes.info/KA) |
+| KB | DRK | [Druk Air](https://airlinecodes.info/KB) |
+| KC | KZR | [Air Astana](https://airlinecodes.info/KC) |
+| KD | WGN | [Western Global Airlines](https://airlinecodes.info/KD) |
+| KE | KAL | [Korean Air](https://airlinecodes.info/KE) |
+| KF | BLF | [Blue1](https://airlinecodes.info/KF) |
+| KG | LYM | [Key Lime Air](https://airlinecodes.info/KG) |
+| KH | AAH | [Aloha Air Cargo](https://airlinecodes.info/KH) |
+| KI | DHI | [Adam Air](https://airlinecodes.info/KI) |
+| KI | SKZ | [Skyway Enterprises](https://airlinecodes.info/KI) |
+| KJ | LAJ | [British Mediterranean Airways](https://airlinecodes.info/KJ) |
+| KK | KKK | [Atlasjet](https://airlinecodes.info/KK) |
+| KL | KLM | [KLM Royal Dutch Airlines](https://airlinecodes.info/KL) |
+| KM | AMC | [Air Malta](https://airlinecodes.info/KM) |
+| KN | CUA | [China United Airlines](https://airlinecodes.info/KN) |
+| KO | AER | [Alaska Central Express](https://airlinecodes.info/KO) |
+| KP | KIA | [Kiwi International Air Lines](https://airlinecodes.info/KP) |
+| KQ | KQA | [Kenya Airways](https://airlinecodes.info/KQ) |
+| KR | CWK | [Comores Airlines](https://airlinecodes.info/KR) |
+| KS | PEN | [Peninsula Airways](https://airlinecodes.info/KS) |
+| KU | KAC | [Kuwait Airways](https://airlinecodes.info/KU) |
+| KV | SKV | [Sky Regional Airlines](https://airlinecodes.info/KV) |
+| KX | CAY | [Cayman Airways](https://airlinecodes.info/KX) |
+| KZ | NCA | [Nippon Cargo Airlines](https://airlinecodes.info/KZ) |
+| L1 | TTL | [Total Linhas Aéreas](https://airlinecodes.info/L1) |
+| L2 | LYC | [Lynden Air Cargo](https://airlinecodes.info/L2) |
+| L3 | LTO | [LTU Austria](https://airlinecodes.info/L3) |
+| L3 | JOS | [DHL de Guatemala](https://airlinecodes.info/L3) |
+| L5 | LTR | [Lufttransport](https://airlinecodes.info/L5) |
+| L6 | VNZ | [Tbilaviamsheni](https://airlinecodes.info/L6) |
+| L7 | LPN | [Laoag International Airlines](https://airlinecodes.info/L7) |
+| L7 | LNP | [Linea Aerea SAPSA](https://airlinecodes.info/L7) |
+| L8 | LXG | [Air Luxor GB](https://airlinecodes.info/L8) |
+| L9 | TLW | [Teamline Air](https://airlinecodes.info/L9) |
+| LA | LAN | [LATAM Chile](https://airlinecodes.info/LA) |
+| LB | LLB | [Lloyd Aéreo Boliviano](https://airlinecodes.info/LB) |
+| LD | TUY | [Linea Turistica Aerotuy](https://airlinecodes.info/LD) |
+| LD | AHK | [Air Hong Kong](https://airlinecodes.info/LD) |
+| LE | NSW | [Norwegian Air Sweden](https://airlinecodes.info/LE) |
+| LF | VTE | [Contour Airlines](https://airlinecodes.info/LF) |
+| LG | LGL | [Luxair](https://airlinecodes.info/LG) |
+| LH | DLH | [Lufthansa](https://airlinecodes.info/LH) |
+| LH | GEC | [Lufthansa Cargo](https://airlinecodes.info/LH) |
+| LI | LIA | [Leeward Islands Air Transport](https://airlinecodes.info/LI) |
+| LJ | JNA | [Jin Air](https://airlinecodes.info/LJ) |
+| LK | LXR | [Air Luxor](https://airlinecodes.info/LK) |
+| LL | GRO | [Allegro](https://airlinecodes.info/LL) |
+| LN | LAA | [Libyan Arab Airlines](https://airlinecodes.info/LN) |
+| LO | LOT | [LOT Polish Airlines](https://airlinecodes.info/LO) |
+| LP | LPE | [LAN Peru](https://airlinecodes.info/LP) |
+| LQ | LAQ | [Lebanese Air Transport](https://airlinecodes.info/LQ) |
+| LR | LRC | [LACSA](https://airlinecodes.info/LR) |
+| LS | EXS | [Jet2.com](https://airlinecodes.info/LS) |
+| LT | LTU | [LTU International](https://airlinecodes.info/LT) |
+| LU | LXP | [LAN Express](https://airlinecodes.info/LU) |
+| LV | LBC | [Albanian Airlines](https://airlinecodes.info/LV) |
+| LW | NMI | [Pacific Wings](https://airlinecodes.info/LW) |
+| LX | SWR | [Swiss International Air Lines](https://airlinecodes.info/LX) |
+| LY | ELY | [El Al Israel Airlines](https://airlinecodes.info/LY) |
+| LZ | LBY | [Belle Air](https://airlinecodes.info/LZ) |
+| M2 | MZS | [Mahfooz Aviation](https://airlinecodes.info/M2) |
+| M3 | TUS | [ABSA - Aerolinhas Brasileiras](https://airlinecodes.info/M3) |
+| M3 | SPJ | [Air Service](https://airlinecodes.info/M3) |
+| M3 | NFA | [North Flying](https://airlinecodes.info/M3) |
+| M4 | NOV | [Nova Airline](https://airlinecodes.info/M4) |
+| M5 | KEN | [Kenmore Air](https://airlinecodes.info/M5) |
+| M6 | AJT | [Amerijet International](https://airlinecodes.info/M6) |
+| M7 | MAA | [MasAir](https://airlinecodes.info/M7) |
+| M9 | MSI | [Motor Sich](https://airlinecodes.info/M9) |
+| MA | MAH | [Malév Hungarian Airlines](https://airlinecodes.info/MA) |
+| MB | MNB | [MNG Airlines](https://airlinecodes.info/MB) |
+| MB | EXA | [Execair Aviation](https://airlinecodes.info/MB) |
+| MC | RCH | [Air Mobility Command](https://airlinecodes.info/MC) |
+| MD | MDG | [Air Madagascar](https://airlinecodes.info/MD) |
+| ME | MEA | [Middle East Airlines](https://airlinecodes.info/ME) |
+| MF | CXA | [XiamenAir](https://airlinecodes.info/MF) |
+| MG | CCP | [Champion Air](https://airlinecodes.info/MG) |
+| MH | MAS | [Malaysia Airlines](https://airlinecodes.info/MH) |
+| MI | SLK | [SilkAir](https://airlinecodes.info/MI) |
+| MJ | LPR | [Líneas Aéreas Privadas Argentinas](https://airlinecodes.info/MJ) |
+| MK | MAU | [Air Mauritius](https://airlinecodes.info/MK) |
+| MM | APJ | [Peach](https://airlinecodes.info/MM) |
+| MN | CAW | [Comair](https://airlinecodes.info/MN) |
+| MO | CAV | [Calm Air](https://airlinecodes.info/MO) |
+| MO | AUH | [Abu Dhabi Amiri Flight](https://airlinecodes.info/MO) |
+| MP | MPH | [Martinair](https://airlinecodes.info/MP) |
+| MQ | EGF | [American Eagle Airlines](https://airlinecodes.info/MQ) |
+| MQ | ENY | [Envoy Air](https://airlinecodes.info/MQ) |
+| MR | MRT | [Air Mauritanie](https://airlinecodes.info/MR) |
+| MS | MSR | [EgyptAir](https://airlinecodes.info/MS) |
+| MT | TCX | [Thomas Cook Airlines](https://airlinecodes.info/MT) |
+| MU | CES | [China Eastern Airlines](https://airlinecodes.info/MU) |
+| MV | RML | [Armenian International Airways](https://airlinecodes.info/MV) |
+| MW | MYD | [Maya Island Air](https://airlinecodes.info/MW) |
+| MX | MXA | [Mexicana de Aviación](https://airlinecodes.info/MX) |
+| MY | MWA | [Midwest Airlines](https://airlinecodes.info/MY) |
+| MZ | MNA | [Merpati Nusantara Airlines](https://airlinecodes.info/MZ) |
+| N2 | QNK | [Kabo Air](https://airlinecodes.info/N2) |
+| N2 | DAG | [Dagestan Airlines](https://airlinecodes.info/N2) |
+| N3 | OMS | [Omskavia Airline](https://airlinecodes.info/N3) |
+| N4 | MTC | [Mountain Air Company](https://airlinecodes.info/N4) |
+| N5 | SGY | [Skagway Air Service](https://airlinecodes.info/N5) |
+| N5 | KGZ | [Kyrgyz Airlines](https://airlinecodes.info/N5) |
+| N6 | ACQ | [Nuevo Continente](https://airlinecodes.info/N6) |
+| N6 | LGA | [Lagun Air](https://airlinecodes.info/N6) |
+| N7 | ROK | [National Airlines](https://airlinecodes.info/N7) |
+| N8 | HGK | [Fika Salaama Airlines](https://airlinecodes.info/N8) |
+| N9 | NVR | [Novair](https://airlinecodes.info/N9) |
+| NB | SNB | [Sterling Airlines](https://airlinecodes.info/NB) |
+| NC | NAC | [Northern Air Cargo](https://airlinecodes.info/NC) |
+| NC | NJS | [National Jet Systems](https://airlinecodes.info/NC) |
+| NE | ESK | [SkyEurope](https://airlinecodes.info/NE) |
+| NF | AVN | [Air Vanuatu](https://airlinecodes.info/NF) |
+| NG | LDA | [Lauda Air](https://airlinecodes.info/NG) |
+| NH | ANA | [All Nippon Airways](https://airlinecodes.info/NH) |
+| NI | PGA | [Portugalia](https://airlinecodes.info/NI) |
+| NK | NKS | [Spirit Airlines](https://airlinecodes.info/NK) |
+| NL | SAI | [Shaheen Air International](https://airlinecodes.info/NL) |
+| NM | DRD | [Air Madrid](https://airlinecodes.info/NM) |
+| NM | NZM | [Mount Cook Airlines](https://airlinecodes.info/NM) |
+| NN | MOV | [VIM Airlines](https://airlinecodes.info/NN) |
+| NO | NOS | [Neos](https://airlinecodes.info/NO) |
+| NO | AUS | [Aus-Air](https://airlinecodes.info/NO) |
+| NQ | AJX | [Air Japan](https://airlinecodes.info/NQ) |
+| NR | PIR | [Pamir Airways](https://airlinecodes.info/NR) |
+| NT | IBB | [Binter Canarias](https://airlinecodes.info/NT) |
+| NU | JTA | [Japan Transocean Air](https://airlinecodes.info/NU) |
+| NV | CRF | [Air Central](https://airlinecodes.info/NV) |
+| NW | NWA | [Northwest Airlines](https://airlinecodes.info/NW) |
+| NX | AMU | [Air Macau](https://airlinecodes.info/NX) |
+| NY | FXI | [Air Iceland](https://airlinecodes.info/NY) |
+| NZ | ANZ | [Air New Zealand](https://airlinecodes.info/NZ) |
+| O3 | CSS | [SF Airlines](https://airlinecodes.info/O3) |
+| O6 | ONE | [Avianca Brazil](https://airlinecodes.info/O6) |
+| O7 | OZJ | [Ozjet Airlines](https://airlinecodes.info/O7) |
+| O8 | OHK | [Oasis Hong Kong Airlines](https://airlinecodes.info/O8) |
+| OA | OAL | [Olympic Airlines](https://airlinecodes.info/OA) |
+| OB | ASZ | [Astrakhan Airlines](https://airlinecodes.info/OB) |
+| OD | MXD | [Malindo Air](https://airlinecodes.info/OD) |
+| OE | AOT | [Asia Overnight Express](https://airlinecodes.info/OE) |
+| OH | JIA | [PSA Airlines](https://airlinecodes.info/OH) |
+| OJ | OLA | [Overland Airways](https://airlinecodes.info/OJ) |
+| OK | CSA | [Czech Airlines](https://airlinecodes.info/OK) |
+| OL | OLT | [Ostfriesische Lufttransport](https://airlinecodes.info/OL) |
+| OM | MGL | [MIAT Mongolian Airlines](https://airlinecodes.info/OM) |
+| OO | SKW | [SkyWest Airlines](https://airlinecodes.info/OO) |
+| OR | TFL | [TUI fly Netherlands](https://airlinecodes.info/OR) |
+| OS | AUA | [Austrian Airlines](https://airlinecodes.info/OS) |
+| OT | PEL | [Aeropelican Air Services](https://airlinecodes.info/OT) |
+| OU | CTN | [Croatia Airlines](https://airlinecodes.info/OU) |
+| OV | ELL | [Estonian Air](https://airlinecodes.info/OV) |
+| OW | EXK | [Executive Airlines](https://airlinecodes.info/OW) |
+| OX | OEA | [Orient Thai Airlines](https://airlinecodes.info/OX) |
+| OY | OAE | [Omni Air International](https://airlinecodes.info/OY) |
+| OZ | AAR | [Asiana Airlines](https://airlinecodes.info/OZ) |
+| P5 | RPB | [Copa Airlines Colombia](https://airlinecodes.info/P5) |
+| P7 | ESL | [Russian Sky Airlines](https://airlinecodes.info/P7) |
+| P9 | PGP | [Perm Airlines](https://airlinecodes.info/P9) |
+| PA | FCL | [Florida Coastal Airlines](https://airlinecodes.info/PA) |
+| PC | PGT | [Pegasus Airlines](https://airlinecodes.info/PC) |
+| PD | POE | [Porter Airlines](https://airlinecodes.info/PD) |
+| PE | AEL | [Air Europe](https://airlinecodes.info/PE) |
+| PF | PNW | [Palestinian Airlines](https://airlinecodes.info/PF) |
+| PG | BKP | [Bangkok Airways](https://airlinecodes.info/PG) |
+| PH | PAO | [Polynesian Airlines](https://airlinecodes.info/PH) |
+| PJ | SPM | [Air Saint Pierre](https://airlinecodes.info/PJ) |
+| PK | PIA | [Pakistan International Airlines](https://airlinecodes.info/PK) |
+| PL | PLI | [Aeroperú](https://airlinecodes.info/PL) |
+| PM | TOS | [Tropic Air](https://airlinecodes.info/PM) |
+| PO | PAC | [Polar Air Cargo](https://airlinecodes.info/PO) |
+| PQ | SQP | [SkyUp](https://airlinecodes.info/PQ) |
+| PR | PAL | [Philippine Airlines](https://airlinecodes.info/PR) |
+| PS | AUI | [Ukraine International Airlines](https://airlinecodes.info/PS) |
+| PT | PDT | [Piedmont Airlines](https://airlinecodes.info/PT) |
+| PU | PUA | [PLUNA](https://airlinecodes.info/PU) |
+| PV | PNR | [PAN Air](https://airlinecodes.info/PV) |
+| PW | PRF | [Precision Air](https://airlinecodes.info/PW) |
+| PX | ANG | [Air Niugini](https://airlinecodes.info/PX) |
+| PY | SLM | [Surinam Airways](https://airlinecodes.info/PY) |
+| PZ | LAP | [TAM Mercosur](https://airlinecodes.info/PZ) |
+| Q3 | MBN | [Zambian Airways](https://airlinecodes.info/Q3) |
+| Q5 | MLA | [40-Mile Air](https://airlinecodes.info/Q5) |
+| Q6 | CDP | [Aero Condor Peru](https://airlinecodes.info/Q6) |
+| Q8 | PEC | [Pacific East Asia Cargo Airlines](https://airlinecodes.info/Q8) |
+| Q9 | AFU | [Afrinat International Airlines](https://airlinecodes.info/Q9) |
+| QB | GFG | [Georgian National Airlines](https://airlinecodes.info/QB) |
+| QC | CRD | [Air Corridor](https://airlinecodes.info/QC) |
+| QE | ECC | [Crossair Europe](https://airlinecodes.info/QE) |
+| QF | QFA | [Qantas](https://airlinecodes.info/QF) |
+| QH | LYN | [Air Kyrgyzstan](https://airlinecodes.info/QH) |
+| QI | CIM | [Cimber Air](https://airlinecodes.info/QI) |
+| QK | JZA | [Air Canada Jazz](https://airlinecodes.info/QK) |
+| QL | RLN | [Aero Lanka](https://airlinecodes.info/QL) |
+| QM | AML | [Air Malawi](https://airlinecodes.info/QM) |
+| QN | ARR | [Air Armenia](https://airlinecodes.info/QN) |
+| QO | MPX | [Aeromexpress](https://airlinecodes.info/QO) |
+| QQ | UTY | [Alliance Airlines](https://airlinecodes.info/QQ) |
+| QR | QTR | [Qatar Airways](https://airlinecodes.info/QR) |
+| QS | TVS | [Smartwings](https://airlinecodes.info/QS) |
+| QT | TPA | [Tampa Cargo](https://airlinecodes.info/QT) |
+| QV | LAO | [Lao Airlines](https://airlinecodes.info/QV) |
+| QW | BWG | [Blue Wings](https://airlinecodes.info/QW) |
+| QX | QXE | [Horizon Air](https://airlinecodes.info/QX) |
+| QY | BCS | [European Air Transport Leipzig](https://airlinecodes.info/QY) |
+| QZ | AWQ | [Indonesia AirAsia](https://airlinecodes.info/QZ) |
+| R0 | RPK | [Royal Airlines](https://airlinecodes.info/R0) |
+| R2 | ORB | [Orenburg Airlines](https://airlinecodes.info/R2) |
+| R3 | RME | [Armenian Airlines](https://airlinecodes.info/R3) |
+| R3 | SYL | [Aircompany Yakutia](https://airlinecodes.info/R3) |
+| R5 | JAV | [Jordan Aviation](https://airlinecodes.info/R5) |
+| R5 | MAC | [Malta Air Charter](https://airlinecodes.info/R5) |
+| R7 | OCA | [Aserca Airlines](https://airlinecodes.info/R7) |
+| R8 | KGA | [Kyrgyzstan Airlines](https://airlinecodes.info/R8) |
+| R9 | CAM | [Camai Air](https://airlinecodes.info/R9) |
+| RB | SYR | [Syrian Arab Airlines](https://airlinecodes.info/RB) |
+| RB | SBK | [Air Srpska](https://airlinecodes.info/RB) |
+| RC | FLI | [Atlantic Airways](https://airlinecodes.info/RC) |
+| RD | RYN | [Ryan International Airlines](https://airlinecodes.info/RD) |
+| RE | REA | [Aer Arann](https://airlinecodes.info/RE) |
+| RF | FWL | [Florida West International Airways](https://airlinecodes.info/RF) |
+| RG | VRN | [VRG Linhas Aereas](https://airlinecodes.info/RG) |
+| RH | RPH | [Republic Express Airlines](https://airlinecodes.info/RH) |
+| RI | MDL | [Mandala Airlines](https://airlinecodes.info/RI) |
+| RJ | RJA | [Royal Jordanian](https://airlinecodes.info/RJ) |
+| RK | RKH | [Royal Khmer Airlines](https://airlinecodes.info/RK) |
+| RL | ABG | [Royal Flight](https://airlinecodes.info/RL) |
+| RO | ROT | [Tarom](https://airlinecodes.info/RO) |
+| RQ | KMF | [Kam Air](https://airlinecodes.info/RQ) |
+| RR | RFR | [Royal Air Force](https://airlinecodes.info/RR) |
+| RS | MJN | [Royal Air Force of Oman](https://airlinecodes.info/RS) |
+| RT | RKM | [RAK Airways](https://airlinecodes.info/RT) |
+| RU | ABW | [AirBridgeCargo](https://airlinecodes.info/RU) |
+| RV | ROU | [Air Canada Rouge](https://airlinecodes.info/RV) |
+| RW | RPA | [Republic Airlines](https://airlinecodes.info/RW) |
+| RX | AEH | [Aviaexpress](https://airlinecodes.info/RX) |
+| S0 | OKS | [Slok Air Gambia](https://airlinecodes.info/S0) |
+| S2 | JLL | [JetLite](https://airlinecodes.info/S2) |
+| S3 | BBR | [Santa Barbara Airlines](https://airlinecodes.info/S3) |
+| S4 | RZO | [SATA International](https://airlinecodes.info/S4) |
+| S5 | TSJ | [Trast Aero](https://airlinecodes.info/S5) |
+| S5 | TCF | [Shuttle America](https://airlinecodes.info/S5) |
+| S7 | SBI | [S7 Airlines](https://airlinecodes.info/S7) |
+| S8 | SWW | [Shovkoviy Shlyah](https://airlinecodes.info/S8) |
+| S8 | CSU | [Chari Aviation Services](https://airlinecodes.info/S8) |
+| SA | SAA | [South African Airways](https://airlinecodes.info/SA) |
+| SB | ACI | [Air Caledonie International](https://airlinecodes.info/SB) |
+| SC | CDG | [Shandong Airlines](https://airlinecodes.info/SC) |
+| SD | SUD | [Sudan Airways](https://airlinecodes.info/SD) |
+| SE | XLF | [XL Airways France](https://airlinecodes.info/SE) |
+| SF | DTH | [Tassili Airlines](https://airlinecodes.info/SF) |
+| SG | SEJ | [SpiceJet](https://airlinecodes.info/SG) |
+| SH | FLY | [Fly Me Sweden](https://airlinecodes.info/SH) |
+| SI | SIH | [Skynet Airlines](https://airlinecodes.info/SI) |
+| SJ | CGL | [Seagle Air](https://airlinecodes.info/SJ) |
+| SK | SAS | [Scandinavian Airlines](https://airlinecodes.info/SK) |
+| SN | BEL | [Brussels Airlines](https://airlinecodes.info/SN) |
+| SO | OSL | [Sosoliso Airlines](https://airlinecodes.info/SO) |
+| SO | HKA | [Superior Aviation](https://airlinecodes.info/SO) |
+| SP | SAT | [SATA Air Acores](https://airlinecodes.info/SP) |
+| SQ | SIA | [Singapore Airlines](https://airlinecodes.info/SQ) |
+| SQ | SQC | [Singapore Airlines Cargo](https://airlinecodes.info/SQ) |
+| SS | CRL | [Corsair International](https://airlinecodes.info/SS) |
+| ST | GMI | [Germania](https://airlinecodes.info/ST) |
+| SU | AFL | [Aeroflot](https://airlinecodes.info/SU) |
+| SV | SVA | [Saudi Arabian Airlines](https://airlinecodes.info/SV) |
+| SW | NMB | [Air Namibia](https://airlinecodes.info/SW) |
+| SX | SKB | [Skybus Airlines](https://airlinecodes.info/SX) |
+| SY | SCX | [Sun Country Airlines](https://airlinecodes.info/SY) |
+| T2 | TMA | [TMA Cargo](https://airlinecodes.info/T2) |
+| T3 | EZE | [Eastern Airways](https://airlinecodes.info/T3) |
+| T4 | HEJ | [Hellas Jet](https://airlinecodes.info/T4) |
+| T6 | TVR | [Tavrey Airlines](https://airlinecodes.info/T6) |
+| T7 | TJT | [Twin Jet](https://airlinecodes.info/T7) |
+| T9 | TSX | [Thai Star Airlines](https://airlinecodes.info/T9) |
+| T9 | TRZ | [TransMeridian Airlines](https://airlinecodes.info/T9) |
+| TA | TAI | [Avianca El Salvador](https://airlinecodes.info/TA) |
+| TB | JAF | [TUI fly Belgium](https://airlinecodes.info/TB) |
+| TC | ATC | [Air Tanzania](https://airlinecodes.info/TC) |
+| TD | LUR | [Atlantis European Airways](https://airlinecodes.info/TD) |
+| TD | TLP | [Tulip Air](https://airlinecodes.info/TD) |
+| TE | LIL | [FlyLal](https://airlinecodes.info/TE) |
+| TG | THA | [Thai Airways](https://airlinecodes.info/TG) |
+| TH | TSE | [Transmile Air Services](https://airlinecodes.info/TH) |
+| TI | TOL | [Tol-Air Services](https://airlinecodes.info/TI) |
+| TK | THY | [Turkish Airlines](https://airlinecodes.info/TK) |
+| TL | ANO | [Airnorth](https://airlinecodes.info/TL) |
+| TM | LAM | [LAM Mozambique Airlines](https://airlinecodes.info/TM) |
+| TN | THT | [Air Tahiti Nui](https://airlinecodes.info/TN) |
+| TO | TVF | [Transavia France](https://airlinecodes.info/TO) |
+| TP | TAP | [TAP Air Portugal](https://airlinecodes.info/TP) |
+| TQ | TDM | [Tandem Aero](https://airlinecodes.info/TQ) |
+| TR | TGW | [Scoot](https://airlinecodes.info/TR) |
+| TS | TSC | [Air Transat](https://airlinecodes.info/TS) |
+| TT | TGG | [Tigerair Australia](https://airlinecodes.info/TT) |
+| TU | TAR | [Tunisair](https://airlinecodes.info/TU) |
+| TV | VEX | [Virgin Express](https://airlinecodes.info/TV) |
+| TW | TWB | [T'way Air](https://airlinecodes.info/TW) |
+| TX | FWI | [Air Caraïbes](https://airlinecodes.info/TX) |
+| TY | TPC | [Air Calédonie](https://airlinecodes.info/TY) |
+| TZ | AMT | [ATA Airlines](https://airlinecodes.info/TZ) |
+| U2 | EZY | [easyJet](https://airlinecodes.info/U2) |
+| U3 | AIA | [Avies](https://airlinecodes.info/U3) |
+| U4 | PMT | [PMTair](https://airlinecodes.info/U4) |
+| U5 | GWY | [USA3000 Airlines](https://airlinecodes.info/U5) |
+| U6 | SVR | [Ural Airlines](https://airlinecodes.info/U6) |
+| U7 | JUS | [USA Jet Airlines](https://airlinecodes.info/U7) |
+| U8 | RNV | [Armavia](https://airlinecodes.info/U8) |
+| U9 | TAK | [Tatarstan Airlines](https://airlinecodes.info/U9) |
+| UA | UAL | [United Airlines](https://airlinecodes.info/UA) |
+| UB | UBA | [Myanma Airways](https://airlinecodes.info/UB) |
+| UE | NAS | [Nasair](https://airlinecodes.info/UE) |
+| UF | UKM | [UM Airlines](https://airlinecodes.info/UF) |
+| UG | TUX | [Tunisair Express](https://airlinecodes.info/UG) |
+| UI | ECA | [Eurocypria Airlines](https://airlinecodes.info/UI) |
+| UK | VTI | [Vistara](https://airlinecodes.info/UK) |
+| UL | ALK | [SriLankan Airlines](https://airlinecodes.info/UL) |
+| UM | AZW | [Air Zimbabwe](https://airlinecodes.info/UM) |
+| UN | TSO | [Transaero Airlines](https://airlinecodes.info/UN) |
+| UO | HKE | [HK Express](https://airlinecodes.info/UO) |
+| UP | BHS | [Bahamasair](https://airlinecodes.info/UP) |
+| US | AWE | [US Airways](https://airlinecodes.info/US) |
+| UT | UTA | [UTair Aviation](https://airlinecodes.info/UT) |
+| UU | REU | [Air Austral](https://airlinecodes.info/UU) |
+| UX | AEA | [Air Europa](https://airlinecodes.info/UX) |
+| UY | UYC | [Cameroon Airlines](https://airlinecodes.info/UY) |
+| UZ | BRQ | [El-Buraq Air Transport](https://airlinecodes.info/UZ) |
+You are viewing airline IATA codes beginning with **V**:
+
+
+| IATA | ICAO | NAME |
+| --- | --- | --- |
+| V0 | VCV | [Conviasa](https://airlinecodes.info/V0) |
+| V2 | AKT | [Karat](https://airlinecodes.info/V2) |
+| V3 | KRP | [Carpatair](https://airlinecodes.info/V3) |
+| V4 | REK | [Reem Air](https://airlinecodes.info/V4) |
+| V5 | VLI | [Avolar Aerolineas](https://airlinecodes.info/V5) |
+| V5 | RYL | [Royal Aruban Airline](https://airlinecodes.info/V5) |
+| V7 | SNG | [Air Senegal International](https://airlinecodes.info/V7) |
+| V8 | VAS | [ATRAN Cargo Airlines](https://airlinecodes.info/V8) |
+| V9 | BTC | [BAL Bashkirian Airlines](https://airlinecodes.info/V9) |
+| VA | VOZ | [Virgin Australia](https://airlinecodes.info/VA) |
+| VB | VIV | [VivaAerobús](https://airlinecodes.info/VB) |
+| VC | AGC | [Air Australia](https://airlinecodes.info/VC) |
+| VC | VAL | [Voyageur Airways](https://airlinecodes.info/VC) |
+| VD | KPA | [Henan Airlines](https://airlinecodes.info/VD) |
+| VE | EUJ | [EUjet](https://airlinecodes.info/VE) |
+| VE | VLE | [Volare Airlines](https://airlinecodes.info/VE) |
+| VE | AVE | [Avensa](https://airlinecodes.info/VE) |
+| VF | VLU | [Valuair](https://airlinecodes.info/VF) |
+| VG | VLM | [VLM Airlines](https://airlinecodes.info/VG) |
+| VI | VDA | [Volga-Dnepr Airlines](https://airlinecodes.info/VI) |
+| VJ | VJC | [VietJet Air](https://airlinecodes.info/VJ) |
+| VK | VGN | [Virgin Nigeria Airways](https://airlinecodes.info/VK) |
+| VL | VIM | [Air VIA](https://airlinecodes.info/VL) |
+| VM | VOA | [Viaggio Air](https://airlinecodes.info/VM) |
+| VN | HVN | [Vietnam Airlines](https://airlinecodes.info/VN) |
+| VO | TYR | [Austrian Arrows](https://airlinecodes.info/VO) |
+| VP | VSP | [VASP](https://airlinecodes.info/VP) |
+| VR | TCV | [TACV](https://airlinecodes.info/VR) |
+| VS | VIR | [Virgin Atlantic Airways](https://airlinecodes.info/VS) |
+| VT | VTA | [Air Tahiti](https://airlinecodes.info/VT) |
+| VU | VUN | [Air Ivoire](https://airlinecodes.info/VU) |
+| VV | AEW | [Aerosvit Airlines](https://airlinecodes.info/VV) |
+| VW | TAO | [Aeromar](https://airlinecodes.info/VW) |
+| VX | VRD | [Virgin America](https://airlinecodes.info/VX) |
+| VY | VLG | [Vueling Airlines](https://airlinecodes.info/VY) |
+| VZ | QCL | [Air Class Lineas Aereas](https://airlinecodes.info/VZ) |
+| W1 | WDL | [WDL Aviation](https://airlinecodes.info/W1) |
+| W2 | CWA | [Canadian Western Airlines](https://airlinecodes.info/W2) |
+| W3 | FYH | [Flyhy Cargo Airlines](https://airlinecodes.info/W3) |
+| W4 | BES | [Aero Services Executive](https://airlinecodes.info/W4) |
+| W5 | IRM | [Mahan Air](https://airlinecodes.info/W5) |
+| W6 | WZZ | [Wizz Air](https://airlinecodes.info/W6) |
+| W8 | CJT | [Cargojet Airways](https://airlinecodes.info/W8) |
+| W9 | WUK | [Wizz Air UK](https://airlinecodes.info/W9) |
+| WA | KLC | [KLM Cityhopper](https://airlinecodes.info/WA) |
+| WB | RWD | [Rwandair Express](https://airlinecodes.info/WB) |
+| WC | ISV | [Islena De Inversiones](https://airlinecodes.info/WC) |
+| WD | DSR | [DAS Air Cargo](https://airlinecodes.info/WD) |
+| WE | CWC | [Centurion Air Cargo](https://airlinecodes.info/WE) |
+| WF | WIF | [Widerøe](https://airlinecodes.info/WF) |
+| WG | SWG | [Sunwing Airlines](https://airlinecodes.info/WG) |
+| WH | CNW | [China Northwest Airlines](https://airlinecodes.info/WH) |
+| WJ | WEB | [WebJet Linhas Aéreas](https://airlinecodes.info/WJ) |
+| WK | EDW | [Edelweiss Air](https://airlinecodes.info/WK) |
+| WN | SWA | [Southwest Airlines](https://airlinecodes.info/WN) |
+| WO | WSW | [Swoop](https://airlinecodes.info/WO) |
+| WQ | SWQ | [iAero Airways](https://airlinecodes.info/WQ) |
+| WR | HRH | [Royal Tongan Airlines](https://airlinecodes.info/WR) |
+| WS | WJA | [WestJet](https://airlinecodes.info/WS) |
+| WT | WSG | [Wasaya Airways](https://airlinecodes.info/WT) |
+| WV | SWV | [Swe Fly](https://airlinecodes.info/WV) |
+| WW | WOW | [WOW air](https://airlinecodes.info/WW) |
+| WX | BCY | [CityJet](https://airlinecodes.info/WX) |
+| WY | OMA | [Oman Air](https://airlinecodes.info/WY) |
+| WZ | WSF | [West African Airlines](https://airlinecodes.info/WZ) |
+| X3 | TUI | [TUI fly Deutschland](https://airlinecodes.info/X3) |
+| X7 | CHF | [Chitaavia](https://airlinecodes.info/X7) |
+| X9 | NVD | [Avion Express](https://airlinecodes.info/X9) |
+| XC | CAI | [Corendon Airlines](https://airlinecodes.info/XC) |
+| XE | JSX | [JSX](https://airlinecodes.info/XE) |
+| XF | VLK | [Vladivostok Air](https://airlinecodes.info/XF) |
+| XG | CLI | [Clickair](https://airlinecodes.info/XG) |
+| XJ | MES | [Mesaba Airlines](https://airlinecodes.info/XJ) |
+| XK | CCM | [Corse-Mediterranee](https://airlinecodes.info/XK) |
+| XL | LNE | [LATAM Ecuador](https://airlinecodes.info/XL) |
+| XO | LTE | [LTE International Airways](https://airlinecodes.info/XO) |
+| XO | CXH | [China Xinhua Airlines](https://airlinecodes.info/XO) |
+| XP | VXP | [Avelo Airlines](https://airlinecodes.info/XP) |
+| XQ | SXS | [SunExpress](https://airlinecodes.info/XQ) |
+| XS | SIT | [SITA](https://airlinecodes.info/XS) |
+| XT | AXL | [Air Exel](https://airlinecodes.info/XT) |
+| XW | NCT | [NokScoot](https://airlinecodes.info/XW) |
+| XY | KNE | [flynas](https://airlinecodes.info/XY) |
+| Y4 | VOI | [Volaris](https://airlinecodes.info/Y4) |
+| Y5 | PCE | [Pace Airlines](https://airlinecodes.info/Y5) |
+| Y8 | YZR | [Suparna Airlines](https://airlinecodes.info/Y8) |
+| Y9 | IRK | [Kish Air](https://airlinecodes.info/Y9) |
+| YG | HYT | [YTO Cargo Airlines](https://airlinecodes.info/YG) |
+| YH | WCW | [West Caribbean Airways](https://airlinecodes.info/YH) |
+| YI | RSI | [Air Sunshine](https://airlinecodes.info/YI) |
+| YL | LLM | [Yamal Airlines](https://airlinecodes.info/YL) |
+| YM | MGX | [Montenegro Airlines](https://airlinecodes.info/YM) |
+| YP | APZ | [Air Premia](https://airlinecodes.info/YP) |
+| YT | TGA | [Air Togo](https://airlinecodes.info/YT) |
+| YU | MMZ | [EuroAtlantic Airways](https://airlinecodes.info/YU) |
+| YV | ASH | [Mesa Airlines](https://airlinecodes.info/YV) |
+| YW | ANE | [Air Nostrum](https://airlinecodes.info/YW) |
+| YX | MEP | [Midwest Airlines](https://airlinecodes.info/YX) |
+| Z2 | EZD | [AirAsia Zest](https://airlinecodes.info/Z2) |
+| Z3 | SMJ | [Avient Aviation](https://airlinecodes.info/Z3) |
+| Z4 | OOM | [Zoom Airlines](https://airlinecodes.info/Z4) |
+| Z7 | ADK | [ADC Airlines](https://airlinecodes.info/Z7) |
+| Z8 | AZN | [Amaszonas](https://airlinecodes.info/Z8) |
+| Z9 | BEK | [Bek Air](https://airlinecodes.info/Z9) |
+| ZA | SUW | [Interavia Airlines](https://airlinecodes.info/ZA) |
+| ZA | CYD | [Access Air](https://airlinecodes.info/ZA) |
+| ZB | BUB | [Air Bourbon](https://airlinecodes.info/ZB) |
+| ZB | MON | [Monarch Airlines](https://airlinecodes.info/ZB) |
+| ZE | AZE | [Arcus-Air Logistic](https://airlinecodes.info/ZE) |
+| ZE | LCD | [Lineas Aereas Azteca](https://airlinecodes.info/ZE) |
+| ZH | CSZ | [Shenzhen Airlines](https://airlinecodes.info/ZH) |
+| ZI | AAF | [Aigle Azur](https://airlinecodes.info/ZI) |
+| ZK | GLA | [Great Lakes Airlines](https://airlinecodes.info/ZK) |
+| ZL | RXA | [Regional Express](https://airlinecodes.info/ZL) |
+| ZP | AZQ | [Silk Way Airlines](https://airlinecodes.info/ZP) |
+| ZS | AZI | [Azzurra Air](https://airlinecodes.info/ZS) |
+| ZS | SMY | [Sama Airlines](https://airlinecodes.info/ZS) |
+| ZT | AWC | [Titan Airways](https://airlinecodes.info/ZT) |
+| ZU | HCY | [Helios Airways](https://airlinecodes.info/ZU) |
+| ZV | AMW | [Air Midwest](https://airlinecodes.info/ZV) |
+| ZW | AWI | [Air Wisconsin](https://airlinecodes.info/ZW) |
+| ZX | GGN | [Air Georgian](https://airlinecodes.info/ZX) |
+| 04 | ABV | [Antrak Air](https://airlinecodes.info/04) |
+| 0A | GNT | [Amber Air](https://airlinecodes.info/0A) |
+| 0B | BMS | [Blue Air](https://airlinecodes.info/0B) |
+| 0D | DWT | [Darwin Airline](https://airlinecodes.info/0D) |
+| 0J | JCS | [Jetclub](https://airlinecodes.info/0J) |
+| 1A | AGT | [Amadeus Global Travel Distribution](https://airlinecodes.info/1A) |
+| 1I | EJA | [NetJets](https://airlinecodes.info/1I) |
+| 1L | OSY | [Open Skies Consultative Commission](https://airlinecodes.info/1L) |
+| 1T | RNX | [1Time Airline](https://airlinecodes.info/1T) |
+| 1W | WON | [Wings Air](https://airlinecodes.info/1W) |
+| 20 | RNE | [Air Salone](https://airlinecodes.info/20) |
+| 2B | ARD | [Aerocondor](https://airlinecodes.info/2B) |
+| 2D | AOG | [Aero VIP](https://airlinecodes.info/2D) |
+| 2F | FTA | [Frontier Flying Service](https://airlinecodes.info/2F) |
+| 2G | CRG | [Cargoitalia](https://airlinecodes.info/2G) |
+| 2J | VBW | [Air Burkina](https://airlinecodes.info/2J) |
+| 2K | GLG | [Aerogal](https://airlinecodes.info/2K) |
+| 2L | OAW | [Helvetic Airways](https://airlinecodes.info/2L) |
+| 2M | MDV | [Moldavian Airlines](https://airlinecodes.info/2M) |
+| 2N | UMK | [Yuzhmashavia](https://airlinecodes.info/2N) |
+| 2P | GAP | [Air Philippines](https://airlinecodes.info/2P) |
+| 2Q | SNC | [Air Cargo Carriers](https://airlinecodes.info/2Q) |
+| 2S | SDY | [Island Express](https://airlinecodes.info/2S) |
+| 2T | HAM | [Haiti Ambassador Airlines](https://airlinecodes.info/2T) |
+| 2U | GIP | [Air Guinee Express](https://airlinecodes.info/2U) |
+| 2W | WLC | [Welcome Air](https://airlinecodes.info/2W) |
+| 2Z | CGN | [Changan Airlines](https://airlinecodes.info/2Z) |
+| 3C | CVA | [Air Chathams](https://airlinecodes.info/3C) |
+| 3G | AYZ | [Atlant-Soyuz Airlines](https://airlinecodes.info/3G) |
+| 3H | AIE | [Air Inuit](https://airlinecodes.info/3H) |
+| 3J | WZP | [Zip](https://airlinecodes.info/3J) |
+| 3K | JSA | [Jetstar Asia Airways](https://airlinecodes.info/3K) |
+| 3M | GFT | [Gulfstream International Airlines](https://airlinecodes.info/3M) |
+| 3N | URG | [Air Urga](https://airlinecodes.info/3N) |
+| 3P | TNM | [Tiara Air](https://airlinecodes.info/3P) |
+| 3Q | CYH | [Yunnan Airlines](https://airlinecodes.info/3Q) |
+| 3R | GAI | [Moskovia Airlines](https://airlinecodes.info/3R) |
+| 3S | AEN | [Aeroland Airways](https://airlinecodes.info/3S) |
+| 3T | URN | [Turan Air](https://airlinecodes.info/3T) |
+| 3U | CSC | [Sichuan Airlines](https://airlinecodes.info/3U) |
+| 3V | TAY | [ASL Airlines Belgium](https://airlinecodes.info/3V) |
+| 3W | EMX | [Euromanx Airways](https://airlinecodes.info/3W) |
+| 4A | AKL | [Air Kiribati](https://airlinecodes.info/4A) |
+| 4C | ARE | [Aires, Aerovias de Integracion Regional, S.A.](https://airlinecodes.info/4C) |
+| 4D | ASD | [Air Sinai](https://airlinecodes.info/4D) |
+| 4F | ECE | [Air City](https://airlinecodes.info/4F) |
+| 4G | GZP | [Gazpromavia](https://airlinecodes.info/4G) |
+| 4I | KNX | [Knighthawk Air Express](https://airlinecodes.info/4I) |
+| 4J | SMR | [Somon Air](https://airlinecodes.info/4J) |
+| 4K | AAS | [Askari Aviation](https://airlinecodes.info/4K) |
+| 4L | LAU | [Líneas Aéreas Suramericanas](https://airlinecodes.info/4L) |
+| 4M | DSM | [Aero 2000](https://airlinecodes.info/4M) |
+| 4N | ANT | [Air North Charter - Canada](https://airlinecodes.info/4N) |
+| 4O | AIJ | [Interjet](https://airlinecodes.info/4O) |
+| 4R | HHI | [Hamburg International](https://airlinecodes.info/4R) |
+| 4S | FNC | [Finalair Congo](https://airlinecodes.info/4S) |
+| 4T | BHP | [Belair Airlines](https://airlinecodes.info/4T) |
+| 4U | GWI | [Germanwings](https://airlinecodes.info/4U) |
+| 4Y | RBU | [Airbus France](https://airlinecodes.info/4Y) |
+| 5A | AIP | [Alpine Air Express](https://airlinecodes.info/5A) |
+| 5C | ICL | [CAL Cargo Air Lines](https://airlinecodes.info/5C) |
+| 5D | SLI | [Aerolitoral](https://airlinecodes.info/5D) |
+| 5D | UDC | [DonbassAero](https://airlinecodes.info/5D) |
+| 5F | CIR | [Arctic Circle Air Service](https://airlinecodes.info/5F) |
+| 5G | SSV | [Skyservice Airlines](https://airlinecodes.info/5G) |
+| 5J | CEB | [Cebu Pacific](https://airlinecodes.info/5J) |
+| 5K | HFY | [Hi Fly](https://airlinecodes.info/5K) |
+| 5L | RSU | [Aerosur](https://airlinecodes.info/5L) |
+| 5M | SIB | [Sibaviatrans](https://airlinecodes.info/5M) |
+| 5N | AUL | [Aeroflot-Nord](https://airlinecodes.info/5N) |
+| 5O | FPO | [ASL Airlines France](https://airlinecodes.info/5O) |
+| 5T | MPE | [Canadian North](https://airlinecodes.info/5T) |
+| 5V | UKW | [Lviv Airlines](https://airlinecodes.info/5V) |
+| 5W | AEU | [Astraeus](https://airlinecodes.info/5W) |
+| 5X | UPS | [UPS Airlines](https://airlinecodes.info/5X) |
+| 5Y | GTI | [Atlas Air](https://airlinecodes.info/5Y) |
+| 5Z | BML | [Bismillah Airlines](https://airlinecodes.info/5Z) |
+| 6A | CHP | [Consorcio Aviaxsa](https://airlinecodes.info/6A) |
+| 6B | BLX | [TUI fly Nordic](https://airlinecodes.info/6B) |
+| 6E | IGO | [IndiGo](https://airlinecodes.info/6E) |
+| 6G | AWW | [Air Wales](https://airlinecodes.info/6G) |
+| 6H | ISR | [Israir](https://airlinecodes.info/6H) |
+| 6I | IBZ | [International Business Air](https://airlinecodes.info/6I) |
+| 6J | SNJ | [Solaseed Air](https://airlinecodes.info/6J) |
+| 6K | RIT | [Asian Spirit](https://airlinecodes.info/6K) |
+| 6N | NRD | [Nordic Regional](https://airlinecodes.info/6N) |
+| 6P | ISG | [Club Air](https://airlinecodes.info/6P) |
+| 6Q | SLL | [Slovak Airlines](https://airlinecodes.info/6Q) |
+| 6R | DRU | [Alrosa Mirny Air Enterprise](https://airlinecodes.info/6R) |
+| 6R\* | TNO | [AeroUnion](https://airlinecodes.info/6R*) |
+| 6U | UKR | [Air Ukraine](https://airlinecodes.info/6U) |
+| 6V | AXY | [Axis Airways](https://airlinecodes.info/6V) |
+| 6V | MRW | [Mars RK](https://airlinecodes.info/6V) |
+| 6V | VGA | [Air Vegas](https://airlinecodes.info/6V) |
+| 6W | SOV | [Saratov Aviation Division](https://airlinecodes.info/6W) |
+| 6Z | UKS | [Ukrainian Cargo Airways](https://airlinecodes.info/6Z) |
+| 7B | KJC | [Krasnojarsky Airlines](https://airlinecodes.info/7B) |
+| 7C | JJA | [Jeju Air](https://airlinecodes.info/7C) |
+| 7C\* | COY | [Coyne Airways](https://airlinecodes.info/7C*) |
+| 7E | AWU | [Aeroline GmbH](https://airlinecodes.info/7E) |
+| 7F | FAB | [First Air](https://airlinecodes.info/7F) |
+| 7G | SFJ | [StarFlyer](https://airlinecodes.info/7G) |
+| 7H | RVF | [Ravn Alaska](https://airlinecodes.info/7H) |
+| 7K | KGL | [Kogalymavia Air Company](https://airlinecodes.info/7K) |
+| 7L | AZG | [Silk Way West Airlines](https://airlinecodes.info/7L) |
+| 7M | MSA | [Mistral Air](https://airlinecodes.info/7M) |
+| 7N | CNA | [Centavia](https://airlinecodes.info/7N) |
+| 7O | GAL | [Galaxy Air](https://airlinecodes.info/7O) |
+| 7P | BTV | [Metro Batavia](https://airlinecodes.info/7P) |
+| 7R | BRB | [BRA-Transportes Aereos](https://airlinecodes.info/7R) |
+| 7T | AGV | [Air Glaciers](https://airlinecodes.info/7T) |
+| 7T | TOB | [Tobruk Air](https://airlinecodes.info/7T) |
+| 7W | WAY | [Wayraperú](https://airlinecodes.info/7W) |
+| 8A | BMM | [Atlas Blue](https://airlinecodes.info/8A) |
+| 8B | GFI | [Caribbean Star Airlines](https://airlinecodes.info/8B) |
+| 8C | ATN | [Air Transport International](https://airlinecodes.info/8C) |
+| 8D | EXV | [Expo Aviation](https://airlinecodes.info/8D) |
+| 8E | BRG | [Bering Air](https://airlinecodes.info/8E) |
+| 8F | FFR | [Fischer Air](https://airlinecodes.info/8F) |
+| 8H | HFR | [Heli France](https://airlinecodes.info/8H) |
+| 8J | KMV | [Komiinteravia](https://airlinecodes.info/8J) |
+| 8L | CGP | [Cargo Plus Aviation](https://airlinecodes.info/8L) |
+| 8L | RHC | [Redhill Aviation](https://airlinecodes.info/8L) |
+| 8M | MXL | [Maxair](https://airlinecodes.info/8M) |
+| 8N | NKF | [Barents AirLink](https://airlinecodes.info/8N) |
+| 8P | PCO | [Pacific Coastal Airline](https://airlinecodes.info/8P) |
+| 8Q | OHY | [Onur Air](https://airlinecodes.info/8Q) |
+| 8T | TID | [Air Tindi](https://airlinecodes.info/8T) |
+| 8U | AAW | [Afriqiyah Airways](https://airlinecodes.info/8U) |
+| 8V | ACP | [Astral Aviation](https://airlinecodes.info/8V) |
+| 8V | WRF | [Wright Air Service](https://airlinecodes.info/8V) |
+| 8W | PWF | [Private Wings Flugcharter](https://airlinecodes.info/8W) |
+| 8Y | PBU | [Air Burundi](https://airlinecodes.info/8Y) |
+| 8z | LER | [Linea Aerea de Servicio Ejecutivo Regional](https://airlinecodes.info/8z) |
+| 9C | CQH | [Spring Airlines](https://airlinecodes.info/9C) |
+| 9E | EDV | [Endeavor Air](https://airlinecodes.info/9E) |
+| 9H | DNL | [Dutch Antilles Express](https://airlinecodes.info/9H) |
+| 9I | LLR | [Alliance Air](https://airlinecodes.info/9I) |
+| 9K | KAP | [Cape Air](https://airlinecodes.info/9K) |
+| 9L | CJC | [Colgan Air](https://airlinecodes.info/9L) |
+| 9Q | PBA | [PB Air](https://airlinecodes.info/9Q) |
+| 9R | VAP | [Phuket Air](https://airlinecodes.info/9R) |
+| 9S | SOO | [Southern Air](https://airlinecodes.info/9S) |
+| 9T | ABS | [Transwest Air](https://airlinecodes.info/9T) |
+| 9T | RUN | [Air ACT](https://airlinecodes.info/9T) |
+| 9U | MLD | [Air Moldova](https://airlinecodes.info/9U) |
+| 9W | JAI | [Jet Airways](https://airlinecodes.info/9W) |
+| 9X | ACL | [Itali Airlines](https://airlinecodes.info/9X) |
