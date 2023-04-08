@@ -61,6 +61,22 @@ How many countries are there in the world? The answer to this simple question is
 
 The [Public Suffix List](https://publicsuffix.org/) is an initiative of [Mozilla](https://www.mozilla.org/), but is maintained as a community resource as a [list of all known public suffixes](https://publicsuffix.org/list/public_suffix_list.dat). A _public suffix_ is one under which Internet users can directly register an internet domain name such as `Dicaire.com`under the `.com`top level domain (TLD).
 
+Rather than juggle TLDs, gTLDs, or ccTLDs yourself, A public suffix is also sometimes called an effective TLD (eTLD).
+
  * [20230408 internetDomainNames.md](20230408%20internetDomainNames.md)
  * [20230408 internetDomainNames.csv](20230408%20internetDomainNames.csv)
 
+## Telephony
+
+Zones:
+1. North American Numbering Plan (NANP)
+2. Mostly Africa
+3. Europe
+4. Europe
+5. South and Central Americas
+6. Southeast Asia and Oceania
+7. Russia and neighboring regions
+8. East Asia and special services
+9. Mostly Middle East, Central Asia and parts of southern Asia
+
+ISO 639-1 languages, capital and ISO 4217 currency codes, native name, calling codes.
